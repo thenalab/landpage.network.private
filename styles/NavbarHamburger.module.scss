@@ -1,0 +1,101 @@
+$hamburger-size: 48px;
+$transition-duration: 0.5s;
+
+.navbar {
+  position: fixed;
+  z-index: 2;
+  top: 32px;
+  left: 32px;
+  border-radius: 8px;
+  box-shadow: rgba(0, 0, 0, 0.32) 0px 4px 24px 0px;
+  background-color: rgba(89, 89, 89, 0.2);
+  border: 1px solid rgba(232, 38, 54, 0);
+  user-select: none;
+  overflow: hidden;
+  transition: all $transition-duration;
+}
+
+.navbarOpen {
+  width: 296px;
+  height: 567px;
+}
+
+.navbarClose {
+  width: $hamburger-size;
+  height: $hamburger-size;
+}
+
+.navbar [class="hamburgers"] {
+  padding: 10px;
+  position: absolute;
+  cursor: pointer;
+  width: $hamburger-size;
+  height: $hamburger-size;
+  border-radius: 5px;
+}
+
+.navbar [class="hamburger"] {
+  background-color: white;
+  width: 24px;
+  height: 2px;
+  transition: all $transition-duration;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.navbarOpen [class="hamburger"]:nth-child(1) {
+  transform: translate(-50%, -50%) rotate(45deg);
+}
+
+.navbarClose [class="hamburger"]:nth-child(1) {
+  transform: translate(-50%, -50%) translate(0, -8px);
+}
+
+.navbarOpen [class="hamburger"]:nth-child(2) {
+  opacity: 0;
+}
+
+.navbarClose [class="hamburger"]:nth-child(2) {
+  opacity: 1;
+}
+
+.navbarOpen [class="hamburger"]:nth-child(3) {
+  transform: translate(-50%, -50%) rotate(-45deg);
+}
+
+.navbarClose [class="hamburger"]:nth-child(3) {
+  transform: translate(-50%, -50%) rotate(0) translate(0, 8px);
+}
+
+//296 248
+
+.navbar [class="content"] {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  position: absolute;
+  top: 60px;
+  left: 24px;
+  width: max-content;
+}
+
+.navbar [class="content-item"] {
+  color: white;
+  font-size: 1.5rem;
+  padding: 16px 32px 16px 32px;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: all $transition-duration;
+  background: linear-gradient(98deg, var(--token-7776705e-7927-4289-92ee-90608ea1a8b3, rgb(30, 13, 31)) 0%, rgba(30, 13, 31, 0.2) 100%);
+  background: linear-gradient(98deg, var(--token-7776705e-7927-4289-92ee-90608ea1a8b3, rgb(30, 13, 31)) 0%, rgba(30, 13, 31, 0.2) 100%);
+}
+
+.navbarOpen [class="content-item"] {
+  opacity: 1;
+}
+
+.navbarClose [class="content-item"] {
+  opacity: 0;
+}

@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&family=Sniglet&display=swap');
+
+.card1 {
+  line-height: 1.4em;
+}
+
+.card1 [class="title"] {
+  font-family: "Inter-Light", "Inter", sans-serif;;
+  font-weight: 300;
+  font-size: 16px;
+  color: #cbcbc7;
+}
+
+.card1 [class="number"] {
+  font-family: "Sniglet", serif;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 38px;
+  color: #fffffd;
+  margin-top: 4px;
+}
+
+.card1 [class="gradient-wrapper"] {
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgba(255, 255, 255, 0) 19.0625%, rgba(255, 255, 255, 0.1) 48.2292%) repeat scroll 0% 0%;
+  border-radius: 9999px;
+  width: 119px;
+  height: 10px;
+  margin-top: 4px;
+}
+
+.card1 [class="gradient-red"] {
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgba(140, 55, 55, 0) 0%, rgb(245, 28, 80) 100%) repeat scroll 0% 0%;
+  height: 100%;
+}
+
+.card1 [class="gradient-green"] {
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgba(140, 55, 55, 0) 0%, rgb(28, 240, 202) 100%) repeat scroll 0% 0%;
+  height: 100%;
+}
+
+.card2 {
+  line-height: 1.4em;
+}
+
+.card2 {
+  margin-top: 20px;
+}
+
+.card2 [class="title"] {
+  font-family: "Inter-Light", "Inter", sans-serif;;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 22px;
+  color: #cbcbc7;
+}
+
+.card2 [class="card-wrapper"] {
+  margin-top: 10px;
+}
+
+.grid2 {
+  display: grid;
+  grid-template-columns: auto auto;
+  place-items: center;
+  column-gap: 15px;
+}
+
+.card2 [class="subtitle"] {
+  font-family: "Inter-Light", "Inter", sans-serif;
+  font-weight: 300;
+  color: #fffffd;
+  font-size: 12px;
+  margin-top: 5px;
+}
+
+.card2 [class="gradient-wrapper"] {
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgba(255, 255, 255, 0) 19.0625%, rgba(255, 255, 255, 0.1) 48.2292%) repeat scroll 0% 0%;
+  border-radius: 9999px;
+  width: 180px;
+  height: 10px;
+  margin-top: 4px;
+}
+
+.card2 [class="gradient-red"] {
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgba(140, 55, 55, 0) 0%, rgb(245, 28, 80) 100%) repeat scroll 0% 0%;
+  height: 100%;
+}
+
+.card2 [class="gradient-green"] {
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgba(140, 55, 55, 0) 0%, rgb(28, 240, 202) 100%) repeat scroll 0% 0%;
+  height: 100%;
+}
+
+.card3 {
+  margin-top: 20px;
+}
+
+.card3 [class="title"] {
+  font-family: "Inter-Light", "Inter", sans-serif;;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 22px;
+  color: #cbcbc7;
+}
+
+.card3 [class="card-wrapper"] {
+  margin-top: 10px;
+}
+
+.card3 [class="gradient-wrapper"] {
+  margin-top: 8px;
+}
+
+.card3 [class="gradient-red"] {
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgba(140, 55, 55, 0) 0%, rgb(245, 28, 80) 100%) repeat scroll 0% 0%;
+  height: 41px;
+}
+
+.card3 [class="gradient-green"] {
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgba(140, 55, 55, 0) 0%, rgb(28, 240, 202) 100%) repeat scroll 0% 0%;
+  height: 41px;
+}
+
+.flex {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}

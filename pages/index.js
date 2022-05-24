@@ -6,6 +6,7 @@ import NavbarHamburger from 'components/NavbarHamburger'
 import BackgroundVideo from 'components/BackgroundVideo'
 import Details from 'components/Details'
 import Chat from 'components/Chat'
+import Footer from 'components/Footer'
 
 export default function Home() {
   return (
@@ -20,6 +21,7 @@ export default function Home() {
         <NavbarHamburger />
         <Details />
         <Chat />
+        <Footer />
       </main>
       <footer>
       </footer>

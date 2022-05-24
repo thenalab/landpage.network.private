@@ -19,9 +19,7 @@ export default function Details() {
     )}>
       <div className='content'>
         <div className='arrow' onClick={toogle}>
-          <div className=''>
-            <img src={ArrowRight.src} alt='' />
-          </div>
+          <ArrowRight />
         </div>
         <div className='grid'>
           <Card1 title="Visitor right now" number="681,264" />

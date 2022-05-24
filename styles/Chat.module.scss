@@ -12,6 +12,10 @@
   cursor: pointer;
 }
 
+.chat div:nth-child(1) {
+  display: flex;
+}
+
 .chat [class*="chat"] {
   width: 30px;
   height: 30px;

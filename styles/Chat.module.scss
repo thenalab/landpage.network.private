@@ -1,0 +1,47 @@
+.chat {
+  position: fixed;
+  left: 50px;
+  bottom: 50px;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: rgba(gray, 0.5);
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.chat [class*="chat"] {
+  width: 30px;
+  height: 30px;
+  z-index: 1;
+  transition: all 0.5s;
+  color: white;
+}
+
+.chat:hover [class*="chat"] {
+  color: red;
+}
+
+.chat [class*="icon"] {
+  position: absolute;
+  transition: all 0.5s;
+  opacity: 0;
+}
+
+.chat:hover [class*="icon"] {
+  opacity: 1;
+}
+
+.chat:hover [class*="icon"]:nth-of-type(1) {
+  transform: translate(0, -80px);
+}
+
+.chat:hover [class*="icon"]:nth-of-type(2) {
+  transform: translate(75px, -80px);
+}
+
+.chat:hover [class*="icon"]:nth-of-type(3) {
+  transform: translate(80px, 0);
+}

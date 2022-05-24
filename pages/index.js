@@ -5,6 +5,7 @@ import * as styles from 'styles/Home.module.scss'
 import NavbarHamburger from 'components/NavbarHamburger'
 import BackgroundVideo from 'components/BackgroundVideo'
 import Details from 'components/Details'
+import Chat from 'components/Chat'
 
 export default function Home() {
   return (
@@ -18,6 +19,7 @@ export default function Home() {
         <BackgroundVideo />
         <NavbarHamburger />
         <Details />
+        <Chat />
       </main>
       <footer>
       </footer>

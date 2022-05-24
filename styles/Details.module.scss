@@ -2,7 +2,6 @@ $transition-duration: 0.5s;
 
 .details {
   position: fixed;
-  z-index: 2;
   top: 0;
   right: 0;
   display: flex;
@@ -15,7 +14,7 @@ $transition-duration: 0.5s;
   transform: translateX(-100%) translate(-24px, 10px);
 }
 
-.details [class="arrow"] img{
+.details [class="arrow"] img {
   width: 40px;
   height: 40px;
 }

@@ -10,7 +10,6 @@ import { Card1, Card2, Card3, COLORS } from './Card';
 import ArrowRight from 'assets/images/icons/arrow-right.svg';
 
 export default function Details() {
-  console.log(ArrowRight);
   const [isOpen, setIsOpen] = React.useState(true);
   const toogle = () => setIsOpen(pre => !pre);
   return (

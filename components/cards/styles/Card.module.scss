@@ -1,0 +1,67 @@
+.card {
+  position: fixed;
+  --spaceX: 6rem;
+  --spaceY: 2rem;
+  left: var(--spaceX);
+  right: var(--spaceX);
+  top: var(--spaceY);
+  bottom: var(--spaceY);
+  border: 3px solid rgb(33, 196, 205);
+  border-radius: 1.3rem;
+  transition: all 0.5s;
+}
+
+.cardHidden {
+  scale: 0;
+  opacity: 0;
+}
+
+.cardShow {
+  scale: 1;
+  opacity: 1;
+}
+
+.cardInner {
+  position: absolute;
+  --space: 0.2rem;
+  left: var(--space);
+  right: var(--space);
+  top: var(--space);
+  bottom: var(--space);
+  border: 3px solid rgb(33, 196, 205);
+  border-radius: 1rem;
+}
+
+.closeIcon {
+  position: absolute;
+  --space: 1rem;
+  top: var(--space);
+  right: var(--space);
+  width: 48px;
+  height: 48px;
+  background-color: rgba(gray, 0.2);
+  border-radius: 9999px;
+  display: grid;
+  place-items: center;
+  cursor: pointer;
+}
+
+.closeIcon svg {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 30px;
+  height: 30px;
+  transition: all 0.3s;
+  color: white;
+  &:hover {
+    transform: translate(-50%, -50%) scale(1.2);
+    color: red;
+  }
+}
+
+.closeIcon:hover svg {
+  transform: translate(-50%, -50%) scale(1.2);
+  color: red;
+}

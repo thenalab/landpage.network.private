@@ -3,7 +3,6 @@ import * as styles from 'styles/Footer.module.scss'
 import Logo from 'assets/images/logos/thena.png';
 
 export default function Footer() {
-  console.log(Logo);
   return (
     <div className={styles.footer}>
       <img className='img' src={Logo.src} alt='' />

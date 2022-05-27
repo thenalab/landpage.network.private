@@ -8,12 +8,14 @@ export default function Card({ cardProps, setCardPropsAndOpen }) {
   return (
     <div className={classNames(styles.card, cardProps.tab ? styles.cardShow : styles.cardHidden)}>
       <div className={styles.cardInner}>
-        <SimpleBar style={{ height: '100%' }}>
+        <SimpleBar className={styles.simpleBar}>
           <div className={styles.content}>
             <div className={styles.textLarge}>{cardProps.textLarge}</div>
             <div className={styles.horizontalLine}></div>
             <div className={styles.textSmall}>{cardProps.textSmall}</div>
-            {cardProps.tab}
+            <div className={styles.cardBody}>
+              {cardProps.tab}
+            </div>
           </div>
         </SimpleBar>
       </div>

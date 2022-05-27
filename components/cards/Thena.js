@@ -1,6 +1,6 @@
-import React from 'react'
+import React from 'react';
 import 'simplebar-react/dist/simplebar.min.css';
-import * as styles from './styles/Thena.module.scss'
+import * as styles from './styles/Thena.module.scss';
 import Phase1 from 'assets/images/phases/phase1.svg';
 import Phase2 from 'assets/images/phases/phase2.svg';
 import Phase3 from 'assets/images/phases/phase3.svg';

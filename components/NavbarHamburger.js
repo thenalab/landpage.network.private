@@ -6,23 +6,62 @@ import Thena from './cards/Thena';
 import Smart from './cards/Smart';
 import Team from './cards/Team';
 import Advision from './cards/Advision';
-import Partership from './cards/Partership';
+import Partnership from './cards/Partnership';
 import Contact from './cards/Contact';
+
+const navbarData = [
+  {
+    navText: 'Thena Blockchain',
+    textLarge: 'Thena Blockchain',
+    textSmall: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry.',
+    tab: <Thena />,
+  },
+  {
+    navText: 'Smart Blockchain',
+    textLarge: 'Smart Blockchain',
+    textSmall: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry.',
+    tab: <Smart />,
+  },
+  {
+    navText: 'Team',
+    textLarge: 'Team',
+    textSmall: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry.',
+    tab: <Team />,
+  },
+  {
+    navText: 'Advision',
+    textLarge: 'Advision',
+    textSmall: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry.',
+    tab: <Advision />,
+  },
+  {
+    navText: 'Partnership',
+    textLarge: 'Partnership',
+    textSmall: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry.',
+    tab: <Partnership />,
+  },
+  {
+    navText: 'Contact us',
+    textLarge: 'Contact us',
+    textSmall: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry.',
+    tab: <Contact />,
+  },
+]
 
 export default function NavbarHamburger() {
   const [isOpen, setIsOpen] = React.useState(true);
-  const [tab, setTab] = React.useState(null);
+  const [cardProps, setCardProps] = React.useState({});
   const toogle = () => setIsOpen(pre => !pre);
-  const setTabAndClose = (tab) => {
-    setTab(tab);
+  const setCardPropsAndClose = (cardProps) => {    
+    setCardProps(cardProps);
     setIsOpen(false);
   }
-  const setTabAndOpen = (tab) => {
-    setTab(tab);
+  const setCardPropsAndOpen = (cardProps) => {
+    setCardProps(cardProps);
     setIsOpen(true);
   }
   React.useEffect(() => {
-    if(isOpen) setTab(null);
+    if(isOpen) setCardProps({});
   }, [isOpen])
   return (
     <div className={classNames(
@@ -35,14 +74,13 @@ export default function NavbarHamburger() {
         <div className='hamburger'></div>
       </div>
       <div className='content'>
-        <div className='content-item' onClick={() => setTabAndClose(<Thena />)}>Thena Blockchain</div>
-        <div className='content-item' onClick={() => setTabAndClose(<Smart />)}>Smart Blockchain</div>
-        <div className='content-item' onClick={() => setTabAndClose(<Team />)}>Team</div>
-        <div className='content-item' onClick={() => setTabAndClose(<Advision />)}>Advision</div>
-        <div className='content-item' onClick={() => setTabAndClose(<Partership />)}>Partnership</div>
-        <div className='content-item' onClick={() => setTabAndClose(<Contact />)}>Contact us</div>
+        {
+          navbarData.map(({ navText, ...rest }) => (
+            <div key={navText} className='content-item' onClick={() => setCardPropsAndClose(rest)}>{navText}</div>
+          ))
+        }
       </div>
-      <Card tab={tab} setTabAndOpen={setTabAndOpen} />
+      <Card cardProps={cardProps} setCardPropsAndOpen={setCardPropsAndOpen} />
     </div>
   )
 }

@@ -1,7 +1,6 @@
 import React from 'react'
+import Thena from './Thena'
 
 export default function Smart() {
-  return (
-    <div>Smart</div>
-  )
+  return <Thena />
 }

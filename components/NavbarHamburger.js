@@ -42,8 +42,8 @@ const navbarData = [
   },
   {
     navText: 'Contact us',
-    textLarge: 'Contact us',
-    textSmall: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry.',
+    textLarge: 'Get in Touch',
+    textSmall: '',
     tab: <Contact />,
   },
 ]

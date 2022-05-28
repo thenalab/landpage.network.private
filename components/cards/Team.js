@@ -1,29 +1,28 @@
 import React from 'react'
 import * as styles from './styles/Team.module.scss';
 import Profile1 from 'assets/images/profiles/1.webp';
+import Profile2 from 'assets/images/profiles/2.webp';
+import Profile3 from 'assets/images/profiles/3.webp';
+import Profile4 from 'assets/images/profiles/4.webp';
+import Profile5 from 'assets/images/profiles/5.webp';
+import Profile6 from 'assets/images/profiles/6.webp';
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
 import "swiper/css/free-mode";
-import "swiper/css/pagination";
-// import "./styles.css";
-import { FreeMode, Pagination } from "swiper";
+import { FreeMode } from "swiper";
 
-const ProfileCard = () => {
+const ProfileCard = ({ imgSrc, name, job }) => {
   return (
     <div className={styles.card}>
       <div className={styles.above}>
         <div className={styles.imgRelative}>
           <div className={styles.imgAbsolute}>
-            <img src={Profile1.src} alt='' />
+            <img src={imgSrc} alt='' />
           </div>
         </div>
         <div className={styles.right}>
-          <div className={styles.name}>
-            Nhu Thuy
-          </div>
-          <div className={styles.job}>
-            CEO
-          </div>
+          <div className={styles.name}>{name}a</div>
+          <div className={styles.job}>{job}</div>
         </div>
       </div>
       <div className={styles.description}>
@@ -33,23 +32,54 @@ const ProfileCard = () => {
   )
 }
 
+const cardData = [
+  {
+    imgSrc: Profile1.src,
+    name: 'Nhu Thuy',
+    job: 'CEO'
+  },
+  {
+    imgSrc: Profile2.src,
+    name: 'Nhu Thuy',
+    job: 'CEO'
+  },
+  {
+    imgSrc: Profile3.src,
+    name: 'Nhu Thuy',
+    job: 'CEO'
+  },
+  {
+    imgSrc: Profile4.src,
+    name: 'Nhu Thuy',
+    job: 'CEO'
+  },
+  {
+    imgSrc: Profile5.src,
+    name: 'Nhu Thuy',
+    job: 'CEO'
+  },
+  {
+    imgSrc: Profile6.src,
+    name: 'Nhu Thuy',
+    job: 'CEO'
+  },
+]
+
 export default function Team() {
   return (
     <div className={styles.team}>
       <div className={styles.cardContainer}>
-        <ProfileCard />
-        <ProfileCard />
-        <ProfileCard />
-        <ProfileCard />
-        <ProfileCard />
-        <ProfileCard />
-        <ProfileCard />
-        <ProfileCard />
-        <ProfileCard />
-        <ProfileCard />
-        <ProfileCard />
-        <ProfileCard />
-        <ProfileCard />
+        <Swiper
+          slidesPerView={3}
+          spaceBetween={20}
+          freeMode={true}
+          modules={[FreeMode]}
+          className="mySwiper"
+        >
+          {
+            cardData.map((card, index) => <SwiperSlide key={index}><ProfileCard {...card} /></SwiperSlide>)
+          }
+        </Swiper>
       </div>
     </div>
   )

@@ -1,0 +1,89 @@
+.team {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+
+  .cardContainer {
+    width: 100%;
+    height: 200px;
+
+    [class*="mySwiper"] {
+      width: 311px;
+      height: 100%;
+      overflow: visible;
+
+      [class*="swiper-slide"] {
+        display: flex;
+        justify-content: center;
+        .card {
+          background: rgba(0, 0, 0, 0) linear-gradient(296deg, rgba(0, 0, 0, 0.5) 0%, rgb(0, 0, 0) 100%) repeat scroll 0% 0%;
+          border-radius: 12px;
+          width: 311px;
+          height: 100%;
+          padding: 50px 50px 20px 20px;
+          display: flex;
+          flex-direction: column;
+          gap: 20px;
+
+          .above {
+            display: flex;
+            align-items: flex-end;
+            gap: 15px;
+
+            .imgRelative {
+              width: 99px;
+              height: 60px;
+              position: relative;
+
+              .imgAbsolute {
+                position: absolute;
+                width: 100%;
+                height: 140px;
+                bottom: 0;
+                border-radius: 15px;
+                overflow: hidden;
+
+                img {
+                  width: 100%;
+                  height: 100%;
+                  object-fit: cover;
+                  transition: all 0.5s;
+                  cursor: pointer;
+
+                  &:hover {
+                    transform: scale(1.3);
+                  }
+                }
+              }
+            }
+
+            .right {
+              display: flex;
+              flex-direction: column;
+              gap: 8px;
+
+              .name {
+                font-weight: 400;
+                color: rgb(56, 194, 171);
+                font-size: 22px;
+              }
+
+              .job {
+                font-weight: 300;
+                color: #fffffd;
+                font-size: 12px;
+              }
+            }
+          }
+
+          .description {
+            font-weight: 300;
+            color: #fffffd;
+            font-size: 12px;
+          }
+        }
+      }
+    }
+  }
+}

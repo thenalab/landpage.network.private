@@ -9,7 +9,8 @@ import Profile6 from 'assets/images/profiles/6.webp';
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
 import "swiper/css/free-mode";
-import { FreeMode } from "swiper";
+import { EffectCoverflow } from "swiper";
+import "swiper/css/effect-coverflow";
 
 const ProfileCard = ({ imgSrc, name, job }) => {
   return (
@@ -70,10 +71,17 @@ export default function Team() {
     <div className={styles.team}>
       <div className={styles.cardContainer}>
         <Swiper
-          slidesPerView={3}
-          spaceBetween={20}
+          grabCursor={true}
           freeMode={true}
-          modules={[FreeMode]}
+          effect={"coverflow"}
+          coverflowEffect={{
+            rotate: 0,
+            stretch: 0,
+            depth: 100,
+            modifier: 0,
+            slideShadows: true,
+          }}
+          modules={[EffectCoverflow]}
           className="mySwiper"
         >
           {

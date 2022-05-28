@@ -23,7 +23,11 @@
 
     .simpleBar {
       height: 100%;
+      width: 100%;
       display: flex;
+      // Apply scroll vertically only
+      overflow-x: hidden;
+
       [class="simplebar-content-wrapper"] {
         [class="simplebar-content"] {
           min-height: 100%;

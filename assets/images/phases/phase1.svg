@@ -1,0 +1,1435 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 691 530" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <clipPath id="__lottie_element_1531">
+      <rect width="691" height="530" x="0" y="0"></rect>
+    </clipPath>
+    <linearGradient id="__lottie_element_1535" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="0" y1="-29"
+      x2="0.25" y2="35.25">
+      <stop offset="0%" stop-color="rgb(150,242,240)"></stop>
+      <stop offset="50%" stop-color="rgb(202,249,248)"></stop>
+      <stop offset="100%" stop-color="rgb(255,255,255)"></stop>
+    </linearGradient>
+    <mask id="__lottie_element_1537">
+      <path fill="url(#__lottie_element_1536)"
+        d=" M0.5860000252723694,-32.57400131225586 C1.5959999561309814,-32.834999084472656 2.3429999351501465,-33.75199890136719 2.3429999351501465,-34.84299850463867 C2.3429999351501465,-36.137001037597656 1.2940000295639038,-37.185001373291016 -0.0010000000474974513,-37.185001373291016 C-1.2940000295639038,-37.185001373291016 -2.3429999351501465,-36.137001037597656 -2.3429999351501465,-34.84299850463867 C-2.3429999351501465,-33.75199890136719 -1.597000002861023,-32.834999084472656 -0.5860000252723694,-32.57400131225586 C-0.5860000252723694,-32.57400131225586 -0.5860000252723694,37.185001373291016 -0.5860000252723694,37.185001373291016 C-0.5860000252723694,37.185001373291016 0.5860000252723694,37.185001373291016 0.5860000252723694,37.185001373291016 C0.5860000252723694,37.185001373291016 0.5860000252723694,-32.57400131225586 0.5860000252723694,-32.57400131225586z">
+      </path>
+    </mask>
+    <linearGradient id="__lottie_element_1536" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="0" y1="-29"
+      x2="0.25" y2="35.25">
+      <stop stop-color="rgb(255,255,255)" offset="0%" stop-opacity="1"></stop>
+      <stop stop-color="rgb(255,255,255)" offset="47%" stop-opacity="0.5"></stop>
+      <stop stop-color="rgb(255,255,255)" offset="100%" stop-opacity="0"></stop>
+    </linearGradient>
+    <linearGradient id="__lottie_element_1541" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="0" y1="-29"
+      x2="0.25" y2="35.25">
+      <stop offset="0%" stop-color="rgb(150,242,240)"></stop>
+      <stop offset="50%" stop-color="rgb(202,249,248)"></stop>
+      <stop offset="100%" stop-color="rgb(255,255,255)"></stop>
+    </linearGradient>
+    <mask id="__lottie_element_1543">
+      <path fill="url(#__lottie_element_1542)"
+        d=" M0.5860000252723694,-32.57400131225586 C1.5959999561309814,-32.834999084472656 2.3429999351501465,-33.75199890136719 2.3429999351501465,-34.84299850463867 C2.3429999351501465,-36.137001037597656 1.2940000295639038,-37.185001373291016 -0.0010000000474974513,-37.185001373291016 C-1.2940000295639038,-37.185001373291016 -2.3429999351501465,-36.137001037597656 -2.3429999351501465,-34.84299850463867 C-2.3429999351501465,-33.75199890136719 -1.597000002861023,-32.834999084472656 -0.5860000252723694,-32.57400131225586 C-0.5860000252723694,-32.57400131225586 -0.5860000252723694,37.185001373291016 -0.5860000252723694,37.185001373291016 C-0.5860000252723694,37.185001373291016 0.5860000252723694,37.185001373291016 0.5860000252723694,37.185001373291016 C0.5860000252723694,37.185001373291016 0.5860000252723694,-32.57400131225586 0.5860000252723694,-32.57400131225586z">
+      </path>
+    </mask>
+    <linearGradient id="__lottie_element_1542" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="0" y1="-29"
+      x2="0.25" y2="35.25">
+      <stop stop-color="rgb(255,255,255)" offset="0%" stop-opacity="1"></stop>
+      <stop stop-color="rgb(255,255,255)" offset="47%" stop-opacity="0.5"></stop>
+      <stop stop-color="rgb(255,255,255)" offset="100%" stop-opacity="0"></stop>
+    </linearGradient>
+    <linearGradient id="__lottie_element_1547" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="0" y1="-29"
+      x2="0.25" y2="35.25">
+      <stop offset="0%" stop-color="rgb(150,242,240)"></stop>
+      <stop offset="50%" stop-color="rgb(202,249,248)"></stop>
+      <stop offset="100%" stop-color="rgb(255,255,255)"></stop>
+    </linearGradient>
+    <mask id="__lottie_element_1549">
+      <path fill="url(#__lottie_element_1548)"
+        d=" M0.5860000252723694,-32.57400131225586 C1.5959999561309814,-32.834999084472656 2.3429999351501465,-33.75199890136719 2.3429999351501465,-34.84299850463867 C2.3429999351501465,-36.137001037597656 1.2940000295639038,-37.185001373291016 -0.0010000000474974513,-37.185001373291016 C-1.2940000295639038,-37.185001373291016 -2.3429999351501465,-36.137001037597656 -2.3429999351501465,-34.84299850463867 C-2.3429999351501465,-33.75199890136719 -1.597000002861023,-32.834999084472656 -0.5860000252723694,-32.57400131225586 C-0.5860000252723694,-32.57400131225586 -0.5860000252723694,37.185001373291016 -0.5860000252723694,37.185001373291016 C-0.5860000252723694,37.185001373291016 0.5860000252723694,37.185001373291016 0.5860000252723694,37.185001373291016 C0.5860000252723694,37.185001373291016 0.5860000252723694,-32.57400131225586 0.5860000252723694,-32.57400131225586z">
+      </path>
+    </mask>
+    <linearGradient id="__lottie_element_1548" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="0" y1="-29"
+      x2="0.25" y2="35.25">
+      <stop stop-color="rgb(255,255,255)" offset="0%" stop-opacity="1"></stop>
+      <stop stop-color="rgb(255,255,255)" offset="47%" stop-opacity="0.5"></stop>
+      <stop stop-color="rgb(255,255,255)" offset="100%" stop-opacity="0"></stop>
+    </linearGradient>
+    <linearGradient id="__lottie_element_1553" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="0" y1="-29"
+      x2="0.25" y2="35.25">
+      <stop offset="0%" stop-color="rgb(150,242,240)"></stop>
+      <stop offset="50%" stop-color="rgb(202,249,248)"></stop>
+      <stop offset="100%" stop-color="rgb(255,255,255)"></stop>
+    </linearGradient>
+    <mask id="__lottie_element_1555">
+      <path fill="url(#__lottie_element_1554)"
+        d=" M0.5860000252723694,-32.57400131225586 C1.5959999561309814,-32.834999084472656 2.3429999351501465,-33.75199890136719 2.3429999351501465,-34.84299850463867 C2.3429999351501465,-36.137001037597656 1.2940000295639038,-37.185001373291016 -0.0010000000474974513,-37.185001373291016 C-1.2940000295639038,-37.185001373291016 -2.3429999351501465,-36.137001037597656 -2.3429999351501465,-34.84299850463867 C-2.3429999351501465,-33.75199890136719 -1.597000002861023,-32.834999084472656 -0.5860000252723694,-32.57400131225586 C-0.5860000252723694,-32.57400131225586 -0.5860000252723694,37.185001373291016 -0.5860000252723694,37.185001373291016 C-0.5860000252723694,37.185001373291016 0.5860000252723694,37.185001373291016 0.5860000252723694,37.185001373291016 C0.5860000252723694,37.185001373291016 0.5860000252723694,-32.57400131225586 0.5860000252723694,-32.57400131225586z">
+      </path>
+    </mask>
+    <linearGradient id="__lottie_element_1554" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="0" y1="-29"
+      x2="0.25" y2="35.25">
+      <stop stop-color="rgb(255,255,255)" offset="0%" stop-opacity="1"></stop>
+      <stop stop-color="rgb(255,255,255)" offset="47%" stop-opacity="0.5"></stop>
+      <stop stop-color="rgb(255,255,255)" offset="100%" stop-opacity="0"></stop>
+    </linearGradient>
+    <linearGradient id="__lottie_element_1559" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="0" y1="-29"
+      x2="0.25" y2="35.25">
+      <stop offset="0%" stop-color="rgb(150,242,240)"></stop>
+      <stop offset="50%" stop-color="rgb(202,249,248)"></stop>
+      <stop offset="100%" stop-color="rgb(255,255,255)"></stop>
+    </linearGradient>
+    <mask id="__lottie_element_1561">
+      <path fill="url(#__lottie_element_1560)"
+        d=" M0.5860000252723694,-32.57400131225586 C1.5959999561309814,-32.834999084472656 2.3429999351501465,-33.75199890136719 2.3429999351501465,-34.84299850463867 C2.3429999351501465,-36.137001037597656 1.2940000295639038,-37.185001373291016 -0.0010000000474974513,-37.185001373291016 C-1.2940000295639038,-37.185001373291016 -2.3429999351501465,-36.137001037597656 -2.3429999351501465,-34.84299850463867 C-2.3429999351501465,-33.75199890136719 -1.597000002861023,-32.834999084472656 -0.5860000252723694,-32.57400131225586 C-0.5860000252723694,-32.57400131225586 -0.5860000252723694,37.185001373291016 -0.5860000252723694,37.185001373291016 C-0.5860000252723694,37.185001373291016 0.5860000252723694,37.185001373291016 0.5860000252723694,37.185001373291016 C0.5860000252723694,37.185001373291016 0.5860000252723694,-32.57400131225586 0.5860000252723694,-32.57400131225586z">
+      </path>
+    </mask>
+    <linearGradient id="__lottie_element_1560" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="0" y1="-29"
+      x2="0.25" y2="35.25">
+      <stop stop-color="rgb(255,255,255)" offset="0%" stop-opacity="1"></stop>
+      <stop stop-color="rgb(255,255,255)" offset="47%" stop-opacity="0.5"></stop>
+      <stop stop-color="rgb(255,255,255)" offset="100%" stop-opacity="0"></stop>
+    </linearGradient>
+    <linearGradient id="__lottie_element_1565" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="0" y1="-29"
+      x2="0.25" y2="35.25">
+      <stop offset="0%" stop-color="rgb(150,242,240)"></stop>
+      <stop offset="50%" stop-color="rgb(202,249,248)"></stop>
+      <stop offset="100%" stop-color="rgb(255,255,255)"></stop>
+    </linearGradient>
+    <mask id="__lottie_element_1567">
+      <path fill="url(#__lottie_element_1566)"
+        d=" M0.5860000252723694,-32.57400131225586 C1.5959999561309814,-32.834999084472656 2.3429999351501465,-33.75199890136719 2.3429999351501465,-34.84299850463867 C2.3429999351501465,-36.137001037597656 1.2940000295639038,-37.185001373291016 -0.0010000000474974513,-37.185001373291016 C-1.2940000295639038,-37.185001373291016 -2.3429999351501465,-36.137001037597656 -2.3429999351501465,-34.84299850463867 C-2.3429999351501465,-33.75199890136719 -1.597000002861023,-32.834999084472656 -0.5860000252723694,-32.57400131225586 C-0.5860000252723694,-32.57400131225586 -0.5860000252723694,37.185001373291016 -0.5860000252723694,37.185001373291016 C-0.5860000252723694,37.185001373291016 0.5860000252723694,37.185001373291016 0.5860000252723694,37.185001373291016 C0.5860000252723694,37.185001373291016 0.5860000252723694,-32.57400131225586 0.5860000252723694,-32.57400131225586z">
+      </path>
+    </mask>
+    <linearGradient id="__lottie_element_1566" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="0" y1="-29"
+      x2="0.25" y2="35.25">
+      <stop stop-color="rgb(255,255,255)" offset="0%" stop-opacity="1"></stop>
+      <stop stop-color="rgb(255,255,255)" offset="47%" stop-opacity="0.5"></stop>
+      <stop stop-color="rgb(255,255,255)" offset="100%" stop-opacity="0"></stop>
+    </linearGradient>
+    <linearGradient id="__lottie_element_1571" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="0" y1="-29"
+      x2="0.25" y2="35.25">
+      <stop offset="0%" stop-color="rgb(150,242,240)"></stop>
+      <stop offset="50%" stop-color="rgb(202,249,248)"></stop>
+      <stop offset="100%" stop-color="rgb(255,255,255)"></stop>
+    </linearGradient>
+    <mask id="__lottie_element_1573">
+      <path fill="url(#__lottie_element_1572)"
+        d=" M0.5860000252723694,-32.57400131225586 C1.5959999561309814,-32.834999084472656 2.3429999351501465,-33.75199890136719 2.3429999351501465,-34.84299850463867 C2.3429999351501465,-36.137001037597656 1.2940000295639038,-37.185001373291016 -0.0010000000474974513,-37.185001373291016 C-1.2940000295639038,-37.185001373291016 -2.3429999351501465,-36.137001037597656 -2.3429999351501465,-34.84299850463867 C-2.3429999351501465,-33.75199890136719 -1.597000002861023,-32.834999084472656 -0.5860000252723694,-32.57400131225586 C-0.5860000252723694,-32.57400131225586 -0.5860000252723694,37.185001373291016 -0.5860000252723694,37.185001373291016 C-0.5860000252723694,37.185001373291016 0.5860000252723694,37.185001373291016 0.5860000252723694,37.185001373291016 C0.5860000252723694,37.185001373291016 0.5860000252723694,-32.57400131225586 0.5860000252723694,-32.57400131225586z">
+      </path>
+    </mask>
+    <linearGradient id="__lottie_element_1572" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="0" y1="-29"
+      x2="0.25" y2="35.25">
+      <stop stop-color="rgb(255,255,255)" offset="0%" stop-opacity="1"></stop>
+      <stop stop-color="rgb(255,255,255)" offset="47%" stop-opacity="0.5"></stop>
+      <stop stop-color="rgb(255,255,255)" offset="100%" stop-opacity="0"></stop>
+    </linearGradient>
+    <linearGradient id="__lottie_element_1577" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="0" y1="-29"
+      x2="0.25" y2="35.25">
+      <stop offset="0%" stop-color="rgb(150,242,240)"></stop>
+      <stop offset="50%" stop-color="rgb(202,249,248)"></stop>
+      <stop offset="100%" stop-color="rgb(255,255,255)"></stop>
+    </linearGradient>
+    <mask id="__lottie_element_1579">
+      <path fill="url(#__lottie_element_1578)"
+        d=" M0.5860000252723694,-32.57400131225586 C1.5959999561309814,-32.834999084472656 2.3429999351501465,-33.75199890136719 2.3429999351501465,-34.84299850463867 C2.3429999351501465,-36.137001037597656 1.2940000295639038,-37.185001373291016 -0.0010000000474974513,-37.185001373291016 C-1.2940000295639038,-37.185001373291016 -2.3429999351501465,-36.137001037597656 -2.3429999351501465,-34.84299850463867 C-2.3429999351501465,-33.75199890136719 -1.597000002861023,-32.834999084472656 -0.5860000252723694,-32.57400131225586 C-0.5860000252723694,-32.57400131225586 -0.5860000252723694,37.185001373291016 -0.5860000252723694,37.185001373291016 C-0.5860000252723694,37.185001373291016 0.5860000252723694,37.185001373291016 0.5860000252723694,37.185001373291016 C0.5860000252723694,37.185001373291016 0.5860000252723694,-32.57400131225586 0.5860000252723694,-32.57400131225586z">
+      </path>
+    </mask>
+    <linearGradient id="__lottie_element_1578" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="0" y1="-29"
+      x2="0.25" y2="35.25">
+      <stop stop-color="rgb(255,255,255)" offset="0%" stop-opacity="1"></stop>
+      <stop stop-color="rgb(255,255,255)" offset="47%" stop-opacity="0.5"></stop>
+      <stop stop-color="rgb(255,255,255)" offset="100%" stop-opacity="0"></stop>
+    </linearGradient>
+    <radialGradient id="__lottie_element_1584" spreadMethod="pad" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="100"
+      fx="0" fy="0">
+      <stop offset="36%" stop-color="rgb(41,80,115)"></stop>
+      <stop offset="66%" stop-color="rgb(41,80,115)"></stop>
+      <stop offset="96%" stop-color="rgb(41,80,115)"></stop>
+    </radialGradient>
+    <mask id="__lottie_element_1586">
+      <path fill="url(#__lottie_element_1585)"
+        d=" M0,-96 C52.982398986816406,-96 96,-52.982398986816406 96,0 C96,52.982398986816406 52.982398986816406,96 0,96 C-52.982398986816406,96 -96,52.982398986816406 -96,0 C-96,-52.982398986816406 -52.982398986816406,-96 0,-96z">
+      </path>
+    </mask>
+    <radialGradient id="__lottie_element_1585" spreadMethod="pad" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="100"
+      fx="0" fy="0">
+      <stop stop-color="rgb(255,255,255)" offset="34%" stop-opacity="1"></stop>
+      <stop stop-color="rgb(255,255,255)" offset="63%" stop-opacity="0.5"></stop>
+      <stop stop-color="rgb(255,255,255)" offset="96%" stop-opacity="0"></stop>
+    </radialGradient>
+    <linearGradient id="__lottie_element_1589" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="0" y1="103" x2="0"
+      y2="-92">
+      <stop offset="0%" stop-color="rgb(198,255,255)"></stop>
+      <stop offset="50%" stop-color="rgb(194,255,255)"></stop>
+      <stop offset="100%" stop-color="rgb(189,255,255)"></stop>
+    </linearGradient>
+    <mask id="__lottie_element_1591">
+      <path fill="url(#__lottie_element_1590)"
+        d=" M-54.321998596191406,83.29299926757812 C-54.321998596191406,83.29299926757812 -54.321998596191406,-83.29299926757812 -54.321998596191406,-83.29299926757812 C-54.321998596191406,-99.29399871826172 -30.00200080871582,-112.26499938964844 0,-112.26499938964844 C30.000999450683594,-112.26499938964844 54.321998596191406,-99.29399871826172 54.321998596191406,-83.29299926757812 C54.321998596191406,-83.29299926757812 54.321998596191406,83.29299926757812 54.321998596191406,83.29299926757812 C54.321998596191406,99.29299926757812 30.000999450683594,112.26399993896484 0,112.26399993896484 C-30.00200080871582,112.26399993896484 -54.321998596191406,99.29299926757812 -54.321998596191406,83.29299926757812z">
+      </path>
+    </mask>
+    <linearGradient id="__lottie_element_1590" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="0" y1="103" x2="0"
+      y2="-92">
+      <stop stop-color="rgb(255,255,255)" offset="0%" stop-opacity="1"></stop>
+      <stop stop-color="rgb(255,255,255)" offset="47%" stop-opacity="0.5"></stop>
+      <stop stop-color="rgb(255,255,255)" offset="100%" stop-opacity="0"></stop>
+    </linearGradient>
+    <linearGradient id="__lottie_element_1595" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="-41.25" y1="-0.25"
+      x2="42.25" y2="1">
+      <stop offset="0%" stop-color="rgb(255,87,81)"></stop>
+      <stop offset="50%" stop-color="rgb(238,44,41)"></stop>
+      <stop offset="100%" stop-color="rgb(221,0,0)"></stop>
+    </linearGradient>
+    <linearGradient id="__lottie_element_1596" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="-0.25" y1="-19.75"
+      x2="2.25" y2="21.75">
+      <stop offset="0%" stop-color="rgb(255,255,255)"></stop>
+      <stop offset="50%" stop-color="rgb(238,238,238)"></stop>
+      <stop offset="100%" stop-color="rgb(221,221,221)"></stop>
+    </linearGradient>
+    <linearGradient id="__lottie_element_1600" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="-41.25" y1="-0.25"
+      x2="42.25" y2="1">
+      <stop offset="0%" stop-color="rgb(255,87,81)"></stop>
+      <stop offset="50%" stop-color="rgb(238,44,41)"></stop>
+      <stop offset="100%" stop-color="rgb(221,0,0)"></stop>
+    </linearGradient>
+    <linearGradient id="__lottie_element_1601" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="-0.25" y1="-19.75"
+      x2="2.25" y2="21.75">
+      <stop offset="0%" stop-color="rgb(255,255,255)"></stop>
+      <stop offset="50%" stop-color="rgb(238,238,238)"></stop>
+      <stop offset="100%" stop-color="rgb(221,221,221)"></stop>
+    </linearGradient>
+    <linearGradient id="__lottie_element_1605" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="-41.25" y1="-0.25"
+      x2="42.25" y2="1">
+      <stop offset="0%" stop-color="rgb(255,87,81)"></stop>
+      <stop offset="50%" stop-color="rgb(238,44,41)"></stop>
+      <stop offset="100%" stop-color="rgb(221,0,0)"></stop>
+    </linearGradient>
+    <linearGradient id="__lottie_element_1606" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="-0.25" y1="-19.75"
+      x2="2.25" y2="21.75">
+      <stop offset="0%" stop-color="rgb(255,255,255)"></stop>
+      <stop offset="50%" stop-color="rgb(238,238,238)"></stop>
+      <stop offset="100%" stop-color="rgb(221,221,221)"></stop>
+    </linearGradient>
+    <linearGradient id="__lottie_element_1610" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="-55.5" y1="0"
+      x2="57.5" y2="0">
+      <stop offset="0%" stop-color="rgb(196,234,235)"></stop>
+      <stop offset="5%" stop-color="rgb(165,226,229)"></stop>
+      <stop offset="11%" stop-color="rgb(135,219,223)"></stop>
+      <stop offset="27%" stop-color="rgb(68,218,224)"></stop>
+      <stop offset="43%" stop-color="rgb(0,217,226)"></stop>
+      <stop offset="47%" stop-color="rgb(14,224,232)"></stop>
+      <stop offset="50%" stop-color="rgb(27,231,238)"></stop>
+      <stop offset="54%" stop-color="rgb(68,224,231)"></stop>
+      <stop offset="58%" stop-color="rgb(109,218,224)"></stop>
+      <stop offset="75%" stop-color="rgb(87,205,210)"></stop>
+      <stop offset="92%" stop-color="rgb(66,191,197)"></stop>
+      <stop offset="96%" stop-color="rgb(100,204,209)"></stop>
+      <stop offset="100%" stop-color="rgb(134,217,221)"></stop>
+    </linearGradient>
+    <linearGradient id="__lottie_element_1611" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="0" y1="-31" x2="1"
+      y2="26">
+      <stop offset="0%" stop-color="rgb(255,255,255)"></stop>
+      <stop offset="50%" stop-color="rgb(238,238,238)"></stop>
+      <stop offset="100%" stop-color="rgb(221,221,221)"></stop>
+    </linearGradient>
+    <radialGradient id="__lottie_element_1615" spreadMethod="pad" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="100"
+      fx="0" fy="0">
+      <stop offset="36%" stop-color="rgb(41,80,115)"></stop>
+      <stop offset="66%" stop-color="rgb(41,80,115)"></stop>
+      <stop offset="96%" stop-color="rgb(41,80,115)"></stop>
+    </radialGradient>
+    <mask id="__lottie_element_1617">
+      <path fill="url(#__lottie_element_1616)"
+        d=" M0,-96 C52.982398986816406,-96 96,-52.982398986816406 96,0 C96,52.982398986816406 52.982398986816406,96 0,96 C-52.982398986816406,96 -96,52.982398986816406 -96,0 C-96,-52.982398986816406 -52.982398986816406,-96 0,-96z">
+      </path>
+    </mask>
+    <radialGradient id="__lottie_element_1616" spreadMethod="pad" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="100"
+      fx="0" fy="0">
+      <stop stop-color="rgb(255,255,255)" offset="34%" stop-opacity="1"></stop>
+      <stop stop-color="rgb(255,255,255)" offset="63%" stop-opacity="0.5"></stop>
+      <stop stop-color="rgb(255,255,255)" offset="96%" stop-opacity="0"></stop>
+    </radialGradient>
+    <linearGradient id="__lottie_element_1621" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="-80.5" y1="0"
+      x2="81" y2="0">
+      <stop offset="0%" stop-color="rgb(196,234,235)"></stop>
+      <stop offset="5%" stop-color="rgb(165,226,229)"></stop>
+      <stop offset="11%" stop-color="rgb(135,219,223)"></stop>
+      <stop offset="27%" stop-color="rgb(68,218,224)"></stop>
+      <stop offset="43%" stop-color="rgb(0,217,226)"></stop>
+      <stop offset="47%" stop-color="rgb(14,224,232)"></stop>
+      <stop offset="50%" stop-color="rgb(27,231,238)"></stop>
+      <stop offset="54%" stop-color="rgb(68,224,231)"></stop>
+      <stop offset="58%" stop-color="rgb(109,218,224)"></stop>
+      <stop offset="75%" stop-color="rgb(87,205,210)"></stop>
+      <stop offset="92%" stop-color="rgb(66,191,197)"></stop>
+      <stop offset="96%" stop-color="rgb(100,204,209)"></stop>
+      <stop offset="100%" stop-color="rgb(134,217,221)"></stop>
+    </linearGradient>
+    <linearGradient id="__lottie_element_1622" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="1.5" y1="-42.5"
+      x2="0.5" y2="37.5">
+      <stop offset="0%" stop-color="rgb(255,255,255)"></stop>
+      <stop offset="50%" stop-color="rgb(238,238,238)"></stop>
+      <stop offset="100%" stop-color="rgb(221,221,221)"></stop>
+    </linearGradient>
+    <linearGradient id="__lottie_element_1626" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="-2.125" y1="4.875"
+      x2="3.125" y2="-5.375">
+      <stop offset="0%" stop-color="rgb(10,180,228)"></stop>
+      <stop offset="50%" stop-color="rgb(79,202,230)"></stop>
+      <stop offset="100%" stop-color="rgb(148,224,232)"></stop>
+    </linearGradient>
+    <linearGradient id="__lottie_element_1630" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="-2.125" y1="4.875"
+      x2="3.125" y2="-5.375">
+      <stop offset="0%" stop-color="rgb(10,114,191)"></stop>
+      <stop offset="50%" stop-color="rgb(5,147,195)"></stop>
+      <stop offset="100%" stop-color="rgb(0,181,199)"></stop>
+    </linearGradient>
+    <linearGradient id="__lottie_element_1634" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="-2.125" y1="4.875"
+      x2="3.125" y2="-5.375">
+      <stop offset="0%" stop-color="rgb(10,114,191)"></stop>
+      <stop offset="50%" stop-color="rgb(5,147,195)"></stop>
+      <stop offset="100%" stop-color="rgb(0,181,199)"></stop>
+    </linearGradient>
+    <linearGradient id="__lottie_element_1638" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="-2.125" y1="4.875"
+      x2="3.125" y2="-5.375">
+      <stop offset="0%" stop-color="rgb(10,114,191)"></stop>
+      <stop offset="50%" stop-color="rgb(5,147,195)"></stop>
+      <stop offset="100%" stop-color="rgb(0,181,199)"></stop>
+    </linearGradient>
+    <linearGradient id="__lottie_element_1642" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="-2.125" y1="4.875"
+      x2="3.125" y2="-5.375">
+      <stop offset="0%" stop-color="rgb(10,114,191)"></stop>
+      <stop offset="50%" stop-color="rgb(5,147,195)"></stop>
+      <stop offset="100%" stop-color="rgb(0,181,199)"></stop>
+    </linearGradient>
+    <linearGradient id="__lottie_element_1646" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="-2.125" y1="4.875"
+      x2="3.125" y2="-5.375">
+      <stop offset="0%" stop-color="rgb(10,114,191)"></stop>
+      <stop offset="50%" stop-color="rgb(5,147,195)"></stop>
+      <stop offset="100%" stop-color="rgb(0,181,199)"></stop>
+    </linearGradient>
+    <linearGradient id="__lottie_element_1650" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="-2.125" y1="4.875"
+      x2="3.125" y2="-5.375">
+      <stop offset="0%" stop-color="rgb(10,114,191)"></stop>
+      <stop offset="50%" stop-color="rgb(5,147,195)"></stop>
+      <stop offset="100%" stop-color="rgb(0,181,199)"></stop>
+    </linearGradient>
+    <linearGradient id="__lottie_element_1654" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="-2.125" y1="4.875"
+      x2="3.125" y2="-5.375">
+      <stop offset="0%" stop-color="rgb(10,202,241)"></stop>
+      <stop offset="50%" stop-color="rgb(104,220,242)"></stop>
+      <stop offset="100%" stop-color="rgb(198,238,242)"></stop>
+    </linearGradient>
+    <linearGradient id="__lottie_element_1658" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="-2.125" y1="4.875"
+      x2="3.125" y2="-5.375">
+      <stop offset="0%" stop-color="rgb(10,114,191)"></stop>
+      <stop offset="50%" stop-color="rgb(5,147,195)"></stop>
+      <stop offset="100%" stop-color="rgb(0,181,199)"></stop>
+    </linearGradient>
+    <linearGradient id="__lottie_element_1663" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="-13.625" y1="0"
+      x2="14.125" y2="0">
+      <stop offset="0%" stop-color="rgb(27,214,255)"></stop>
+      <stop offset="50%" stop-color="rgb(75,235,239)"></stop>
+      <stop offset="100%" stop-color="rgb(123,255,223)"></stop>
+    </linearGradient>
+    <linearGradient id="__lottie_element_1664" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="0" y1="35" x2="0"
+      y2="-36">
+      <stop offset="0%" stop-color="rgb(87,255,215)"></stop>
+      <stop offset="50%" stop-color="rgb(171,255,235)"></stop>
+      <stop offset="100%" stop-color="rgb(255,255,255)"></stop>
+    </linearGradient>
+    <mask id="__lottie_element_1666">
+      <path fill="url(#__lottie_element_1665)"
+        d=" M-7.357999801635742,31.507999420166016 C-7.357999801635742,31.507999420166016 -7.357999801635742,-31.507999420166016 -7.357999801635742,-31.507999420166016 C-7.357999801635742,-33.64799880981445 -4.064000129699707,-35.382999420166016 0,-35.382999420166016 C4.064000129699707,-35.382999420166016 7.357999801635742,-33.64799880981445 7.357999801635742,-31.507999420166016 C7.357999801635742,-31.507999420166016 7.357999801635742,31.507999420166016 7.357999801635742,31.507999420166016 C7.357999801635742,33.64799880981445 4.064000129699707,35.382999420166016 0,35.382999420166016 C-4.064000129699707,35.382999420166016 -7.357999801635742,33.64799880981445 -7.357999801635742,31.507999420166016z">
+      </path>
+    </mask>
+    <linearGradient id="__lottie_element_1665" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="0" y1="35" x2="0"
+      y2="-36">
+      <stop stop-color="rgb(255,255,255)" offset="0%" stop-opacity="1"></stop>
+      <stop stop-color="rgb(255,255,255)" offset="47%" stop-opacity="0.5"></stop>
+      <stop stop-color="rgb(255,255,255)" offset="100%" stop-opacity="0"></stop>
+    </linearGradient>
+    <linearGradient id="__lottie_element_1667" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="-2" y1="50.5"
+      x2="-1" y2="-52.5">
+      <stop offset="0%" stop-color="rgb(0,255,255)"></stop>
+      <stop offset="50%" stop-color="rgb(128,255,255)"></stop>
+      <stop offset="100%" stop-color="rgb(255,255,255)"></stop>
+    </linearGradient>
+    <mask id="__lottie_element_1669">
+      <path fill="url(#__lottie_element_1668)"
+        d=" M-18.06100082397461,43.393001556396484 C-18.06100082397461,43.393001556396484 -18.06100082397461,-43.39400100708008 -18.06100082397461,-43.39400100708008 C-18.06100082397461,-48.612998962402344 -9.975000381469727,-52.84400177001953 -0.0010000000474974513,-52.84400177001953 C9.973999977111816,-52.84400177001953 18.059999465942383,-48.612998962402344 18.059999465942383,-43.39400100708008 C18.059999465942383,-43.39400100708008 18.059999465942383,43.393001556396484 18.059999465942383,43.393001556396484 C18.059999465942383,48.61199951171875 9.973999977111816,52.84299850463867 -0.0010000000474974513,52.84299850463867 C-9.975000381469727,52.84299850463867 -18.06100082397461,48.61199951171875 -18.06100082397461,43.393001556396484z">
+      </path>
+    </mask>
+    <linearGradient id="__lottie_element_1668" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="-2" y1="50.5"
+      x2="-1" y2="-52.5">
+      <stop stop-color="rgb(255,255,255)" offset="0%" stop-opacity="1"></stop>
+      <stop stop-color="rgb(255,255,255)" offset="47%" stop-opacity="0.5"></stop>
+      <stop stop-color="rgb(255,255,255)" offset="100%" stop-opacity="0"></stop>
+    </linearGradient>
+    <linearGradient id="__lottie_element_1672" spreadMethod="pad" gradientUnits="userSpaceOnUse"
+      x1="-14.399999618530273" y1="0" x2="14.800000190734863" y2="0">
+      <stop offset="0%" stop-color="rgb(237,255,255)"></stop>
+      <stop offset="50%" stop-color="rgb(246,255,255)"></stop>
+      <stop offset="100%" stop-color="rgb(255,255,255)"></stop>
+    </linearGradient>
+    <linearGradient id="__lottie_element_1673" spreadMethod="pad" gradientUnits="userSpaceOnUse"
+      x1="-14.399999618530273" y1="0" x2="14.800000190734863" y2="0">
+      <stop offset="0%" stop-color="rgb(237,255,255)"></stop>
+      <stop offset="50%" stop-color="rgb(246,255,255)"></stop>
+      <stop offset="100%" stop-color="rgb(255,255,255)"></stop>
+    </linearGradient>
+    <linearGradient id="__lottie_element_1674" spreadMethod="pad" gradientUnits="userSpaceOnUse"
+      x1="-14.399999618530273" y1="0" x2="14.800000190734863" y2="0">
+      <stop offset="0%" stop-color="rgb(237,255,255)"></stop>
+      <stop offset="50%" stop-color="rgb(246,255,255)"></stop>
+      <stop offset="100%" stop-color="rgb(255,255,255)"></stop>
+    </linearGradient>
+    <linearGradient id="__lottie_element_1675" spreadMethod="pad" gradientUnits="userSpaceOnUse"
+      x1="-14.399999618530273" y1="0" x2="14.800000190734863" y2="0">
+      <stop offset="0%" stop-color="rgb(237,255,255)"></stop>
+      <stop offset="50%" stop-color="rgb(246,255,255)"></stop>
+      <stop offset="100%" stop-color="rgb(255,255,255)"></stop>
+    </linearGradient>
+    <linearGradient id="__lottie_element_1679" spreadMethod="pad" gradientUnits="userSpaceOnUse"
+      x1="-14.399999618530273" y1="0" x2="14.800000190734863" y2="0">
+      <stop offset="0%" stop-color="rgb(14,204,255)"></stop>
+      <stop offset="50%" stop-color="rgb(7,229,255)"></stop>
+      <stop offset="100%" stop-color="rgb(0,255,255)"></stop>
+    </linearGradient>
+    <linearGradient id="__lottie_element_1683" spreadMethod="pad" gradientUnits="userSpaceOnUse"
+      x1="-15.555999755859375" y1="0" x2="15" y2="0">
+      <stop offset="0%" stop-color="rgb(0,255,255)"></stop>
+      <stop offset="50%" stop-color="rgb(0,255,235)"></stop>
+      <stop offset="100%" stop-color="rgb(0,255,215)"></stop>
+    </linearGradient>
+    <linearGradient id="__lottie_element_1688" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="-13.625" y1="0"
+      x2="14.125" y2="0">
+      <stop offset="0%" stop-color="rgb(27,214,255)"></stop>
+      <stop offset="50%" stop-color="rgb(75,235,239)"></stop>
+      <stop offset="100%" stop-color="rgb(123,255,223)"></stop>
+    </linearGradient>
+    <linearGradient id="__lottie_element_1689" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="0" y1="35" x2="0"
+      y2="-36">
+      <stop offset="0%" stop-color="rgb(87,255,215)"></stop>
+      <stop offset="50%" stop-color="rgb(171,255,235)"></stop>
+      <stop offset="100%" stop-color="rgb(255,255,255)"></stop>
+    </linearGradient>
+    <mask id="__lottie_element_1691">
+      <path fill="url(#__lottie_element_1690)"
+        d=" M-7.357999801635742,31.507999420166016 C-7.357999801635742,31.507999420166016 -7.357999801635742,-31.507999420166016 -7.357999801635742,-31.507999420166016 C-7.357999801635742,-33.64799880981445 -4.064000129699707,-35.382999420166016 0,-35.382999420166016 C4.064000129699707,-35.382999420166016 7.357999801635742,-33.64799880981445 7.357999801635742,-31.507999420166016 C7.357999801635742,-31.507999420166016 7.357999801635742,31.507999420166016 7.357999801635742,31.507999420166016 C7.357999801635742,33.64799880981445 4.064000129699707,35.382999420166016 0,35.382999420166016 C-4.064000129699707,35.382999420166016 -7.357999801635742,33.64799880981445 -7.357999801635742,31.507999420166016z">
+      </path>
+    </mask>
+    <linearGradient id="__lottie_element_1690" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="0" y1="35" x2="0"
+      y2="-36">
+      <stop stop-color="rgb(255,255,255)" offset="0%" stop-opacity="1"></stop>
+      <stop stop-color="rgb(255,255,255)" offset="47%" stop-opacity="0.5"></stop>
+      <stop stop-color="rgb(255,255,255)" offset="100%" stop-opacity="0"></stop>
+    </linearGradient>
+    <linearGradient id="__lottie_element_1692" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="-2" y1="50.5"
+      x2="-1" y2="-52.5">
+      <stop offset="0%" stop-color="rgb(0,255,255)"></stop>
+      <stop offset="50%" stop-color="rgb(128,255,255)"></stop>
+      <stop offset="100%" stop-color="rgb(255,255,255)"></stop>
+    </linearGradient>
+    <mask id="__lottie_element_1694">
+      <path fill="url(#__lottie_element_1693)"
+        d=" M-18.06100082397461,43.393001556396484 C-18.06100082397461,43.393001556396484 -18.06100082397461,-43.39400100708008 -18.06100082397461,-43.39400100708008 C-18.06100082397461,-48.612998962402344 -9.975000381469727,-52.84400177001953 -0.0010000000474974513,-52.84400177001953 C9.973999977111816,-52.84400177001953 18.059999465942383,-48.612998962402344 18.059999465942383,-43.39400100708008 C18.059999465942383,-43.39400100708008 18.059999465942383,43.393001556396484 18.059999465942383,43.393001556396484 C18.059999465942383,48.61199951171875 9.973999977111816,52.84299850463867 -0.0010000000474974513,52.84299850463867 C-9.975000381469727,52.84299850463867 -18.06100082397461,48.61199951171875 -18.06100082397461,43.393001556396484z">
+      </path>
+    </mask>
+    <linearGradient id="__lottie_element_1693" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="-2" y1="50.5"
+      x2="-1" y2="-52.5">
+      <stop stop-color="rgb(255,255,255)" offset="0%" stop-opacity="1"></stop>
+      <stop stop-color="rgb(255,255,255)" offset="47%" stop-opacity="0.5"></stop>
+      <stop stop-color="rgb(255,255,255)" offset="100%" stop-opacity="0"></stop>
+    </linearGradient>
+    <linearGradient id="__lottie_element_1697" spreadMethod="pad" gradientUnits="userSpaceOnUse"
+      x1="-14.399999618530273" y1="0" x2="14.800000190734863" y2="0">
+      <stop offset="0%" stop-color="rgb(237,255,255)"></stop>
+      <stop offset="50%" stop-color="rgb(246,255,255)"></stop>
+      <stop offset="100%" stop-color="rgb(255,255,255)"></stop>
+    </linearGradient>
+    <linearGradient id="__lottie_element_1698" spreadMethod="pad" gradientUnits="userSpaceOnUse"
+      x1="-14.399999618530273" y1="0" x2="14.800000190734863" y2="0">
+      <stop offset="0%" stop-color="rgb(237,255,255)"></stop>
+      <stop offset="50%" stop-color="rgb(246,255,255)"></stop>
+      <stop offset="100%" stop-color="rgb(255,255,255)"></stop>
+    </linearGradient>
+    <linearGradient id="__lottie_element_1699" spreadMethod="pad" gradientUnits="userSpaceOnUse"
+      x1="-14.399999618530273" y1="0" x2="14.800000190734863" y2="0">
+      <stop offset="0%" stop-color="rgb(237,255,255)"></stop>
+      <stop offset="50%" stop-color="rgb(246,255,255)"></stop>
+      <stop offset="100%" stop-color="rgb(255,255,255)"></stop>
+    </linearGradient>
+    <linearGradient id="__lottie_element_1700" spreadMethod="pad" gradientUnits="userSpaceOnUse"
+      x1="-14.399999618530273" y1="0" x2="14.800000190734863" y2="0">
+      <stop offset="0%" stop-color="rgb(237,255,255)"></stop>
+      <stop offset="50%" stop-color="rgb(246,255,255)"></stop>
+      <stop offset="100%" stop-color="rgb(255,255,255)"></stop>
+    </linearGradient>
+    <linearGradient id="__lottie_element_1704" spreadMethod="pad" gradientUnits="userSpaceOnUse"
+      x1="-14.399999618530273" y1="0" x2="14.800000190734863" y2="0">
+      <stop offset="0%" stop-color="rgb(14,204,255)"></stop>
+      <stop offset="50%" stop-color="rgb(7,229,255)"></stop>
+      <stop offset="100%" stop-color="rgb(0,255,255)"></stop>
+    </linearGradient>
+    <linearGradient id="__lottie_element_1708" spreadMethod="pad" gradientUnits="userSpaceOnUse"
+      x1="-15.555999755859375" y1="0" x2="15" y2="0">
+      <stop offset="0%" stop-color="rgb(0,255,255)"></stop>
+      <stop offset="50%" stop-color="rgb(0,255,235)"></stop>
+      <stop offset="100%" stop-color="rgb(0,255,215)"></stop>
+    </linearGradient>
+    <linearGradient id="__lottie_element_1712" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="-81.75" y1="0"
+      x2="82" y2="0">
+      <stop offset="0%" stop-color="rgb(196,234,235)"></stop>
+      <stop offset="5%" stop-color="rgb(165,226,229)"></stop>
+      <stop offset="11%" stop-color="rgb(135,219,223)"></stop>
+      <stop offset="27%" stop-color="rgb(68,218,224)"></stop>
+      <stop offset="43%" stop-color="rgb(0,217,226)"></stop>
+      <stop offset="47%" stop-color="rgb(14,224,232)"></stop>
+      <stop offset="50%" stop-color="rgb(27,231,238)"></stop>
+      <stop offset="54%" stop-color="rgb(68,224,231)"></stop>
+      <stop offset="58%" stop-color="rgb(109,218,224)"></stop>
+      <stop offset="75%" stop-color="rgb(87,205,210)"></stop>
+      <stop offset="92%" stop-color="rgb(66,191,197)"></stop>
+      <stop offset="96%" stop-color="rgb(100,204,209)"></stop>
+      <stop offset="100%" stop-color="rgb(134,217,221)"></stop>
+    </linearGradient>
+    <linearGradient id="__lottie_element_1713" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="-31.25" y1="-51.25"
+      x2="31" y2="49">
+      <stop offset="0%" stop-color="rgb(165,225,228)"></stop>
+      <stop offset="50%" stop-color="rgb(83,203,213)"></stop>
+      <stop offset="100%" stop-color="rgb(0,181,199)"></stop>
+    </linearGradient>
+    <linearGradient id="__lottie_element_1714" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="-16" y1="28.75"
+      x2="10" y2="-25">
+      <stop offset="0%" stop-color="rgb(10,114,191)"></stop>
+      <stop offset="50%" stop-color="rgb(5,147,195)"></stop>
+      <stop offset="100%" stop-color="rgb(0,181,199)"></stop>
+    </linearGradient>
+    <linearGradient id="__lottie_element_1715" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="-17.75" y1="32.5"
+      x2="12.5" y2="-25.25">
+      <stop offset="0%" stop-color="rgb(0,181,199)"></stop>
+      <stop offset="50%" stop-color="rgb(83,203,213)"></stop>
+      <stop offset="100%" stop-color="rgb(165,225,228)"></stop>
+    </linearGradient>
+    <linearGradient id="__lottie_element_1716" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="-18.5" y1="25.75"
+      x2="-27.75" y2="-46.5">
+      <stop offset="0%" stop-color="rgb(10,114,191)"></stop>
+      <stop offset="50%" stop-color="rgb(5,147,195)"></stop>
+      <stop offset="100%" stop-color="rgb(0,181,199)"></stop>
+    </linearGradient>
+    <linearGradient id="__lottie_element_1717" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="1.25" y1="-41"
+      x2="5.25" y2="44.25">
+      <stop offset="0%" stop-color="rgb(255,255,255)"></stop>
+      <stop offset="50%" stop-color="rgb(238,238,238)"></stop>
+      <stop offset="100%" stop-color="rgb(221,221,221)"></stop>
+    </linearGradient>
+    <linearGradient id="__lottie_element_1718" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="3.5" y1="4" x2="-3"
+      y2="-5.75">
+      <stop offset="0%" stop-color="rgb(10,114,191)"></stop>
+      <stop offset="50%" stop-color="rgb(5,147,195)"></stop>
+      <stop offset="100%" stop-color="rgb(0,181,199)"></stop>
+    </linearGradient>
+    <linearGradient id="__lottie_element_1719" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="1.375"
+      y1="-2.0940001010894775" x2="-2.75" y2="-3.3440001010894775">
+      <stop offset="0%" stop-color="rgb(10,114,191)"></stop>
+      <stop offset="50%" stop-color="rgb(5,147,195)"></stop>
+      <stop offset="100%" stop-color="rgb(0,181,199)"></stop>
+    </linearGradient>
+    <radialGradient id="__lottie_element_1723" spreadMethod="pad" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="100"
+      fx="0" fy="0">
+      <stop offset="36%" stop-color="rgb(41,80,115)"></stop>
+      <stop offset="66%" stop-color="rgb(41,80,115)"></stop>
+      <stop offset="96%" stop-color="rgb(41,80,115)"></stop>
+    </radialGradient>
+    <mask id="__lottie_element_1725">
+      <path fill="url(#__lottie_element_1724)"
+        d=" M0,-96 C52.982398986816406,-96 96,-52.982398986816406 96,0 C96,52.982398986816406 52.982398986816406,96 0,96 C-52.982398986816406,96 -96,52.982398986816406 -96,0 C-96,-52.982398986816406 -52.982398986816406,-96 0,-96z">
+      </path>
+    </mask>
+    <radialGradient id="__lottie_element_1724" spreadMethod="pad" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="100"
+      fx="0" fy="0">
+      <stop stop-color="rgb(255,255,255)" offset="34%" stop-opacity="1"></stop>
+      <stop stop-color="rgb(255,255,255)" offset="63%" stop-opacity="0.5"></stop>
+      <stop stop-color="rgb(255,255,255)" offset="96%" stop-opacity="0"></stop>
+    </radialGradient>
+    <radialGradient id="__lottie_element_1730" spreadMethod="pad" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="100"
+      fx="0" fy="0">
+      <stop offset="36%" stop-color="rgb(41,80,115)"></stop>
+      <stop offset="66%" stop-color="rgb(41,80,115)"></stop>
+      <stop offset="96%" stop-color="rgb(41,80,115)"></stop>
+    </radialGradient>
+    <mask id="__lottie_element_1732">
+      <path fill="url(#__lottie_element_1731)"
+        d=" M0,-96 C52.982398986816406,-96 96,-52.982398986816406 96,0 C96,52.982398986816406 52.982398986816406,96 0,96 C-52.982398986816406,96 -96,52.982398986816406 -96,0 C-96,-52.982398986816406 -52.982398986816406,-96 0,-96z">
+      </path>
+    </mask>
+    <radialGradient id="__lottie_element_1731" spreadMethod="pad" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="100"
+      fx="0" fy="0">
+      <stop stop-color="rgb(255,255,255)" offset="34%" stop-opacity="1"></stop>
+      <stop stop-color="rgb(255,255,255)" offset="63%" stop-opacity="0.5"></stop>
+      <stop stop-color="rgb(255,255,255)" offset="96%" stop-opacity="0"></stop>
+    </radialGradient>
+    <linearGradient id="__lottie_element_1735" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="0" y1="103" x2="0"
+      y2="-92">
+      <stop offset="0%" stop-color="rgb(198,255,255)"></stop>
+      <stop offset="50%" stop-color="rgb(194,255,255)"></stop>
+      <stop offset="100%" stop-color="rgb(189,255,255)"></stop>
+    </linearGradient>
+    <mask id="__lottie_element_1737">
+      <path fill="url(#__lottie_element_1736)"
+        d=" M-54.321998596191406,83.29299926757812 C-54.321998596191406,83.29299926757812 -54.321998596191406,-83.29299926757812 -54.321998596191406,-83.29299926757812 C-54.321998596191406,-99.29399871826172 -30.00200080871582,-112.26499938964844 0,-112.26499938964844 C30.000999450683594,-112.26499938964844 54.321998596191406,-99.29399871826172 54.321998596191406,-83.29299926757812 C54.321998596191406,-83.29299926757812 54.321998596191406,83.29299926757812 54.321998596191406,83.29299926757812 C54.321998596191406,99.29299926757812 30.000999450683594,112.26399993896484 0,112.26399993896484 C-30.00200080871582,112.26399993896484 -54.321998596191406,99.29299926757812 -54.321998596191406,83.29299926757812z">
+      </path>
+    </mask>
+    <linearGradient id="__lottie_element_1736" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="0" y1="103" x2="0"
+      y2="-92">
+      <stop stop-color="rgb(255,255,255)" offset="0%" stop-opacity="1"></stop>
+      <stop stop-color="rgb(255,255,255)" offset="47%" stop-opacity="0.5"></stop>
+      <stop stop-color="rgb(255,255,255)" offset="100%" stop-opacity="0"></stop>
+    </linearGradient>
+    <linearGradient id="__lottie_element_1741" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="-41.625" y1="0"
+      x2="41.25" y2="0">
+      <stop offset="0%" stop-color="rgb(240,255,242)"></stop>
+      <stop offset="50%" stop-color="rgb(187,244,216)"></stop>
+      <stop offset="100%" stop-color="rgb(134,232,191)"></stop>
+    </linearGradient>
+    <linearGradient id="__lottie_element_1742" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="-0.25" y1="-21.25"
+      x2="2" y2="21.25">
+      <stop offset="0%" stop-color="rgb(255,255,255)"></stop>
+      <stop offset="50%" stop-color="rgb(238,238,238)"></stop>
+      <stop offset="100%" stop-color="rgb(221,221,221)"></stop>
+    </linearGradient>
+    <linearGradient id="__lottie_element_1746" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="-41.625" y1="0"
+      x2="41.25" y2="0">
+      <stop offset="0%" stop-color="rgb(240,255,242)"></stop>
+      <stop offset="50%" stop-color="rgb(187,244,216)"></stop>
+      <stop offset="100%" stop-color="rgb(134,232,191)"></stop>
+    </linearGradient>
+    <linearGradient id="__lottie_element_1747" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="-0.25" y1="-21.25"
+      x2="2" y2="21.25">
+      <stop offset="0%" stop-color="rgb(255,255,255)"></stop>
+      <stop offset="50%" stop-color="rgb(238,238,238)"></stop>
+      <stop offset="100%" stop-color="rgb(221,221,221)"></stop>
+    </linearGradient>
+    <linearGradient id="__lottie_element_1751" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="-41.625" y1="0"
+      x2="41.25" y2="0">
+      <stop offset="0%" stop-color="rgb(240,255,242)"></stop>
+      <stop offset="50%" stop-color="rgb(187,244,216)"></stop>
+      <stop offset="100%" stop-color="rgb(134,232,191)"></stop>
+    </linearGradient>
+    <linearGradient id="__lottie_element_1752" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="-0.25" y1="-21.25"
+      x2="2" y2="21.25">
+      <stop offset="0%" stop-color="rgb(255,255,255)"></stop>
+      <stop offset="50%" stop-color="rgb(238,238,238)"></stop>
+      <stop offset="100%" stop-color="rgb(221,221,221)"></stop>
+    </linearGradient>
+    <linearGradient id="__lottie_element_1756" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="-55.5" y1="0"
+      x2="57.5" y2="0">
+      <stop offset="0%" stop-color="rgb(196,234,235)"></stop>
+      <stop offset="5%" stop-color="rgb(165,226,229)"></stop>
+      <stop offset="11%" stop-color="rgb(135,219,223)"></stop>
+      <stop offset="27%" stop-color="rgb(68,218,224)"></stop>
+      <stop offset="43%" stop-color="rgb(0,217,226)"></stop>
+      <stop offset="47%" stop-color="rgb(14,224,232)"></stop>
+      <stop offset="50%" stop-color="rgb(27,231,238)"></stop>
+      <stop offset="54%" stop-color="rgb(68,224,231)"></stop>
+      <stop offset="58%" stop-color="rgb(109,218,224)"></stop>
+      <stop offset="75%" stop-color="rgb(87,205,210)"></stop>
+      <stop offset="92%" stop-color="rgb(66,191,197)"></stop>
+      <stop offset="96%" stop-color="rgb(100,204,209)"></stop>
+      <stop offset="100%" stop-color="rgb(134,217,221)"></stop>
+    </linearGradient>
+    <linearGradient id="__lottie_element_1757" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="0" y1="-31" x2="1"
+      y2="26">
+      <stop offset="0%" stop-color="rgb(255,255,255)"></stop>
+      <stop offset="50%" stop-color="rgb(238,238,238)"></stop>
+      <stop offset="100%" stop-color="rgb(221,221,221)"></stop>
+    </linearGradient>
+    <radialGradient id="__lottie_element_1761" spreadMethod="pad" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="100"
+      fx="0" fy="0">
+      <stop offset="36%" stop-color="rgb(41,80,115)"></stop>
+      <stop offset="66%" stop-color="rgb(41,80,115)"></stop>
+      <stop offset="96%" stop-color="rgb(41,80,115)"></stop>
+    </radialGradient>
+    <mask id="__lottie_element_1763">
+      <path fill="url(#__lottie_element_1762)"
+        d=" M0,-96 C52.982398986816406,-96 96,-52.982398986816406 96,0 C96,52.982398986816406 52.982398986816406,96 0,96 C-52.982398986816406,96 -96,52.982398986816406 -96,0 C-96,-52.982398986816406 -52.982398986816406,-96 0,-96z">
+      </path>
+    </mask>
+    <radialGradient id="__lottie_element_1762" spreadMethod="pad" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="100"
+      fx="0" fy="0">
+      <stop stop-color="rgb(255,255,255)" offset="34%" stop-opacity="1"></stop>
+      <stop stop-color="rgb(255,255,255)" offset="63%" stop-opacity="0.5"></stop>
+      <stop stop-color="rgb(255,255,255)" offset="96%" stop-opacity="0"></stop>
+    </radialGradient>
+    <linearGradient id="__lottie_element_1767" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="-80.5" y1="0"
+      x2="81" y2="0">
+      <stop offset="0%" stop-color="rgb(196,234,235)"></stop>
+      <stop offset="5%" stop-color="rgb(165,226,229)"></stop>
+      <stop offset="11%" stop-color="rgb(135,219,223)"></stop>
+      <stop offset="27%" stop-color="rgb(68,218,224)"></stop>
+      <stop offset="43%" stop-color="rgb(0,217,226)"></stop>
+      <stop offset="47%" stop-color="rgb(14,224,232)"></stop>
+      <stop offset="50%" stop-color="rgb(27,231,238)"></stop>
+      <stop offset="54%" stop-color="rgb(68,224,231)"></stop>
+      <stop offset="58%" stop-color="rgb(109,218,224)"></stop>
+      <stop offset="75%" stop-color="rgb(87,205,210)"></stop>
+      <stop offset="92%" stop-color="rgb(66,191,197)"></stop>
+      <stop offset="96%" stop-color="rgb(100,204,209)"></stop>
+      <stop offset="100%" stop-color="rgb(134,217,221)"></stop>
+    </linearGradient>
+    <linearGradient id="__lottie_element_1768" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="1.5" y1="-42.5"
+      x2="0.5" y2="37.5">
+      <stop offset="0%" stop-color="rgb(255,255,255)"></stop>
+      <stop offset="50%" stop-color="rgb(238,238,238)"></stop>
+      <stop offset="100%" stop-color="rgb(221,221,221)"></stop>
+    </linearGradient>
+    <linearGradient id="__lottie_element_1772" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="-119" y1="-1"
+      x2="130" y2="-20">
+      <stop offset="0%" stop-color="rgb(171,245,230)"></stop>
+      <stop offset="50%" stop-color="rgb(150,250,217)"></stop>
+      <stop offset="100%" stop-color="rgb(130,255,204)"></stop>
+    </linearGradient>
+    <linearGradient id="__lottie_element_1776" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="-135" y1="-5"
+      x2="145" y2="1">
+      <stop offset="0%" stop-color="rgb(171,245,230)"></stop>
+      <stop offset="50%" stop-color="rgb(150,250,217)"></stop>
+      <stop offset="100%" stop-color="rgb(130,255,204)"></stop>
+    </linearGradient>
+  </defs>
+  <g clip-path="url(#__lottie_element_1531)">
+    <g style="display: block;" transform="matrix(1,0,0,1,20,0)" opacity="1">
+      <g opacity="1" transform="matrix(1,0,0,1,370.4750061035156,392.04901123046875)">
+        <path stroke="url(#__lottie_element_1776)" stroke-linecap="butt" stroke-linejoin="miter" fill-opacity="0"
+          stroke-miterlimit="10" stroke-opacity="1" stroke-dasharray=" 10" stroke-dashoffset="0" stroke-width="2"
+          d=" M124.72699737548828,12.793999671936035 C91.60299682617188,28.841999053955078 11.524999618530273,67.63800048828125 11.524999618530273,67.63800048828125 C11.524999618530273,67.63800048828125 -138.8090057373047,-14.694999694824219 -138.8090057373047,-14.694999694824219 C-138.8090057373047,-14.694999694824219 -16.475000381469727,-67.63899993896484 -16.475000381469727,-67.63899993896484">
+        </path>
+      </g>
+    </g>
+    <g style="display: block;" transform="matrix(1,0,0,1,13,-2.5)" opacity="1">
+      <g opacity="1" transform="matrix(1,0,0,1,229.1230010986328,308.9930114746094)">
+        <path stroke="url(#__lottie_element_1772)" stroke-linecap="butt" stroke-linejoin="miter" fill-opacity="0"
+          stroke-miterlimit="10" stroke-opacity="1" stroke-dasharray=" 10" stroke-dashoffset="0" stroke-width="2"
+          d=" M-1.3550000190734863,-66.54000091552734 C-22.424999237060547,-56.332000732421875 -124.87799835205078,-6.695000171661377 -124.87799835205078,-6.695000171661377 C-124.87799835205078,-6.695000171661377 2.5429999828338623,68.36199951171875 2.5429999828338623,68.36199951171875 C2.5429999828338623,68.36199951171875 124.87799835205078,15.416999816894531 124.87799835205078,15.416999816894531">
+        </path>
+      </g>
+    </g>
+    <g style="display: block;"
+      transform="matrix(0.8999999761581421,0,0,0.4312500059604645,193.4499969482422,253.0187530517578)" opacity="0.5">
+      <g opacity="1" transform="matrix(1,0,0,1,9.5,-7)">
+        <path fill="url(#__lottie_element_1730)" mask="url(#__lottie_element_1732)" fill-opacity="1"
+          d="M0 0 M0,-96 C52.982398986816406,-96 96,-52.982398986816406 96,0 C96,52.982398986816406 52.982398986816406,96 0,96 C-52.982398986816406,96 -96,52.982398986816406 -96,0 C-96,-52.982398986816406 -52.982398986816406,-96 0,-96z">
+        </path>
+      </g>
+    </g>
+    <g style="display: block;" transform="matrix(0.999998927116394,0,0,0.9999997615814209,-324,-225.00013732910156)"
+      opacity="1">
+      <g opacity="1" transform="matrix(1,0,0,1,526.2899780273438,453.5419921875)">
+        <path fill="url(#__lottie_element_1767)" fill-opacity="1"
+          d=" M9.864999771118164,-48.64400100708008 C3.6710000038146973,-51.86899948120117 -3.671999931335449,-51.86899948120117 -9.864999771118164,-48.64400100708008 C-9.864999771118164,-48.64400100708008 -78.70500183105469,-12.821000099182129 -78.70500183105469,-12.821000099182129 C-80.82099914550781,-11.718999862670898 -81.86699676513672,-9.62399959564209 -81.84500122070312,-7.539999961853027 C-81.84500122070312,-7.539999961853027 -81.84500122070312,7.539999961853027 -81.84500122070312,7.539999961853027 C-81.86699676513672,9.625 -80.82099914550781,11.718999862670898 -78.70500183105469,12.821000099182129 C-78.70500183105469,12.821000099182129 -9.864999771118164,48.64500045776367 -9.864999771118164,48.64500045776367 C-3.671999931335449,51.86899948120117 3.6710000038146973,51.86899948120117 9.864999771118164,48.64500045776367 C9.864999771118164,48.64500045776367 78.70500183105469,12.821000099182129 78.70500183105469,12.821000099182129 C80.81999969482422,11.718999862670898 81.86699676513672,9.625 81.84400177001953,7.539999961853027 C81.84400177001953,7.539999961853027 81.84400177001953,-7.539999961853027 81.84400177001953,-7.539999961853027 C81.86699676513672,-9.62399959564209 80.81999969482422,-11.718999862670898 78.70500183105469,-12.821000099182129 C78.70500183105469,-12.821000099182129 9.864999771118164,-48.64400100708008 9.864999771118164,-48.64400100708008z">
+        </path>
+      </g>
+      <g opacity="1" transform="matrix(1,0,0,1,526.2890014648438,445.93701171875)">
+        <path fill="url(#__lottie_element_1768)" fill-opacity="1"
+          d=" M9.864999771118164,-41.03900146484375 C3.671999931335449,-44.263999938964844 -3.6700000762939453,-44.263999938964844 -9.86400032043457,-41.03900146484375 C-9.86400032043457,-41.03900146484375 -78.70500183105469,-5.216000080108643 -78.70500183105469,-5.216000080108643 C-82.89099884033203,-3.0369999408721924 -82.89099884033203,3.0369999408721924 -78.70500183105469,5.216000080108643 C-78.70500183105469,5.216000080108643 -9.86400032043457,41.03900146484375 -9.86400032043457,41.03900146484375 C-3.6700000762939453,44.263999938964844 3.671999931335449,44.263999938964844 9.864999771118164,41.03900146484375 C9.864999771118164,41.03900146484375 78.70600128173828,5.216000080108643 78.70600128173828,5.216000080108643 C82.89099884033203,3.0369999408721924 82.89099884033203,-3.0369999408721924 78.70600128173828,-5.216000080108643 C78.70600128173828,-5.216000080108643 9.864999771118164,-41.03900146484375 9.864999771118164,-41.03900146484375z">
+        </path>
+      </g>
+    </g>
+    <g style="display: block;"
+      transform="matrix(0.6000030040740967,0,0,0.2875014543533325,196.2999725341797,220.01246643066406)" opacity="0.5">
+      <g opacity="1" transform="matrix(1,0,0,1,9.5,-7)">
+        <path fill="url(#__lottie_element_1761)" mask="url(#__lottie_element_1763)" fill-opacity="1"
+          d="M0 0 M0,-96 C52.982398986816406,-96 96,-52.982398986816406 96,0 C96,52.982398986816406 52.982398986816406,96 0,96 C-52.982398986816406,96 -96,52.982398986816406 -96,0 C-96,-52.982398986816406 -52.982398986816406,-96 0,-96z">
+        </path>
+      </g>
+    </g>
+    <g style="display: block;" transform="matrix(0.999998927116394,0,0,0.9999997615814209,-324,-225.00013732910156)"
+      opacity="1">
+      <g opacity="1" transform="matrix(1,0,0,1,528.35400390625,413.5690002441406)">
+        <path fill="url(#__lottie_element_1756)" fill-opacity="1"
+          d=" M-54.321998596191406,7.243000030517578 C-54.321998596191406,7.243000030517578 -54.321998596191406,-7.243000030517578 -54.321998596191406,-7.243000030517578 C-54.321998596191406,-23.243000030517578 -30.003000259399414,-36.2140007019043 -0.0010000000474974513,-36.2140007019043 C30.000999450683594,-36.2140007019043 54.32099914550781,-23.243000030517578 54.32099914550781,-7.243000030517578 C54.32099914550781,-7.243000030517578 54.32099914550781,7.243000030517578 54.32099914550781,7.243000030517578 C54.32099914550781,23.243000030517578 30.000999450683594,36.2140007019043 -0.0010000000474974513,36.2140007019043 C-30.003000259399414,36.2140007019043 -54.321998596191406,23.243000030517578 -54.321998596191406,7.243000030517578z">
+        </path>
+      </g>
+      <g opacity="1" transform="matrix(1,0,0,1,528.35400390625,406.32598876953125)">
+        <path fill="url(#__lottie_element_1757)" fill-opacity="1"
+          d=" M0,-28.972000122070312 C30.00200080871582,-28.972000122070312 54.32099914550781,-16.000999450683594 54.32099914550781,0 C54.32099914550781,16.000999450683594 30.00200080871582,28.97100067138672 0,28.97100067138672 C-30.000999450683594,28.97100067138672 -54.321998596191406,16.000999450683594 -54.321998596191406,0 C-54.321998596191406,-16.000999450683594 -30.000999450683594,-28.972000122070312 0,-28.972000122070312z">
+        </path>
+      </g>
+      <g opacity="1" transform="matrix(1,0,0,1,528.3610229492188,424.75299072265625)">
+        <path fill="rgb(255,255,255)" fill-opacity="1"
+          d=" M52.2869987487793,-10.548999786376953 C45.051998138427734,0.8629999756813049 24.375,9.100000381469727 -0.004000000189989805,9.100000381469727 C-24.37299919128418,9.100000381469727 -45.042999267578125,0.8700000047683716 -52.2869987487793,-10.534000396728516 C-45.84600067138672,1.6319999694824219 -24.87700080871582,10.54800033569336 -0.004000000189989805,10.54800033569336 C24.8799991607666,10.54800033569336 45.854000091552734,1.625 52.2869987487793,-10.548999786376953z">
+        </path>
+      </g>
+    </g>
+    <g style="display: block;"
+      transform="matrix(0.999998927116394,0,0,0.9999997615814209,-321.99932861328125,-175.9998016357422)" opacity="1">
+      <g opacity="1" transform="matrix(1,0,0,1,526.468017578125,344.4620056152344)">
+        <path fill="url(#__lottie_element_1751)" fill-opacity="1"
+          d=" M-41.38800048828125,5.519000053405762 C-41.38800048828125,5.519000053405762 -41.38800048828125,-5.51800012588501 -41.38800048828125,-5.51800012588501 C-41.38800048828125,-17.709999084472656 -22.858999252319336,-27.591999053955078 0,-27.591999053955078 C22.857999801635742,-27.591999053955078 41.38800048828125,-17.709999084472656 41.38800048828125,-5.51800012588501 C41.38800048828125,-5.51800012588501 41.38800048828125,5.519000053405762 41.38800048828125,5.519000053405762 C41.38800048828125,17.708999633789062 22.857999801635742,27.591999053955078 0,27.591999053955078 C-22.858999252319336,27.591999053955078 -41.38800048828125,17.708999633789062 -41.38800048828125,5.519000053405762z">
+        </path>
+      </g>
+      <g opacity="1" transform="matrix(1,0,0,1,526.4669799804688,338.9429931640625)">
+        <path fill="url(#__lottie_element_1752)" fill-opacity="1"
+          d=" M0,-22.073999404907227 C22.85700035095215,-22.073999404907227 41.38800048828125,-12.190999984741211 41.38800048828125,0 C41.38800048828125,12.190999984741211 22.85700035095215,22.072999954223633 0,22.072999954223633 C-22.857999801635742,22.072999954223633 -41.388999938964844,12.190999984741211 -41.388999938964844,0 C-41.388999938964844,-12.190999984741211 -22.857999801635742,-22.073999404907227 0,-22.073999404907227z">
+        </path>
+      </g>
+      <g opacity="1" transform="matrix(1,0,0,1,526.4660034179688,352.9840087890625)">
+        <path fill="rgb(255,255,255)" fill-opacity="1"
+          d=" M39.8390007019043,-8.027000427246094 C34.319000244140625,0.6620000004768372 18.56999969482422,6.932000160217285 0.003000000026077032,6.932000160217285 C-18.570999145507812,6.932000160217285 -34.32500076293945,0.6589999794960022 -39.8390007019043,-8.03600025177002 C-34.9370002746582,1.2389999628067017 -18.95599937438965,8.03600025177002 0.003000000026077032,8.03600025177002 C18.95400047302246,8.03600025177002 34.930999755859375,1.24399995803833 39.8390007019043,-8.027000427246094z">
+        </path>
+      </g>
+      <g opacity="1" transform="matrix(1.489959955215454,0,0,1.489959955215454,526.72900390625,337.1059875488281)">
+        <path fill="rgb(197,197,197)" fill-opacity="1"
+          d=" M9.003000259399414,6.994999885559082 C9.003000259399414,6.994999885559082 7.710999965667725,6.306000232696533 7.710999965667725,6.306000232696533 C4.696000099182129,7.333000183105469 1.4630000591278076,7.295000076293945 -1.5509999990463257,6.427000045776367 C-2.632999897003174,6.116000175476074 -2.9010000228881836,5.764999866485596 -2.440000057220459,5.26800012588501 C-2.440000057220459,5.26800012588501 -1.034999966621399,3.8289999961853027 -1.034999966621399,3.8289999961853027 C-0.5180000066757202,3.305000066757202 -0.054999999701976776,3.197000026702881 1.1749999523162842,3.5269999504089355 C2.812000036239624,3.9570000171661377 4.269000053405762,3.9040000438690186 5.714000225067139,3.194999933242798 C7.565999984741211,2.2880001068115234 7.989999771118164,1.5369999408721924 6.552000045776367,0.7680000066757202 C5.230999946594238,0.06400000303983688 3.546999931335449,0.4099999964237213 1.722000002861023,1.1239999532699585 C-1.4359999895095825,2.3420000076293945 -6.2779998779296875,3.8440001010894775 -11.034000396728516,1.3049999475479126 C-14.059000015258789,-0.3100000023841858 -14.553999900817871,-2.2909998893737793 -11.958999633789062,-4.193999767303467 C-11.958999633789062,-4.193999767303467 -13.192000389099121,-4.853000164031982 -13.192000389099121,-4.853000164031982 C-13.984000205993652,-5.276000022888184 -13.98900032043457,-5.544000148773193 -13.265999794006348,-5.89900016784668 C-13.265999794006348,-5.89900016784668 -10.864999771118164,-7.076000213623047 -10.864999771118164,-7.076000213623047 C-10.142999649047852,-7.431000232696533 -9.616999626159668,-7.416999816894531 -8.824999809265137,-6.993000030517578 C-8.824999809265137,-6.993000030517578 -7.5920000076293945,-6.335000038146973 -7.5920000076293945,-6.335000038146973 C-4.895999908447266,-7.177000045776367 -2.2720000743865967,-7.110000133514404 0.7080000042915344,-6.438000202178955 C1.878000020980835,-6.169000148773193 2.1740000247955322,-5.86299991607666 1.7450000047683716,-5.291999816894531 C1.7450000047683716,-5.291999816894531 0.5709999799728394,-3.815000057220459 0.5709999799728394,-3.815000057220459 C0.20000000298023224,-3.302000045776367 -0.23600000143051147,-3.239000082015991 -1.4919999837875366,-3.494999885559082 C-3.0409998893737793,-3.819000005722046 -4.435999870300293,-3.7339999675750732 -5.73799991607666,-3.0950000286102295 C-7.502999782562256,-2.2300000190734863 -7.7270002365112305,-1.6410000324249268 -6.434999942779541,-0.9509999752044678 C-5.202000141143799,-0.2919999957084656 -3.4600000381469727,-0.6359999775886536 -1.5759999752044678,-1.378000020980835 C1.5219999551773071,-2.5980000495910645 6.13100004196167,-4.105000019073486 11.005000114440918,-1.503000020980835 C14.116999626159668,0.15800000727176666 14.553999900817871,2.197999954223633 12.020000457763672,4.132999897003174 C12.020000457763672,4.132999897003174 13.369999885559082,4.854000091552734 13.369999885559082,4.854000091552734 C14.163000106811523,5.2769999504089355 14.166000366210938,5.546000003814697 13.442999839782715,5.900000095367432 C13.442999839782715,5.900000095367432 11.043000221252441,7.077000141143799 11.043000221252441,7.077000141143799 C10.319000244140625,7.432000160217285 9.795999526977539,7.418000221252441 9.003000259399414,6.994999885559082z">
+        </path>
+      </g>
+      <g opacity="1" transform="matrix(1.422700047492981,0,0,1.4434900283813477,526.8179931640625,337.9020080566406)">
+        <path stroke-linecap="butt" stroke-linejoin="miter" fill-opacity="0" stroke-miterlimit="10"
+          stroke="rgb(197,197,197)" stroke-opacity="1" stroke-width="3"
+          d=" M25.19300079345703,-0.0010000000474974513 C25.19300079345703,6.791999816894531 13.913999557495117,12.29800033569336 0,12.29800033569336 C-13.913999557495117,12.29800033569336 -25.194000244140625,6.791999816894531 -25.194000244140625,-0.0010000000474974513 C-25.194000244140625,-6.793000221252441 -13.913999557495117,-12.29800033569336 0,-12.29800033569336 C13.913999557495117,-12.29800033569336 25.19300079345703,-6.793000221252441 25.19300079345703,-0.0010000000474974513z">
+        </path>
+      </g>
+    </g>
+    <g style="display: block;" transform="matrix(1,0,0,1,-322,-195.97540283203125)" opacity="0.9975399999997028">
+      <g opacity="1" transform="matrix(1,0,0,1,526.468017578125,344.4620056152344)">
+        <path fill="url(#__lottie_element_1746)" fill-opacity="1"
+          d=" M-41.38800048828125,5.519000053405762 C-41.38800048828125,5.519000053405762 -41.38800048828125,-5.51800012588501 -41.38800048828125,-5.51800012588501 C-41.38800048828125,-17.709999084472656 -22.858999252319336,-27.591999053955078 0,-27.591999053955078 C22.857999801635742,-27.591999053955078 41.38800048828125,-17.709999084472656 41.38800048828125,-5.51800012588501 C41.38800048828125,-5.51800012588501 41.38800048828125,5.519000053405762 41.38800048828125,5.519000053405762 C41.38800048828125,17.708999633789062 22.857999801635742,27.591999053955078 0,27.591999053955078 C-22.858999252319336,27.591999053955078 -41.38800048828125,17.708999633789062 -41.38800048828125,5.519000053405762z">
+        </path>
+      </g>
+      <g opacity="1" transform="matrix(1,0,0,1,526.4669799804688,338.9429931640625)">
+        <path fill="url(#__lottie_element_1747)" fill-opacity="1"
+          d=" M0,-22.073999404907227 C22.85700035095215,-22.073999404907227 41.38800048828125,-12.190999984741211 41.38800048828125,0 C41.38800048828125,12.190999984741211 22.85700035095215,22.072999954223633 0,22.072999954223633 C-22.857999801635742,22.072999954223633 -41.388999938964844,12.190999984741211 -41.388999938964844,0 C-41.388999938964844,-12.190999984741211 -22.857999801635742,-22.073999404907227 0,-22.073999404907227z">
+        </path>
+      </g>
+      <g opacity="1" transform="matrix(1,0,0,1,526.4660034179688,352.9840087890625)">
+        <path fill="rgb(255,255,255)" fill-opacity="1"
+          d=" M39.8390007019043,-8.027000427246094 C34.319000244140625,0.6620000004768372 18.56999969482422,6.932000160217285 0.003000000026077032,6.932000160217285 C-18.570999145507812,6.932000160217285 -34.32500076293945,0.6589999794960022 -39.8390007019043,-8.03600025177002 C-34.9370002746582,1.2389999628067017 -18.95599937438965,8.03600025177002 0.003000000026077032,8.03600025177002 C18.95400047302246,8.03600025177002 34.930999755859375,1.24399995803833 39.8390007019043,-8.027000427246094z">
+        </path>
+      </g>
+      <g opacity="1" transform="matrix(1.489959955215454,0,0,1.489959955215454,526.72900390625,337.1059875488281)">
+        <path fill="rgb(197,197,197)" fill-opacity="1"
+          d=" M9.003000259399414,6.994999885559082 C9.003000259399414,6.994999885559082 7.710999965667725,6.306000232696533 7.710999965667725,6.306000232696533 C4.696000099182129,7.333000183105469 1.4630000591278076,7.295000076293945 -1.5509999990463257,6.427000045776367 C-2.632999897003174,6.116000175476074 -2.9010000228881836,5.764999866485596 -2.440000057220459,5.26800012588501 C-2.440000057220459,5.26800012588501 -1.034999966621399,3.8289999961853027 -1.034999966621399,3.8289999961853027 C-0.5180000066757202,3.305000066757202 -0.054999999701976776,3.197000026702881 1.1749999523162842,3.5269999504089355 C2.812000036239624,3.9570000171661377 4.269000053405762,3.9040000438690186 5.714000225067139,3.194999933242798 C7.565999984741211,2.2880001068115234 7.989999771118164,1.5369999408721924 6.552000045776367,0.7680000066757202 C5.230999946594238,0.06400000303983688 3.546999931335449,0.4099999964237213 1.722000002861023,1.1239999532699585 C-1.4359999895095825,2.3420000076293945 -6.2779998779296875,3.8440001010894775 -11.034000396728516,1.3049999475479126 C-14.059000015258789,-0.3100000023841858 -14.553999900817871,-2.2909998893737793 -11.958999633789062,-4.193999767303467 C-11.958999633789062,-4.193999767303467 -13.192000389099121,-4.853000164031982 -13.192000389099121,-4.853000164031982 C-13.984000205993652,-5.276000022888184 -13.98900032043457,-5.544000148773193 -13.265999794006348,-5.89900016784668 C-13.265999794006348,-5.89900016784668 -10.864999771118164,-7.076000213623047 -10.864999771118164,-7.076000213623047 C-10.142999649047852,-7.431000232696533 -9.616999626159668,-7.416999816894531 -8.824999809265137,-6.993000030517578 C-8.824999809265137,-6.993000030517578 -7.5920000076293945,-6.335000038146973 -7.5920000076293945,-6.335000038146973 C-4.895999908447266,-7.177000045776367 -2.2720000743865967,-7.110000133514404 0.7080000042915344,-6.438000202178955 C1.878000020980835,-6.169000148773193 2.1740000247955322,-5.86299991607666 1.7450000047683716,-5.291999816894531 C1.7450000047683716,-5.291999816894531 0.5709999799728394,-3.815000057220459 0.5709999799728394,-3.815000057220459 C0.20000000298023224,-3.302000045776367 -0.23600000143051147,-3.239000082015991 -1.4919999837875366,-3.494999885559082 C-3.0409998893737793,-3.819000005722046 -4.435999870300293,-3.7339999675750732 -5.73799991607666,-3.0950000286102295 C-7.502999782562256,-2.2300000190734863 -7.7270002365112305,-1.6410000324249268 -6.434999942779541,-0.9509999752044678 C-5.202000141143799,-0.2919999957084656 -3.4600000381469727,-0.6359999775886536 -1.5759999752044678,-1.378000020980835 C1.5219999551773071,-2.5980000495910645 6.13100004196167,-4.105000019073486 11.005000114440918,-1.503000020980835 C14.116999626159668,0.15800000727176666 14.553999900817871,2.197999954223633 12.020000457763672,4.132999897003174 C12.020000457763672,4.132999897003174 13.369999885559082,4.854000091552734 13.369999885559082,4.854000091552734 C14.163000106811523,5.2769999504089355 14.166000366210938,5.546000003814697 13.442999839782715,5.900000095367432 C13.442999839782715,5.900000095367432 11.043000221252441,7.077000141143799 11.043000221252441,7.077000141143799 C10.319000244140625,7.432000160217285 9.795999526977539,7.418000221252441 9.003000259399414,6.994999885559082z">
+        </path>
+      </g>
+      <g opacity="1" transform="matrix(1.422700047492981,0,0,1.4434900283813477,526.8179931640625,337.9020080566406)">
+        <path stroke-linecap="butt" stroke-linejoin="miter" fill-opacity="0" stroke-miterlimit="10"
+          stroke="rgb(197,197,197)" stroke-opacity="1" stroke-width="3"
+          d=" M25.19300079345703,-0.0010000000474974513 C25.19300079345703,6.791999816894531 13.913999557495117,12.29800033569336 0,12.29800033569336 C-13.913999557495117,12.29800033569336 -25.194000244140625,6.791999816894531 -25.194000244140625,-0.0010000000474974513 C-25.194000244140625,-6.793000221252441 -13.913999557495117,-12.29800033569336 0,-12.29800033569336 C13.913999557495117,-12.29800033569336 25.19300079345703,-6.793000221252441 25.19300079345703,-0.0010000000474974513z">
+        </path>
+      </g>
+    </g>
+    <g style="display: block;" transform="matrix(1,0,0,1,-322,-210.97540283203125)" opacity="0.4975399999997028">
+      <g opacity="1" transform="matrix(1,0,0,1,526.468017578125,344.4620056152344)">
+        <path fill="url(#__lottie_element_1741)" fill-opacity="1"
+          d=" M-41.38800048828125,5.519000053405762 C-41.38800048828125,5.519000053405762 -41.38800048828125,-5.51800012588501 -41.38800048828125,-5.51800012588501 C-41.38800048828125,-17.709999084472656 -22.858999252319336,-27.591999053955078 0,-27.591999053955078 C22.857999801635742,-27.591999053955078 41.38800048828125,-17.709999084472656 41.38800048828125,-5.51800012588501 C41.38800048828125,-5.51800012588501 41.38800048828125,5.519000053405762 41.38800048828125,5.519000053405762 C41.38800048828125,17.708999633789062 22.857999801635742,27.591999053955078 0,27.591999053955078 C-22.858999252319336,27.591999053955078 -41.38800048828125,17.708999633789062 -41.38800048828125,5.519000053405762z">
+        </path>
+      </g>
+      <g opacity="1" transform="matrix(1,0,0,1,526.4669799804688,338.9429931640625)">
+        <path fill="url(#__lottie_element_1742)" fill-opacity="1"
+          d=" M0,-22.073999404907227 C22.85700035095215,-22.073999404907227 41.38800048828125,-12.190999984741211 41.38800048828125,0 C41.38800048828125,12.190999984741211 22.85700035095215,22.072999954223633 0,22.072999954223633 C-22.857999801635742,22.072999954223633 -41.388999938964844,12.190999984741211 -41.388999938964844,0 C-41.388999938964844,-12.190999984741211 -22.857999801635742,-22.073999404907227 0,-22.073999404907227z">
+        </path>
+      </g>
+      <g opacity="1" transform="matrix(1,0,0,1,526.4660034179688,352.9840087890625)">
+        <path fill="rgb(255,255,255)" fill-opacity="1"
+          d=" M39.8390007019043,-8.027000427246094 C34.319000244140625,0.6620000004768372 18.56999969482422,6.932000160217285 0.003000000026077032,6.932000160217285 C-18.570999145507812,6.932000160217285 -34.32500076293945,0.6589999794960022 -39.8390007019043,-8.03600025177002 C-34.9370002746582,1.2389999628067017 -18.95599937438965,8.03600025177002 0.003000000026077032,8.03600025177002 C18.95400047302246,8.03600025177002 34.930999755859375,1.24399995803833 39.8390007019043,-8.027000427246094z">
+        </path>
+      </g>
+      <g opacity="1" transform="matrix(1.489959955215454,0,0,1.489959955215454,526.72900390625,337.1059875488281)">
+        <path fill="rgb(197,197,197)" fill-opacity="1"
+          d=" M9.003000259399414,6.994999885559082 C9.003000259399414,6.994999885559082 7.710999965667725,6.306000232696533 7.710999965667725,6.306000232696533 C4.696000099182129,7.333000183105469 1.4630000591278076,7.295000076293945 -1.5509999990463257,6.427000045776367 C-2.632999897003174,6.116000175476074 -2.9010000228881836,5.764999866485596 -2.440000057220459,5.26800012588501 C-2.440000057220459,5.26800012588501 -1.034999966621399,3.8289999961853027 -1.034999966621399,3.8289999961853027 C-0.5180000066757202,3.305000066757202 -0.054999999701976776,3.197000026702881 1.1749999523162842,3.5269999504089355 C2.812000036239624,3.9570000171661377 4.269000053405762,3.9040000438690186 5.714000225067139,3.194999933242798 C7.565999984741211,2.2880001068115234 7.989999771118164,1.5369999408721924 6.552000045776367,0.7680000066757202 C5.230999946594238,0.06400000303983688 3.546999931335449,0.4099999964237213 1.722000002861023,1.1239999532699585 C-1.4359999895095825,2.3420000076293945 -6.2779998779296875,3.8440001010894775 -11.034000396728516,1.3049999475479126 C-14.059000015258789,-0.3100000023841858 -14.553999900817871,-2.2909998893737793 -11.958999633789062,-4.193999767303467 C-11.958999633789062,-4.193999767303467 -13.192000389099121,-4.853000164031982 -13.192000389099121,-4.853000164031982 C-13.984000205993652,-5.276000022888184 -13.98900032043457,-5.544000148773193 -13.265999794006348,-5.89900016784668 C-13.265999794006348,-5.89900016784668 -10.864999771118164,-7.076000213623047 -10.864999771118164,-7.076000213623047 C-10.142999649047852,-7.431000232696533 -9.616999626159668,-7.416999816894531 -8.824999809265137,-6.993000030517578 C-8.824999809265137,-6.993000030517578 -7.5920000076293945,-6.335000038146973 -7.5920000076293945,-6.335000038146973 C-4.895999908447266,-7.177000045776367 -2.2720000743865967,-7.110000133514404 0.7080000042915344,-6.438000202178955 C1.878000020980835,-6.169000148773193 2.1740000247955322,-5.86299991607666 1.7450000047683716,-5.291999816894531 C1.7450000047683716,-5.291999816894531 0.5709999799728394,-3.815000057220459 0.5709999799728394,-3.815000057220459 C0.20000000298023224,-3.302000045776367 -0.23600000143051147,-3.239000082015991 -1.4919999837875366,-3.494999885559082 C-3.0409998893737793,-3.819000005722046 -4.435999870300293,-3.7339999675750732 -5.73799991607666,-3.0950000286102295 C-7.502999782562256,-2.2300000190734863 -7.7270002365112305,-1.6410000324249268 -6.434999942779541,-0.9509999752044678 C-5.202000141143799,-0.2919999957084656 -3.4600000381469727,-0.6359999775886536 -1.5759999752044678,-1.378000020980835 C1.5219999551773071,-2.5980000495910645 6.13100004196167,-4.105000019073486 11.005000114440918,-1.503000020980835 C14.116999626159668,0.15800000727176666 14.553999900817871,2.197999954223633 12.020000457763672,4.132999897003174 C12.020000457763672,4.132999897003174 13.369999885559082,4.854000091552734 13.369999885559082,4.854000091552734 C14.163000106811523,5.2769999504089355 14.166000366210938,5.546000003814697 13.442999839782715,5.900000095367432 C13.442999839782715,5.900000095367432 11.043000221252441,7.077000141143799 11.043000221252441,7.077000141143799 C10.319000244140625,7.432000160217285 9.795999526977539,7.418000221252441 9.003000259399414,6.994999885559082z">
+        </path>
+      </g>
+      <g opacity="1" transform="matrix(1.422700047492981,0,0,1.4434900283813477,526.8179931640625,337.9020080566406)">
+        <path stroke-linecap="butt" stroke-linejoin="miter" fill-opacity="0" stroke-miterlimit="10"
+          stroke="rgb(197,197,197)" stroke-opacity="1" stroke-width="3"
+          d=" M25.19300079345703,-0.0010000000474974513 C25.19300079345703,6.791999816894531 13.913999557495117,12.29800033569336 0,12.29800033569336 C-13.913999557495117,12.29800033569336 -25.194000244140625,6.791999816894531 -25.194000244140625,-0.0010000000474974513 C-25.194000244140625,-6.793000221252441 -13.913999557495117,-12.29800033569336 0,-12.29800033569336 C13.913999557495117,-12.29800033569336 25.19300079345703,-6.793000221252441 25.19300079345703,-0.0010000000474974513z">
+        </path>
+      </g>
+    </g>
+    <g style="display: block;"
+      transform="matrix(0.999998927116394,0,0,0.9999997615814209,-323.9996643066406,-32.99986267089844)" opacity="0.5">
+      <g opacity="1" transform="matrix(1,0,0,1,526.9920043945312,131.35400390625)">
+        <path fill="url(#__lottie_element_1735)" mask="url(#__lottie_element_1737)" fill-opacity="1"
+          d="M0 0 M-54.321998596191406,83.29299926757812 C-54.321998596191406,83.29299926757812 -54.321998596191406,-83.29299926757812 -54.321998596191406,-83.29299926757812 C-54.321998596191406,-99.29399871826172 -30.00200080871582,-112.26499938964844 0,-112.26499938964844 C30.000999450683594,-112.26499938964844 54.321998596191406,-99.29399871826172 54.321998596191406,-83.29299926757812 C54.321998596191406,-83.29299926757812 54.321998596191406,83.29299926757812 54.321998596191406,83.29299926757812 C54.321998596191406,99.29299926757812 30.000999450683594,112.26399993896484 0,112.26399993896484 C-30.00200080871582,112.26399993896484 -54.321998596191406,99.29299926757812 -54.321998596191406,83.29299926757812z">
+        </path>
+      </g>
+    </g>
+    <g style="display: block;"
+      transform="matrix(0.8999999761581421,0,0,0.4312500059604645,335.45001220703125,338.01873779296875)" opacity="0.5">
+      <g opacity="1" transform="matrix(1,0,0,1,9.5,-7)">
+        <path fill="url(#__lottie_element_1723)" mask="url(#__lottie_element_1725)" fill-opacity="1"
+          d="M0 0 M0,-96 C52.982398986816406,-96 96,-52.982398986816406 96,0 C96,52.982398986816406 52.982398986816406,96 0,96 C-52.982398986816406,96 -96,52.982398986816406 -96,0 C-96,-52.982398986816406 -52.982398986816406,-96 0,-96z">
+        </path>
+      </g>
+    </g>
+    <g style="display: block;" transform="matrix(1,0,0,1,0,0)" opacity="1">
+      <g opacity="1" transform="matrix(1,0,0,1,342.125,262.656005859375)">
+        <path fill="url(#__lottie_element_1712)" fill-opacity="1"
+          d=" M9.836000442504883,-88.5530014038086 C3.6600000858306885,-91.77799987792969 -3.6610000133514404,-91.77799987792969 -9.836999893188477,-88.5530014038086 C-9.836999893188477,-88.5530014038086 -78.47699737548828,-52.69900131225586 -78.47699737548828,-52.69900131225586 C-80.58599853515625,-51.597999572753906 -81.62899780273438,-49.500999450683594 -81.60700225830078,-47.41400146484375 C-81.60700225830078,-47.41400146484375 -81.60700225830078,47.4119987487793 -81.60700225830078,47.4119987487793 C-81.62899780273438,49.499000549316406 -80.58599853515625,51.595001220703125 -78.47699737548828,52.698001861572266 C-78.47699737548828,52.698001861572266 -9.836999893188477,88.5510025024414 -9.836999893188477,88.5510025024414 C-3.6610000133514404,91.7770004272461 3.6600000858306885,91.7770004272461 9.836000442504883,88.5510025024414 C9.836000442504883,88.5510025024414 78.47599792480469,52.698001861572266 78.47599792480469,52.698001861572266 C80.58399963378906,51.595001220703125 81.62799835205078,49.499000549316406 81.60600280761719,47.4119987487793 C81.60600280761719,47.4119987487793 81.60600280761719,-47.41400146484375 81.60600280761719,-47.41400146484375 C81.62799835205078,-49.500999450683594 80.58399963378906,-51.597999572753906 78.47599792480469,-52.69900131225586 C78.47599792480469,-52.69900131225586 9.836000442504883,-88.5530014038086 9.836000442504883,-88.5530014038086z">
+        </path>
+      </g>
+      <g opacity="1" transform="matrix(1,0,0,1,299.6239929199219,285.50299072265625)">
+        <path fill="url(#__lottie_element_1713)" fill-opacity="1"
+          d=" M31.238000869750977,-13.817999839782715 C31.01099967956543,-19.003999710083008 29.283000946044922,-20.726999282836914 24.9060001373291,-23.517000198364258 C24.9060001373291,-23.517000198364258 -24.732999801635742,-49.678001403808594 -24.732999801635742,-49.678001403808594 C-27.68899917602539,-51.5620002746582 -31.600000381469727,-51.30500030517578 -31.44700050354004,-47.801998138427734 C-31.44700050354004,-47.801998138427734 -31.23699951171875,13.817999839782715 -31.23699951171875,13.817999839782715 C-31.010000228881836,19.00200080871582 -30.281999588012695,19.72800064086914 -25.9060001373291,22.517000198364258 C-25.9060001373291,22.517000198364258 24.732999801635742,49.678001403808594 24.732999801635742,49.678001403808594 C27.690000534057617,51.5620002746582 31.600000381469727,51.30500030517578 31.44700050354004,47.801998138427734 C31.44700050354004,47.801998138427734 31.238000869750977,-13.817999839782715 31.238000869750977,-13.817999839782715z">
+        </path>
+      </g>
+      <g opacity="1" transform="matrix(1,0,0,1,386.0119934082031,286.0119934082031)">
+        <path fill="url(#__lottie_element_1714)" fill-opacity="1"
+          d=" M-18.172000885009766,-8.312000274658203 C-18.042999267578125,-11.246999740600586 -17.065000534057617,-12.222999572753906 -14.588000297546387,-13.800999641418457 C-14.588000297546387,-13.800999641418457 13.503999710083008,-28.60700035095215 13.503999710083008,-28.60700035095215 C15.177000045776367,-29.67300033569336 18.375999450683594,-28.827999114990234 18.375999450683594,-27.827999114990234 C18.375999450683594,-27.827999114990234 17.184999465942383,7.328000068664551 17.184999465942383,7.328000068664551 C17.055999755859375,10.26200008392334 16.643999099731445,10.67199993133545 14.168000221252441,12.25100040435791 C14.168000221252441,12.25100040435791 -14.12399959564209,28.672000885009766 -14.62399959564209,29.172000885009766 C-15.12399959564209,29.672000885009766 -18.375999450683594,28.542999267578125 -18.290000915527344,26.559999465942383 C-18.290000915527344,26.559999465942383 -18.172000885009766,-8.312000274658203 -18.172000885009766,-8.312000274658203z">
+        </path>
+      </g>
+      <g opacity="1" transform="matrix(1,0,0,1,387.3999938964844,286.52099609375)">
+        <path fill="url(#__lottie_element_1715)" fill-opacity="1"
+          d=" M-17.67799949645996,-7.820000171661377 C-17.548999786376953,-10.753999710083008 -16.572999954223633,-11.730999946594238 -14.095999717712402,-13.3100004196167 C-14.095999717712402,-13.3100004196167 13.996000289916992,-28.114999771118164 13.996000289916992,-28.114999771118164 C15.668999671936035,-29.180999755859375 17.882999420166016,-29.03499984741211 17.797000885009766,-27.052000045776367 C17.797000885009766,-27.052000045776367 17.677000045776367,7.820000171661377 17.677000045776367,7.820000171661377 C17.549999237060547,10.753999710083008 17.136999130249023,11.163999557495117 14.65999984741211,12.741999626159668 C14.65999984741211,12.741999626159668 -13.996999740600586,28.114999771118164 -13.996999740600586,28.114999771118164 C-15.670000076293945,29.180999755859375 -17.884000778198242,29.034000396728516 -17.797000885009766,27.052000045776367 C-17.797000885009766,27.052000045776367 -17.67799949645996,-7.820000171661377 -17.67799949645996,-7.820000171661377z">
+        </path>
+      </g>
+      <g opacity="1" transform="matrix(1,0,0,1,299.364990234375,285.677001953125)">
+        <path fill="url(#__lottie_element_1716)" fill-opacity="1"
+          d=" M-27.767000198364258,-51 C-28.062999725341797,-50.53499984741211 -28.22100067138672,-49.92900085449219 -28.187999725341797,-49.17100143432617 C-28.187999725341797,-49.17100143432617 -27.979000091552734,12.449000358581543 -27.979000091552734,12.449000358581543 C-27.75200080871582,17.634000778198242 -27.023000717163086,18.358999252319336 -22.64699935913086,21.148000717163086 C-22.64699935913086,21.148000717163086 27.990999221801758,48.308998107910156 27.990999221801758,48.308998107910156 C29.04400062561035,48.97999954223633 30.218000411987305,49.37900161743164 31.28499984741211,49.45800018310547 C30.211999893188477,51.141998291015625 27.30900001525879,50.98099899291992 24.990999221801758,49.50400161743164 C24.990999221801758,49.50400161743164 -25.64699935913086,22.343000411987305 -25.64699935913086,22.343000411987305 C-30.023000717163086,19.554000854492188 -30.75200080871582,18.82900047302246 -30.979000091552734,13.644000053405762 C-30.979000091552734,13.644000053405762 -31.187999725341797,-47.97600173950195 -31.187999725341797,-47.97600173950195 C-31.285999298095703,-50.231998443603516 -29.697999954223633,-51.141998291015625 -27.767000198364258,-51z">
+        </path>
+      </g>
+      <g opacity="1" transform="matrix(1,0,0,1,342.125,215.16299438476562)">
+        <path fill="url(#__lottie_element_1717)" fill-opacity="1"
+          d=" M9.836999893188477,-41.060001373291016 C3.6600000858306885,-44.28499984741211 -3.6589999198913574,-44.28499984741211 -9.836000442504883,-41.060001373291016 C-9.836000442504883,-41.060001373291016 -78.47799682617188,-5.2179999351501465 -78.47799682617188,-5.2179999351501465 C-82.6500015258789,-3.0390000343322754 -82.6500015258789,3.0390000343322754 -78.47799682617188,5.2179999351501465 C-78.47799682617188,5.2179999351501465 -9.836000442504883,41.060001373291016 -9.836000442504883,41.060001373291016 C-3.6589999198913574,44.28499984741211 3.6600000858306885,44.28499984741211 9.836999893188477,41.060001373291016 C9.836999893188477,41.060001373291016 78.47799682617188,5.2179999351501465 78.47799682617188,5.2179999351501465 C82.6500015258789,3.0390000343322754 82.6500015258789,-3.0390000343322754 78.47799682617188,-5.2179999351501465 C78.47799682617188,-5.2179999351501465 9.836999893188477,-41.060001373291016 9.836999893188477,-41.060001373291016z">
+        </path>
+      </g>
+      <g opacity="1" transform="matrix(1,0,0,1,342.8580017089844,214.08099365234375)">
+        <path fill="rgb(184,184,188)" fill-opacity="1"
+          d=" M22.2810001373291,-19.19499969482422 C18.808000564575195,-20.694000244140625 14.847999572753906,-21.812999725341797 10.545999526977539,-22.496000289916992 C8.475000381469727,-22.81999969482422 6.390999794006348,-23.03700065612793 4.307000160217285,-23.142000198364258 C2.296999931335449,-23.24799919128418 0.28600001335144043,-23.256000518798828 -1.7000000476837158,-23.163999557495117 C-3.638000011444092,-23.072999954223633 -5.551000118255615,-22.89699935913086 -7.427000045776367,-22.6299991607666 C-9.267000198364258,-22.368999481201172 -11.083000183105469,-22.024999618530273 -12.838000297546387,-21.601999282836914 C-12.838000297546387,-21.601999282836914 -13.39799976348877,-23.065000534057617 -13.39799976348877,-23.065000534057617 C-13.39799976348877,-23.065000534057617 -17.687999725341797,-18.94300079345703 -17.687999725341797,-18.94300079345703 C-17.687999725341797,-18.94300079345703 -11.229000091552734,-17.42300033569336 -11.229000091552734,-17.42300033569336 C-11.229000091552734,-17.42300033569336 -11.935999870300293,-19.267000198364258 -11.935999870300293,-19.267000198364258 C-10.413000106811523,-19.597000122070312 -8.876999855041504,-19.864999771118164 -7.317999839782715,-20.04800033569336 C-5.7210001945495605,-20.238000869750977 -4.11299991607666,-20.363000869750977 -2.492000102996826,-20.398000717163086 C-0.8349999785423279,-20.44099998474121 0.8339999914169312,-20.4060001373291 2.492000102996826,-20.280000686645508 C4.197999954223633,-20.152999877929688 5.9039998054504395,-19.941999435424805 7.5970001220703125,-19.625 C10.961000442504883,-19.006000518798828 14.031000137329102,-18.048999786376953 16.724000930786133,-16.788999557495117 C19.56399917602539,-15.473999977111816 21.96500015258789,-13.835000038146973 23.780000686645508,-11.956999778747559 C25.69300079345703,-9.994000434875488 26.959999084472656,-7.784999847412109 27.447999954223633,-5.434999942779541 C27.94700050354004,-3.007999897003174 27.618000030517578,-0.46799999475479126 26.32699966430664,2.0360000133514404 C26.32699966430664,2.0360000133514404 13.762999534606934,-1.8259999752044678 13.762999534606934,-1.8259999752044678 C13.92300033569336,-2.0439999103546143 14.079999923706055,-2.260999917984009 14.22599983215332,-2.4579999446868896 C14.359999656677246,-2.6619999408721924 14.494999885559082,-2.867000102996826 14.616000175476074,-3.063999891281128 C14.73799991607666,-3.260999917984009 14.847999572753906,-3.4509999752044678 14.932999610900879,-3.6410000324249268 C15.031000137329102,-3.8239998817443848 15.104000091552734,-4.006999969482422 15.177000045776367,-4.176000118255615 C15.335000038146973,-4.563000202178955 15.432999610900879,-4.942999839782715 15.482000350952148,-5.322999954223633 C15.529999732971191,-5.703000068664551 15.506999969482422,-6.067999839782715 15.432999610900879,-6.434000015258789 C15.359999656677246,-6.800000190734863 15.22599983215332,-7.1579999923706055 15.055000305175781,-7.510000228881836 C14.871999740600586,-7.854000091552734 14.640999794006348,-8.199999809265137 14.347999572753906,-8.538000106811523 C14.055999755859375,-8.875 13.715999603271484,-9.1850004196167 13.336999893188477,-9.472999572753906 C12.958999633789062,-9.76200008392334 12.520000457763672,-10.029000282287598 12.045000076293945,-10.276000022888184 C11.569999694824219,-10.522000312805176 11.045999526977539,-10.73900032043457 10.484999656677246,-10.935999870300293 C9.925999641418457,-11.133000373840332 9.32800006866455,-11.309000015258789 8.682000160217285,-11.470999717712402 C7.572999954223633,-11.744999885559082 6.488999843597412,-11.906999588012695 5.427999973297119,-11.984000205993652 C4.380000114440918,-12.053999900817871 3.3450000286102295,-12.020000457763672 2.321000099182129,-11.907999992370605 C1.309999942779541,-11.788000106811523 0.3109999895095825,-11.57699966430664 -0.6890000104904175,-11.267000198364258 C-1.6759999990463257,-10.96500015258789 -2.6510000228881836,-10.569999694824219 -3.625,-10.07800006866455 C-3.4790000915527344,-10.62600040435791 -3.443000078201294,-11.140000343322754 -3.5399999618530273,-11.604000091552734 C-3.625,-12.060999870300293 -3.8329999446868896,-12.47700023651123 -4.14900016784668,-12.842000007629395 C-4.466000080108643,-13.208000183105469 -4.88100004196167,-13.531999588012695 -5.428999900817871,-13.805999755859375 C-5.953000068664551,-14.081000328063965 -6.586999893188477,-14.305999755859375 -7.329999923706055,-14.496000289916992 C-7.71999979019165,-14.593999862670898 -8.097999572753906,-14.67300033569336 -8.475000381469727,-14.736000061035156 C-8.852999687194824,-14.798999786376953 -9.243000030517578,-14.840999603271484 -9.633000373840332,-14.869999885559082 C-10.02299976348877,-14.89799976348877 -10.401000022888184,-14.904000282287598 -10.803000450134277,-14.897000312805176 C-11.192999839782715,-14.883000373840332 -11.595000267028809,-14.862000465393066 -11.984999656677246,-14.819000244140625 C-12.069999694824219,-14.812000274658203 -12.130999565124512,-14.805000305175781 -12.215999603271484,-14.79800033569336 C-12.288999557495117,-14.784000396728516 -12.36299991607666,-14.78499984741211 -12.435999870300293,-14.770999908447266 C-12.508999824523926,-14.756999969482422 -12.593999862670898,-14.75 -12.666999816894531,-14.736000061035156 C-12.739999771118164,-14.722000122070312 -12.826000213623047,-14.71500015258789 -12.89900016784668,-14.701000213623047 C-13.37399959564209,-14.623000144958496 -13.824999809265137,-14.531999588012695 -14.25100040435791,-14.425999641418457 C-14.678000450134277,-14.321000099182129 -15.079999923706055,-14.199999809265137 -15.470000267028809,-14.0600004196167 C-15.847999572753906,-13.925999641418457 -16.21299934387207,-13.772000312805176 -16.554000854492188,-13.616999626159668 C-16.895999908447266,-13.447999954223633 -17.211999893188477,-13.279000282287598 -17.5049991607666,-13.081999778747559 C-17.61400032043457,-13.003999710083008 -17.749000549316406,-12.928000450134277 -17.857999801635742,-12.836000442504883 C-17.979999542236328,-12.751999855041504 -18.11400032043457,-12.659000396728516 -18.236000061035156,-12.560999870300293 C-18.3700008392334,-12.470000267028809 -18.503999710083008,-12.364999771118164 -18.63800048828125,-12.258999824523926 C-18.77199935913086,-12.154000282287598 -18.917999267578125,-12.039999961853027 -19.065000534057617,-11.928000450134277 C-19.065000534057617,-11.928000450134277 -23.17099952697754,-13.20199966430664 -23.17099952697754,-13.20199966430664 C-23.17099952697754,-13.20199966430664 -25.27899932861328,-11.168000221252441 -25.27899932861328,-11.168000221252441 C-25.27899932861328,-11.168000221252441 -21.40399932861328,-9.87399959564209 -21.40399932861328,-9.87399959564209 C-21.40399932861328,-9.87399959564209 -21.416000366210938,-9.866000175476074 -21.416000366210938,-9.866000175476074 C-21.46500015258789,-9.824000358581543 -21.513999938964844,-9.781999588012695 -21.549999237060547,-9.732999801635742 C-21.599000930786133,-9.690999984741211 -21.63599967956543,-9.640999794006348 -21.69700050354004,-9.592000007629395 C-21.7450008392334,-9.550000190734863 -21.79400062561035,-9.494999885559082 -21.843000411987305,-9.45199966430664 C-21.892000198364258,-9.40999984741211 -21.940000534057617,-9.352999687194824 -21.98900032043457,-9.310999870300293 C-21.98900032043457,-9.310999870300293 -23.329999923706055,-8.017000198364258 -23.329999923706055,-8.017000198364258 C-23.329999923706055,-8.017000198364258 -32.35900115966797,-11.258999824523926 -32.35900115966797,-11.258999824523926 C-32.505001068115234,-11.090999603271484 -32.66400146484375,-10.928999900817871 -32.810001373291016,-10.760000228881836 C-32.95600128173828,-10.590999603271484 -33.10200119018555,-10.42300033569336 -33.2239990234375,-10.253999710083008 C-33.369998931884766,-10.086000442504883 -33.492000579833984,-9.916999816894531 -33.625999450683594,-9.741000175476074 C-33.74800109863281,-9.571999549865723 -33.88199996948242,-9.395999908447266 -34.00400161743164,-9.22700023651123 C-34.564998626708984,-8.425000190734863 -35.040000915527344,-7.616000175476074 -35.44200134277344,-6.793000221252441 C-35.832000732421875,-5.9629998207092285 -36.14899826049805,-5.118000030517578 -36.391998291015625,-4.258999824523926 C-36.64799880981445,-3.3940000534057617 -36.79499816894531,-2.5220000743865967 -36.84299850463867,-1.6349999904632568 C-36.90399932861328,-0.7419999837875366 -36.880001068115234,0.15800000727176666 -36.74599838256836,1.065000057220459 C-36.57500076293945,2.190999984741211 -36.270999908447266,3.309999942779541 -35.80799865722656,4.39300012588501 C-35.332000732421875,5.51200008392334 -34.69900131225586,6.59499979019165 -33.91899871826172,7.651000022888184 C-33.1150016784668,8.734000205993652 -32.152000427246094,9.782999992370605 -31.018999099731445,10.788999557495117 C-29.861000061035156,11.824000358581543 -28.507999420166016,12.800000190734863 -26.996999740600586,13.729000091552734 C-25.51099967956543,14.630000114440918 -23.889999389648438,15.45300006866455 -22.148000717163086,16.177000045776367 C-20.356000900268555,16.93000030517578 -18.454999923706055,17.577999114990234 -16.420000076293945,18.1200008392334 C-14.336999893188477,18.676000595092773 -12.142999649047852,19.125 -9.85200023651123,19.434999465942383 C-7.48799991607666,19.757999420166016 -5.051000118255615,19.94099998474121 -2.5409998893737793,19.983999252319336 C-2.5409998893737793,19.983999252319336 -1.4320000410079956,23.2549991607666 -1.4320000410079956,23.2549991607666 C-1.4320000410079956,23.2549991607666 4.868000030517578,17.155000686645508 4.868000030517578,17.155000686645508 C4.868000030517578,17.155000686645508 -5.14900016784668,12.343999862670898 -5.14900016784668,12.343999862670898 C-5.14900016784668,12.343999862670898 -4.0879998207092285,15.461000442504883 -4.0879998207092285,15.461000442504883 C-6.074999809265137,15.468000411987305 -8.02400016784668,15.354999542236328 -9.913000106811523,15.13700008392334 C-11.753000259399414,14.918999671936035 -13.531999588012695,14.609999656677246 -15.21399974822998,14.201000213623047 C-16.871000289916992,13.807000160217285 -18.44300079345703,13.321999549865723 -19.93000030517578,12.744999885559082 C-21.3799991607666,12.189000129699707 -22.7450008392334,11.555999755859375 -23.988000869750977,10.852999687194824 C-26.339000701904297,9.536999702453613 -28.215999603271484,8.045000076293945 -29.617000579833984,6.461999893188477 C-30.969999313354492,4.934999942779541 -31.920000076293945,3.318000078201294 -32.444000244140625,1.6640000343322754 C-32.98099899291992,0.05999999865889549 -33.1150016784668,-1.593999981880188 -32.85900115966797,-3.2330000400543213 C-32.6150016784668,-4.836999893188477 -32.00600051879883,-6.453999996185303 -31.006000518798828,-8.029999732971191 C-31.006000518798828,-8.029999732971191 -25.547000885009766,-5.892000198364258 -25.547000885009766,-5.892000198364258 C-25.547000885009766,-5.892000198364258 -30.23900032043457,-1.3830000162124634 -30.23900032043457,-1.3830000162124634 C-30.23900032043457,-1.3830000162124634 -26.291000366210938,0.44699999690055847 -26.291000366210938,0.44699999690055847 C-26.291000366210938,0.44699999690055847 -23.975000381469727,-1.7760000228881836 -23.975000381469727,-1.7760000228881836 C-23.975000381469727,-1.7760000228881836 -4.014999866485596,6.763999938964844 -4.014999866485596,6.763999938964844 C-4.014999866485596,6.763999938964844 -6.806000232696533,9.460000038146973 -6.806000232696533,9.460000038146973 C-6.806000232696533,9.460000038146973 -0.4819999933242798,12.378999710083008 -0.4819999933242798,12.378999710083008 C-0.4819999933242798,12.378999710083008 5.732999801635742,6.370999813079834 5.732999801635742,6.370999813079834 C5.732999801635742,6.370999813079834 12.923999786376953,9.1850004196167 12.923999786376953,9.1850004196167 C12.923999786376953,9.1850004196167 15.993000030517578,6.215000152587891 15.993000030517578,6.215000152587891 C15.993000030517578,6.215000152587891 8.645000457763672,3.563999891281128 8.645000457763672,3.563999891281128 C8.645000457763672,3.563999891281128 10.437000274658203,1.840000033378601 10.437000274658203,1.840000033378601 C10.498000144958496,1.7769999504089355 10.559000015258789,1.7130000591278076 10.633000373840332,1.656000018119812 C10.692999839782715,1.593000054359436 10.753999710083008,1.5299999713897705 10.82699966430664,1.4739999771118164 C10.887999534606934,1.409999966621399 10.949000358581543,1.347000002861023 11.008999824523926,1.284000039100647 C11.069999694824219,1.2200000286102295 11.131999969482422,1.1579999923706055 11.192000389099121,1.0950000286102295 C11.192000389099121,1.0950000286102295 23.98699951171875,5.385000228881836 23.98699951171875,5.385000228881836 C23.98699951171875,5.385000228881836 31.95599937438965,8.0600004196167 31.95599937438965,8.0600004196167 C31.9689998626709,8.053000450134277 31.9689998626709,8.053000450134277 31.9689998626709,8.038999557495117 C32.23699951171875,7.756999969482422 32.47999954223633,7.474999904632568 32.71200180053711,7.185999870300293 C32.944000244140625,6.8979997634887695 33.17599868774414,6.610000133514404 33.382999420166016,6.322000026702881 C33.59000015258789,6.0329999923706055 33.79600143432617,5.74399995803833 33.99100112915039,5.448999881744385 C34.18600082397461,5.1529998779296875 34.36899948120117,4.864999771118164 34.540000915527344,4.568999767303467 C36.380001068115234,1.3819999694824219 36.90399932861328,-1.8600000143051147 36.27000045776367,-4.96999979019165 C35.67399978637695,-7.960000038146973 34.01599884033203,-10.760000228881836 31.493000030517578,-13.229000091552734 C29.117000579833984,-15.586000442504883 25.986000061035156,-17.604999542236328 22.2810001373291,-19.19499969482422z M-12.777000427246094,-4.23199987411499 C-12.777000427246094,-4.23199987411499 -19.07699966430664,-6.504000186920166 -19.07699966430664,-6.504000186920166 C-19.07699966430664,-6.504000186920166 -17.857999801635742,-7.671999931335449 -17.857999801635742,-7.671999931335449 C-17.577999114990234,-7.933000087738037 -17.32200050354004,-8.178000450134277 -17.054000854492188,-8.388999938964844 C-16.79800033569336,-8.607000350952148 -16.54199981689453,-8.79800033569336 -16.285999298095703,-8.960000038146973 C-16.042999267578125,-9.128999710083008 -15.798999786376953,-9.267999649047852 -15.567000389099121,-9.387999534606934 C-15.336000442504883,-9.508000373840332 -15.104000091552734,-9.598999977111816 -14.885000228881836,-9.668999671936035 C-14.666000366210938,-9.739999771118164 -14.434000015258789,-9.788999557495117 -14.20300006866455,-9.824000358581543 C-13.970999717712402,-9.859000205993652 -13.71500015258789,-9.866000175476074 -13.458999633789062,-9.859000205993652 C-13.20300006866455,-9.85200023651123 -12.9350004196167,-9.824999809265137 -12.678999900817871,-9.776000022888184 C-12.39900016784668,-9.72700023651123 -12.130999565124512,-9.656000137329102 -11.83899974822998,-9.571999549865723 C-11.522000312805176,-9.472999572753906 -11.241000175476074,-9.366999626159668 -10.998000144958496,-9.253999710083008 C-10.753999710083008,-9.142000198364258 -10.54699993133545,-9.02299976348877 -10.37600040435791,-8.897000312805176 C-10.206000328063965,-8.770000457763672 -10.071999549865723,-8.635000228881836 -9.986000061035156,-8.48799991607666 C-9.888999938964844,-8.347000122070312 -9.85200023651123,-8.199000358581543 -9.82800006866455,-8.043999671936035 C-9.815999984741211,-7.881999969482422 -9.84000015258789,-7.729000091552734 -9.888999938964844,-7.546000003814697 C-9.949999809265137,-7.369999885559082 -10.03499984741211,-7.178999900817871 -10.145000457763672,-6.974999904632568 C-10.267000198364258,-6.7779998779296875 -10.425000190734863,-6.559999942779541 -10.607999801635742,-6.3420000076293945 C-10.803000450134277,-6.117000102996826 -11.010000228881836,-5.883999824523926 -11.265999794006348,-5.638000011444092 C-11.265999794006348,-5.638000011444092 -12.777000427246094,-4.23199987411499 -12.777000427246094,-4.23199987411499z M4.697000026702881,-5.047999858856201 C4.940999984741211,-4.879000186920166 5.1479997634887695,-4.703999996185303 5.294000148773193,-4.520999908447266 C5.440999984741211,-4.3379998207092285 5.538000106811523,-4.140999794006348 5.561999797821045,-3.944000005722046 C5.598999977111816,-3.740000009536743 5.586999893188477,-3.5220000743865967 5.526000022888184,-3.2750000953674316 C5.466000080108643,-3.0290000438690186 5.3429999351501465,-2.7760000228881836 5.184999942779541,-2.486999988555908 C5.013999938964844,-2.2060000896453857 4.795000076293945,-1.8960000276565552 4.5269999504089355,-1.5729999542236328 C4.260000228881836,-1.2489999532699585 3.930000066757202,-0.9039999842643738 3.552000045776367,-0.5460000038146973 C3.552000045776367,-0.5460000038146973 1.8949999809265137,1.059000015258789 1.8949999809265137,1.059000015258789 C1.8949999809265137,1.059000015258789 -7.548999786376953,-2.3399999141693115 -7.548999786376953,-2.3399999141693115 C-7.548999786376953,-2.3399999141693115 -6.013999938964844,-3.815999984741211 -6.013999938964844,-3.815999984741211 C-5.684999942779541,-4.132999897003174 -5.368000030517578,-4.414000034332275 -5.039000034332275,-4.673999786376953 C-4.710000038146973,-4.934999942779541 -4.39300012588501,-5.160999774932861 -4.064000129699707,-5.364999771118164 C-3.734999895095825,-5.568999767303467 -3.4179999828338623,-5.736999988555908 -3.0889999866485596,-5.883999824523926 C-2.759999990463257,-6.0320000648498535 -2.430999994277954,-6.1529998779296875 -2.114000082015991,-6.236999988555908 C-1.784999966621399,-6.328999996185303 -1.444000005722046,-6.383999824523926 -1.090999960899353,-6.419000148773193 C-0.7369999885559082,-6.453999996185303 -0.36000001430511475,-6.461999893188477 0.029999999329447746,-6.434000015258789 C0.41999998688697815,-6.406000137329102 0.8339999914169312,-6.363999843597412 1.2489999532699585,-6.2789998054504395 C1.6749999523162842,-6.202000141143799 2.125999927520752,-6.080999851226807 2.6010000705718994,-5.947999954223633 C3.052000045776367,-5.814000129699707 3.4539999961853027,-5.666999816894531 3.808000087738037,-5.519999980926514 C4.13700008392334,-5.372000217437744 4.440999984741211,-5.210000038146973 4.697000026702881,-5.047999858856201z">
+        </path>
+      </g>
+      <g opacity="1" transform="matrix(1,0,0,1,280.531005859375,276.3909912109375)">
+        <path fill="url(#__lottie_element_1718)" fill-opacity="1"
+          d=" M-4.99399995803833,1.9550000429153442 C-3.8540000915527344,6.164999961853027 0.8460000157356262,8.222000122070312 3.056999921798706,7.624000072479248 C5.267000198364258,7.02400016784668 6.136000156402588,3.125999927520752 4.994999885559082,-1.0839999914169312 C3.8550000190734863,-5.294000148773193 1.1380000114440918,-8.222000122070312 -1.0720000267028809,-7.622000217437744 C-3.2820000648498535,-7.0229997634887695 -6.135000228881836,-2.25600004196167 -4.99399995803833,1.9550000429153442z">
+        </path>
+      </g>
+      <g opacity="1" transform="matrix(1,0,0,1,281.38800048828125,293.8689880371094)">
+        <path fill="url(#__lottie_element_1719)" fill-opacity="1"
+          d=" M0.5529999732971191,6.090000152587891 C0.5529999732971191,6.090000152587891 -1.4470000267028809,5.090000152587891 -1.4470000267028809,5.090000152587891 C-1.7860000133514404,4.921000003814697 -2,4.576000213623047 -2,4.197000026702881 C-2,4.197000026702881 -2,-5.242000102996826 -2,-5.242000102996826 C-2,-5.939000129699707 -1.3029999732971191,-6.422999858856201 -0.6489999890327454,-6.177999973297119 C-0.6489999890327454,-6.177999973297119 1.3509999513626099,-5.427999973297119 1.3509999513626099,-5.427999973297119 C1.7410000562667847,-5.2820000648498535 2,-4.908999919891357 2,-4.492000102996826 C2,-4.492000102996826 2,5.197000026702881 2,5.197000026702881 C2,5.940999984741211 1.218000054359436,6.422999858856201 0.5529999732971191,6.090000152587891z">
+        </path>
+      </g>
+    </g>
+    <g style="display: block;"
+      transform="matrix(1.7999999523162842,0,0,2.200000047683716,513.0238647460938,-20.908172607421875)" opacity="0.1">
+      <g opacity="1" transform="matrix(1,0,0,1,-196.25,155.5469970703125)">
+        <path fill="url(#__lottie_element_1708)" fill-opacity="1"
+          d=" M0,-7.640500068664551 C7.899068832397461,-7.640500068664551 14.3125,-4.216792106628418 14.3125,0 C14.3125,4.216792106628418 7.899068832397461,7.640500068664551 0,7.640500068664551 C-7.899068832397461,7.640500068664551 -14.3125,4.216792106628418 -14.3125,0 C-14.3125,-4.216792106628418 -7.899068832397461,-7.640500068664551 0,-7.640500068664551z">
+        </path>
+      </g>
+    </g>
+    <g style="display: block;"
+      transform="matrix(1.350000023841858,0,0,1.600000023841858,424.71136474609375,72.42002868652344)"
+      opacity="0.23420800000010566">
+      <g opacity="1" transform="matrix(1,0,0,1,-196.25,155.5469970703125)">
+        <path stroke="url(#__lottie_element_1704)" stroke-linecap="butt" stroke-linejoin="miter" fill-opacity="0"
+          stroke-miterlimit="4" stroke-opacity="1" stroke-width="1"
+          d=" M0,-7.640500068664551 C7.899068832397461,-7.640500068664551 14.3125,-4.216792106628418 14.3125,0 C14.3125,4.216792106628418 7.899068832397461,7.640500068664551 0,7.640500068664551 C-7.899068832397461,7.640500068664551 -14.3125,4.216792106628418 -14.3125,0 C-14.3125,-4.216792106628418 -7.899068832397461,-7.640500068664551 0,-7.640500068664551z">
+        </path>
+      </g>
+    </g>
+    <g style="display: block;" transform="matrix(1,0,0,1,9.83587646484375,-100.68878173828125)" opacity="1">
+      <g opacity="1" transform="matrix(1,0,0,1,150.1529998779297,422.0360107421875)">
+        <path fill="url(#__lottie_element_1688)" fill-opacity="1"
+          d=" M-10.369999885559082,-5.986999988555908 C-4.64300012588501,-9.293999671936035 4.64300012588501,-9.293999671936035 10.369999885559082,-5.986999988555908 C16.097000122070312,-2.680000066757202 16.097000122070312,2.680999994277954 10.369999885559082,5.98799991607666 C4.64300012588501,9.293999671936035 -4.64300012588501,9.293999671936035 -10.369999885559082,5.98799991607666 C-16.097000122070312,2.680999994277954 -16.097000122070312,-2.680000066757202 -10.369999885559082,-5.986999988555908z">
+        </path>
+      </g>
+      <g opacity="1" transform="matrix(1,0,0,1,150.1529998779297,390.02301025390625)">
+        <path fill="url(#__lottie_element_1689)" mask="url(#__lottie_element_1691)" fill-opacity="1"
+          d="M0 0 M-7.357999801635742,31.507999420166016 C-7.357999801635742,31.507999420166016 -7.357999801635742,-31.507999420166016 -7.357999801635742,-31.507999420166016 C-7.357999801635742,-33.64799880981445 -4.064000129699707,-35.382999420166016 0,-35.382999420166016 C4.064000129699707,-35.382999420166016 7.357999801635742,-33.64799880981445 7.357999801635742,-31.507999420166016 C7.357999801635742,-31.507999420166016 7.357999801635742,31.507999420166016 7.357999801635742,31.507999420166016 C7.357999801635742,33.64799880981445 4.064000129699707,35.382999420166016 0,35.382999420166016 C-4.064000129699707,35.382999420166016 -7.357999801635742,33.64799880981445 -7.357999801635742,31.507999420166016z">
+        </path>
+      </g>
+      <g opacity="1" transform="matrix(1,0,0,1,150.1529998779297,380.5260009765625)">
+        <path fill="url(#__lottie_element_1692)" mask="url(#__lottie_element_1694)" fill-opacity="0.10065600000007927"
+          d="M0 0 M-18.06100082397461,43.393001556396484 C-18.06100082397461,43.393001556396484 -18.06100082397461,-43.39400100708008 -18.06100082397461,-43.39400100708008 C-18.06100082397461,-48.612998962402344 -9.975000381469727,-52.84400177001953 -0.0010000000474974513,-52.84400177001953 C9.973999977111816,-52.84400177001953 18.059999465942383,-48.612998962402344 18.059999465942383,-43.39400100708008 C18.059999465942383,-43.39400100708008 18.059999465942383,43.393001556396484 18.059999465942383,43.393001556396484 C18.059999465942383,48.61199951171875 9.973999977111816,52.84299850463867 -0.0010000000474974513,52.84299850463867 C-9.975000381469727,52.84299850463867 -18.06100082397461,48.61199951171875 -18.06100082397461,43.393001556396484z">
+        </path>
+      </g>
+    </g>
+    <g style="display: block;"
+      transform="matrix(0.699999988079071,0,0,0.699999988079071,297.14886474609375,212.41232299804688)" opacity="1">
+      <g opacity="1" transform="matrix(1,0,0,1,-196.25,155.5469970703125)">
+        <path stroke="url(#__lottie_element_1697)" stroke-linecap="butt" stroke-linejoin="miter" fill-opacity="0"
+          stroke-miterlimit="4" stroke-opacity="1" stroke-width="2"
+          d=" M0,-7.640500068664551 C7.899068832397461,-7.640500068664551 14.3125,-4.216792106628418 14.3125,0 C14.3125,4.216792106628418 7.899068832397461,7.640500068664551 0,7.640500068664551 C-7.899068832397461,7.640500068664551 -14.3125,4.216792106628418 -14.3125,0 C-14.3125,-4.216792106628418 -7.899068832397461,-7.640500068664551 0,-7.640500068664551z">
+        </path>
+      </g>
+      <g opacity="1" transform="matrix(1,0,0,1,-196.25,149.2969970703125)">
+        <path stroke="url(#__lottie_element_1698)" stroke-linecap="butt" stroke-linejoin="miter" fill-opacity="0"
+          stroke-miterlimit="4" stroke-opacity="0.75" stroke-width="2"
+          d=" M0,-7.640500068664551 C7.899068832397461,-7.640500068664551 14.3125,-4.216792106628418 14.3125,0 C14.3125,4.216792106628418 7.899068832397461,7.640500068664551 0,7.640500068664551 C-7.899068832397461,7.640500068664551 -14.3125,4.216792106628418 -14.3125,0 C-14.3125,-4.216792106628418 -7.899068832397461,-7.640500068664551 0,-7.640500068664551z">
+        </path>
+      </g>
+      <g opacity="1" transform="matrix(1,0,0,1,-196.25,143.2969970703125)">
+        <path stroke="url(#__lottie_element_1699)" stroke-linecap="butt" stroke-linejoin="miter" fill-opacity="0"
+          stroke-miterlimit="4" stroke-opacity="0.5" stroke-width="2"
+          d=" M0,-7.640500068664551 C7.899068832397461,-7.640500068664551 14.3125,-4.216792106628418 14.3125,0 C14.3125,4.216792106628418 7.899068832397461,7.640500068664551 0,7.640500068664551 C-7.899068832397461,7.640500068664551 -14.3125,4.216792106628418 -14.3125,0 C-14.3125,-4.216792106628418 -7.899068832397461,-7.640500068664551 0,-7.640500068664551z">
+        </path>
+      </g>
+      <g opacity="1" transform="matrix(1,0,0,1,-196.25,137.0469970703125)">
+        <path stroke="url(#__lottie_element_1700)" stroke-linecap="butt" stroke-linejoin="miter" fill-opacity="0"
+          stroke-miterlimit="4" stroke-opacity="0.25" stroke-width="2"
+          d=" M0,-7.640500068664551 C7.899068832397461,-7.640500068664551 14.3125,-4.216792106628418 14.3125,0 C14.3125,4.216792106628418 7.899068832397461,7.640500068664551 0,7.640500068664551 C-7.899068832397461,7.640500068664551 -14.3125,4.216792106628418 -14.3125,0 C-14.3125,-4.216792106628418 -7.899068832397461,-7.640500068664551 0,-7.640500068664551z">
+        </path>
+      </g>
+    </g>
+    <g style="display: none;"
+      transform="matrix(1.7999999523162842,0,0,2.200000047683716,805.18798828125,89.78060913085938)"
+      opacity="0.00024400000007442912">
+      <g opacity="1" transform="matrix(1,0,0,1,-196.25,155.5469970703125)">
+        <path fill="url(#__lottie_element_1683)" fill-opacity="1"
+          d=" M0,-7.640500068664551 C7.899068832397461,-7.640500068664551 14.3125,-4.216792106628418 14.3125,0 C14.3125,4.216792106628418 7.899068832397461,7.640500068664551 0,7.640500068664551 C-7.899068832397461,7.640500068664551 -14.3125,4.216792106628418 -14.3125,0 C-14.3125,-4.216792106628418 -7.899068832397461,-7.640500068664551 0,-7.640500068664551z">
+        </path>
+      </g>
+    </g>
+    <g style="display: none;"
+      transform="matrix(1.350000023841858,0,0,1.600000023841858,716.87548828125,183.1088104248047)"
+      opacity="0.05607360000032749">
+      <g opacity="1" transform="matrix(1,0,0,1,-196.25,155.5469970703125)">
+        <path stroke="url(#__lottie_element_1679)" stroke-linecap="butt" stroke-linejoin="miter" fill-opacity="0"
+          stroke-miterlimit="4" stroke-opacity="1" stroke-width="1"
+          d=" M0,-7.640500068664551 C7.899068832397461,-7.640500068664551 14.3125,-4.216792106628418 14.3125,0 C14.3125,4.216792106628418 7.899068832397461,7.640500068664551 0,7.640500068664551 C-7.899068832397461,7.640500068664551 -14.3125,4.216792106628418 -14.3125,0 C-14.3125,-4.216792106628418 -7.899068832397461,-7.640500068664551 0,-7.640500068664551z">
+        </path>
+      </g>
+    </g>
+    <g style="display: none;" transform="matrix(1,0,0,1,286.253662109375,18.49981689453125)"
+      opacity="0.0865333333317912">
+      <g opacity="1" transform="matrix(1,0,0,1,150.1529998779297,422.0360107421875)">
+        <path fill="url(#__lottie_element_1663)" fill-opacity="1"
+          d=" M-10.369999885559082,-5.986999988555908 C-4.64300012588501,-9.293999671936035 4.64300012588501,-9.293999671936035 10.369999885559082,-5.986999988555908 C16.097000122070312,-2.680000066757202 16.097000122070312,2.680999994277954 10.369999885559082,5.98799991607666 C4.64300012588501,9.293999671936035 -4.64300012588501,9.293999671936035 -10.369999885559082,5.98799991607666 C-16.097000122070312,2.680999994277954 -16.097000122070312,-2.680000066757202 -10.369999885559082,-5.986999988555908z">
+        </path>
+      </g>
+      <g opacity="1" transform="matrix(1,0,0,1,150.1529998779297,390.02301025390625)">
+        <path fill="url(#__lottie_element_1664)" mask="url(#__lottie_element_1666)" fill-opacity="1"
+          d="M0 0 M-7.357999801635742,31.507999420166016 C-7.357999801635742,31.507999420166016 -7.357999801635742,-31.507999420166016 -7.357999801635742,-31.507999420166016 C-7.357999801635742,-33.64799880981445 -4.064000129699707,-35.382999420166016 0,-35.382999420166016 C4.064000129699707,-35.382999420166016 7.357999801635742,-33.64799880981445 7.357999801635742,-31.507999420166016 C7.357999801635742,-31.507999420166016 7.357999801635742,31.507999420166016 7.357999801635742,31.507999420166016 C7.357999801635742,33.64799880981445 4.064000129699707,35.382999420166016 0,35.382999420166016 C-4.064000129699707,35.382999420166016 -7.357999801635742,33.64799880981445 -7.357999801635742,31.507999420166016z">
+        </path>
+      </g>
+      <g opacity="1" transform="matrix(1,0,0,1,150.1529998779297,380.5260009765625)">
+        <path fill="url(#__lottie_element_1667)" mask="url(#__lottie_element_1669)" fill-opacity="0.44156923076958665"
+          d="M0 0 M-18.06100082397461,43.393001556396484 C-18.06100082397461,43.393001556396484 -18.06100082397461,-43.39400100708008 -18.06100082397461,-43.39400100708008 C-18.06100082397461,-48.612998962402344 -9.975000381469727,-52.84400177001953 -0.0010000000474974513,-52.84400177001953 C9.973999977111816,-52.84400177001953 18.059999465942383,-48.612998962402344 18.059999465942383,-43.39400100708008 C18.059999465942383,-43.39400100708008 18.059999465942383,43.393001556396484 18.059999465942383,43.393001556396484 C18.059999465942383,48.61199951171875 9.973999977111816,52.84299850463867 -0.0010000000474974513,52.84299850463867 C-9.975000381469727,52.84299850463867 -18.06100082397461,48.61199951171875 -18.06100082397461,43.393001556396484z">
+        </path>
+      </g>
+    </g>
+    <g style="display: none;"
+      transform="matrix(0.699999988079071,0,0,0.699999988079071,589.31298828125,323.1011047363281)"
+      opacity="0.0032533333343258163">
+      <g opacity="1" transform="matrix(1,0,0,1,-196.25,155.5469970703125)">
+        <path stroke="url(#__lottie_element_1672)" stroke-linecap="butt" stroke-linejoin="miter" fill-opacity="0"
+          stroke-miterlimit="4" stroke-opacity="1" stroke-width="2"
+          d=" M0,-7.640500068664551 C7.899068832397461,-7.640500068664551 14.3125,-4.216792106628418 14.3125,0 C14.3125,4.216792106628418 7.899068832397461,7.640500068664551 0,7.640500068664551 C-7.899068832397461,7.640500068664551 -14.3125,4.216792106628418 -14.3125,0 C-14.3125,-4.216792106628418 -7.899068832397461,-7.640500068664551 0,-7.640500068664551z">
+        </path>
+      </g>
+      <g opacity="1" transform="matrix(1,0,0,1,-196.25,149.2969970703125)">
+        <path stroke="url(#__lottie_element_1673)" stroke-linecap="butt" stroke-linejoin="miter" fill-opacity="0"
+          stroke-miterlimit="4" stroke-opacity="0.75" stroke-width="2"
+          d=" M0,-7.640500068664551 C7.899068832397461,-7.640500068664551 14.3125,-4.216792106628418 14.3125,0 C14.3125,4.216792106628418 7.899068832397461,7.640500068664551 0,7.640500068664551 C-7.899068832397461,7.640500068664551 -14.3125,4.216792106628418 -14.3125,0 C-14.3125,-4.216792106628418 -7.899068832397461,-7.640500068664551 0,-7.640500068664551z">
+        </path>
+      </g>
+      <g opacity="1" transform="matrix(1,0,0,1,-196.25,143.2969970703125)">
+        <path stroke="url(#__lottie_element_1674)" stroke-linecap="butt" stroke-linejoin="miter" fill-opacity="0"
+          stroke-miterlimit="4" stroke-opacity="0.5" stroke-width="2"
+          d=" M0,-7.640500068664551 C7.899068832397461,-7.640500068664551 14.3125,-4.216792106628418 14.3125,0 C14.3125,4.216792106628418 7.899068832397461,7.640500068664551 0,7.640500068664551 C-7.899068832397461,7.640500068664551 -14.3125,4.216792106628418 -14.3125,0 C-14.3125,-4.216792106628418 -7.899068832397461,-7.640500068664551 0,-7.640500068664551z">
+        </path>
+      </g>
+      <g opacity="1" transform="matrix(1,0,0,1,-196.25,137.0469970703125)">
+        <path stroke="url(#__lottie_element_1675)" stroke-linecap="butt" stroke-linejoin="miter" fill-opacity="0"
+          stroke-miterlimit="4" stroke-opacity="0.25" stroke-width="2"
+          d=" M0,-7.640500068664551 C7.899068832397461,-7.640500068664551 14.3125,-4.216792106628418 14.3125,0 C14.3125,4.216792106628418 7.899068832397461,7.640500068664551 0,7.640500068664551 C-7.899068832397461,7.640500068664551 -14.3125,4.216792106628418 -14.3125,0 C-14.3125,-4.216792106628418 -7.899068832397461,-7.640500068664551 0,-7.640500068664551z">
+        </path>
+      </g>
+    </g>
+    <g style="display: block;" transform="matrix(1,0,0,1,0,0)" opacity="1">
+      <g opacity="1" transform="matrix(1,0,0,1,397.9779968261719,293.1929931640625)">
+        <path fill="rgb(215,255,255)" fill-opacity="1"
+          d=" M-4.390999794006348,-1.9240000247955322 C-4.364999771118164,-2.5369999408721924 -4.159999847412109,-2.740999937057495 -3.6419999599456787,-3.072000026702881 C-3.6419999599456787,-3.072000026702881 2.2339999675750732,-6.168000221252441 2.2339999675750732,-6.168000221252441 C2.5840001106262207,-6.390999794006348 4.434000015258789,-5.843999862670898 4.434000015258789,-5.635000228881836 C4.434000015258789,-5.635000228881836 4.184999942779541,1.718000054359436 4.184999942779541,1.718000054359436 C4.1579999923706055,2.3320000171661377 4.072000026702881,2.4179999828338623 3.552999973297119,2.747999906539917 C3.552999973297119,2.747999906539917 -2.364000082015991,6.182000160217285 -2.4690001010894775,6.288000106811523 C-2.572999954223633,6.390999794006348 -4.434000015258789,5.784999847412109 -4.415999889373779,5.370999813079834 C-4.415999889373779,5.370999813079834 -4.390999794006348,-1.9240000247955322 -4.390999794006348,-1.9240000247955322z">
+        </path>
+      </g>
+      <g opacity="1" transform="matrix(1,0,0,1,398.85699462890625,293.4859924316406)">
+        <path fill="url(#__lottie_element_1658)" fill-opacity="1"
+          d=" M-3.697000026702881,-1.6349999904632568 C-3.6710000038146973,-2.249000072479248 -3.4660000801086426,-2.4539999961853027 -2.947000026702881,-2.7839999198913574 C-2.947000026702881,-2.7839999198913574 2.928999900817871,-5.880000114440918 2.928999900817871,-5.880000114440918 C3.2790000438690186,-6.103000164031982 3.740000009536743,-6.073999881744385 3.7230000495910645,-5.658999919891357 C3.7230000495910645,-5.658999919891357 3.6989998817443848,1.6349999904632568 3.6989998817443848,1.6349999904632568 C3.671999931335449,2.249000072479248 3.5859999656677246,2.3359999656677246 3.066999912261963,2.6659998893737793 C3.066999912261963,2.6659998893737793 -2.927000045776367,5.880000114440918 -2.927000045776367,5.880000114440918 C-3.2769999504089355,6.103000164031982 -3.740000009536743,6.072999954223633 -3.7219998836517334,5.658999919891357 C-3.7219998836517334,5.658999919891357 -3.697000026702881,-1.6349999904632568 -3.697000026702881,-1.6349999904632568z">
+        </path>
+      </g>
+      <g opacity="1" transform="matrix(1,0,0,1,398.7860107421875,293.03399658203125)">
+        <path fill="rgb(255,255,255)" fill-opacity="0"
+          d=" M5.066999912261963,2.38100004196167 C2.940000057220459,6.908999919891357 -1.0540000200271606,9.515000343322754 -3.8529999256134033,8.199000358581543 C-6.6519999504089355,6.883999824523926 -7.196000099182129,2.1480000019073486 -5.068999767303467,-2.38100004196167 C-2.940999984741211,-6.908999919891357 1.0520000457763672,-9.515000343322754 3.8510000705718994,-8.199000358581543 C6.650000095367432,-6.883999824523926 7.195000171661377,-2.1470000743865967 5.066999912261963,2.38100004196167z">
+        </path>
+      </g>
+    </g>
+    <g style="display: block;" transform="matrix(1,0,0,1,-9.625,5.5)" opacity="1">
+      <g opacity="1" transform="matrix(1,0,0,1,397.9779968261719,293.1929931640625)">
+        <path fill="rgb(48,86,111)" fill-opacity="1"
+          d=" M-4.390999794006348,-1.9240000247955322 C-4.364999771118164,-2.5369999408721924 -4.159999847412109,-2.740999937057495 -3.6419999599456787,-3.072000026702881 C-3.6419999599456787,-3.072000026702881 2.2339999675750732,-6.168000221252441 2.2339999675750732,-6.168000221252441 C2.5840001106262207,-6.390999794006348 4.434000015258789,-5.843999862670898 4.434000015258789,-5.635000228881836 C4.434000015258789,-5.635000228881836 4.184999942779541,1.718000054359436 4.184999942779541,1.718000054359436 C4.1579999923706055,2.3320000171661377 4.072000026702881,2.4179999828338623 3.552999973297119,2.747999906539917 C3.552999973297119,2.747999906539917 -2.364000082015991,6.182000160217285 -2.4690001010894775,6.288000106811523 C-2.572999954223633,6.390999794006348 -4.434000015258789,5.784999847412109 -4.415999889373779,5.370999813079834 C-4.415999889373779,5.370999813079834 -4.390999794006348,-1.9240000247955322 -4.390999794006348,-1.9240000247955322z">
+        </path>
+      </g>
+      <g opacity="1" transform="matrix(1,0,0,1,398.85699462890625,293.4859924316406)">
+        <path fill="url(#__lottie_element_1654)" fill-opacity="1"
+          d=" M-3.697000026702881,-1.6349999904632568 C-3.6710000038146973,-2.249000072479248 -3.4660000801086426,-2.4539999961853027 -2.947000026702881,-2.7839999198913574 C-2.947000026702881,-2.7839999198913574 2.928999900817871,-5.880000114440918 2.928999900817871,-5.880000114440918 C3.2790000438690186,-6.103000164031982 3.740000009536743,-6.073999881744385 3.7230000495910645,-5.658999919891357 C3.7230000495910645,-5.658999919891357 3.6989998817443848,1.6349999904632568 3.6989998817443848,1.6349999904632568 C3.671999931335449,2.249000072479248 3.5859999656677246,2.3359999656677246 3.066999912261963,2.6659998893737793 C3.066999912261963,2.6659998893737793 -2.927000045776367,5.880000114440918 -2.927000045776367,5.880000114440918 C-3.2769999504089355,6.103000164031982 -3.740000009536743,6.072999954223633 -3.7219998836517334,5.658999919891357 C-3.7219998836517334,5.658999919891357 -3.697000026702881,-1.6349999904632568 -3.697000026702881,-1.6349999904632568z">
+        </path>
+      </g>
+      <g opacity="1" transform="matrix(1,0,0,1,398.7860107421875,293.03399658203125)">
+        <path fill="rgb(255,255,255)" fill-opacity="0.19389777777771172"
+          d=" M5.066999912261963,2.38100004196167 C2.940000057220459,6.908999919891357 -1.0540000200271606,9.515000343322754 -3.8529999256134033,8.199000358581543 C-6.6519999504089355,6.883999824523926 -7.196000099182129,2.1480000019073486 -5.068999767303467,-2.38100004196167 C-2.940999984741211,-6.908999919891357 1.0520000457763672,-9.515000343322754 3.8510000705718994,-8.199000358581543 C6.650000095367432,-6.883999824523926 7.195000171661377,-2.1470000743865967 5.066999912261963,2.38100004196167z">
+        </path>
+      </g>
+    </g>
+    <g style="display: block;" transform="matrix(1,0,0,1,-20.5,11.875)" opacity="1">
+      <g opacity="1" transform="matrix(1,0,0,1,397.9779968261719,293.1929931640625)">
+        <path fill="rgb(215,255,255)" fill-opacity="1"
+          d=" M-4.390999794006348,-1.9240000247955322 C-4.364999771118164,-2.5369999408721924 -4.159999847412109,-2.740999937057495 -3.6419999599456787,-3.072000026702881 C-3.6419999599456787,-3.072000026702881 2.2339999675750732,-6.168000221252441 2.2339999675750732,-6.168000221252441 C2.5840001106262207,-6.390999794006348 4.434000015258789,-5.843999862670898 4.434000015258789,-5.635000228881836 C4.434000015258789,-5.635000228881836 4.184999942779541,1.718000054359436 4.184999942779541,1.718000054359436 C4.1579999923706055,2.3320000171661377 4.072000026702881,2.4179999828338623 3.552999973297119,2.747999906539917 C3.552999973297119,2.747999906539917 -2.364000082015991,6.182000160217285 -2.4690001010894775,6.288000106811523 C-2.572999954223633,6.390999794006348 -4.434000015258789,5.784999847412109 -4.415999889373779,5.370999813079834 C-4.415999889373779,5.370999813079834 -4.390999794006348,-1.9240000247955322 -4.390999794006348,-1.9240000247955322z">
+        </path>
+      </g>
+      <g opacity="1" transform="matrix(1,0,0,1,398.85699462890625,293.4859924316406)">
+        <path fill="url(#__lottie_element_1650)" fill-opacity="1"
+          d=" M-3.697000026702881,-1.6349999904632568 C-3.6710000038146973,-2.249000072479248 -3.4660000801086426,-2.4539999961853027 -2.947000026702881,-2.7839999198913574 C-2.947000026702881,-2.7839999198913574 2.928999900817871,-5.880000114440918 2.928999900817871,-5.880000114440918 C3.2790000438690186,-6.103000164031982 3.740000009536743,-6.073999881744385 3.7230000495910645,-5.658999919891357 C3.7230000495910645,-5.658999919891357 3.6989998817443848,1.6349999904632568 3.6989998817443848,1.6349999904632568 C3.671999931335449,2.249000072479248 3.5859999656677246,2.3359999656677246 3.066999912261963,2.6659998893737793 C3.066999912261963,2.6659998893737793 -2.927000045776367,5.880000114440918 -2.927000045776367,5.880000114440918 C-3.2769999504089355,6.103000164031982 -3.740000009536743,6.072999954223633 -3.7219998836517334,5.658999919891357 C-3.7219998836517334,5.658999919891357 -3.697000026702881,-1.6349999904632568 -3.697000026702881,-1.6349999904632568z">
+        </path>
+      </g>
+      <g opacity="1" transform="matrix(1,0,0,1,398.7860107421875,293.03399658203125)">
+        <path fill="rgb(255,255,255)" fill-opacity="0"
+          d=" M5.066999912261963,2.38100004196167 C2.940000057220459,6.908999919891357 -1.0540000200271606,9.515000343322754 -3.8529999256134033,8.199000358581543 C-6.6519999504089355,6.883999824523926 -7.196000099182129,2.1480000019073486 -5.068999767303467,-2.38100004196167 C-2.940999984741211,-6.908999919891357 1.0520000457763672,-9.515000343322754 3.8510000705718994,-8.199000358581543 C6.650000095367432,-6.883999824523926 7.195000171661377,-2.1470000743865967 5.066999912261963,2.38100004196167z">
+        </path>
+      </g>
+    </g>
+    <g style="display: block;" transform="matrix(1,0,0,1,0,-11.875)" opacity="1">
+      <g opacity="1" transform="matrix(1,0,0,1,397.9779968261719,293.1929931640625)">
+        <path fill="rgb(215,255,255)" fill-opacity="1"
+          d=" M-4.390999794006348,-1.9240000247955322 C-4.364999771118164,-2.5369999408721924 -4.159999847412109,-2.740999937057495 -3.6419999599456787,-3.072000026702881 C-3.6419999599456787,-3.072000026702881 2.2339999675750732,-6.168000221252441 2.2339999675750732,-6.168000221252441 C2.5840001106262207,-6.390999794006348 4.434000015258789,-5.843999862670898 4.434000015258789,-5.635000228881836 C4.434000015258789,-5.635000228881836 4.184999942779541,1.718000054359436 4.184999942779541,1.718000054359436 C4.1579999923706055,2.3320000171661377 4.072000026702881,2.4179999828338623 3.552999973297119,2.747999906539917 C3.552999973297119,2.747999906539917 -2.364000082015991,6.182000160217285 -2.4690001010894775,6.288000106811523 C-2.572999954223633,6.390999794006348 -4.434000015258789,5.784999847412109 -4.415999889373779,5.370999813079834 C-4.415999889373779,5.370999813079834 -4.390999794006348,-1.9240000247955322 -4.390999794006348,-1.9240000247955322z">
+        </path>
+      </g>
+      <g opacity="1" transform="matrix(1,0,0,1,398.85699462890625,293.4859924316406)">
+        <path fill="url(#__lottie_element_1646)" fill-opacity="1"
+          d=" M-3.697000026702881,-1.6349999904632568 C-3.6710000038146973,-2.249000072479248 -3.4660000801086426,-2.4539999961853027 -2.947000026702881,-2.7839999198913574 C-2.947000026702881,-2.7839999198913574 2.928999900817871,-5.880000114440918 2.928999900817871,-5.880000114440918 C3.2790000438690186,-6.103000164031982 3.740000009536743,-6.073999881744385 3.7230000495910645,-5.658999919891357 C3.7230000495910645,-5.658999919891357 3.6989998817443848,1.6349999904632568 3.6989998817443848,1.6349999904632568 C3.671999931335449,2.249000072479248 3.5859999656677246,2.3359999656677246 3.066999912261963,2.6659998893737793 C3.066999912261963,2.6659998893737793 -2.927000045776367,5.880000114440918 -2.927000045776367,5.880000114440918 C-3.2769999504089355,6.103000164031982 -3.740000009536743,6.072999954223633 -3.7219998836517334,5.658999919891357 C-3.7219998836517334,5.658999919891357 -3.697000026702881,-1.6349999904632568 -3.697000026702881,-1.6349999904632568z">
+        </path>
+      </g>
+      <g opacity="1" transform="matrix(1,0,0,1,398.7860107421875,293.03399658203125)">
+        <path fill="rgb(255,255,255)" fill-opacity="0"
+          d=" M5.066999912261963,2.38100004196167 C2.940000057220459,6.908999919891357 -1.0540000200271606,9.515000343322754 -3.8529999256134033,8.199000358581543 C-6.6519999504089355,6.883999824523926 -7.196000099182129,2.1480000019073486 -5.068999767303467,-2.38100004196167 C-2.940999984741211,-6.908999919891357 1.0520000457763672,-9.515000343322754 3.8510000705718994,-8.199000358581543 C6.650000095367432,-6.883999824523926 7.195000171661377,-2.1470000743865967 5.066999912261963,2.38100004196167z">
+        </path>
+      </g>
+    </g>
+    <g style="display: block;" transform="matrix(1,0,0,1,-9.625,-6.375)" opacity="1">
+      <g opacity="1" transform="matrix(1,0,0,1,397.9779968261719,293.1929931640625)">
+        <path fill="rgb(215,255,255)" fill-opacity="1"
+          d=" M-4.390999794006348,-1.9240000247955322 C-4.364999771118164,-2.5369999408721924 -4.159999847412109,-2.740999937057495 -3.6419999599456787,-3.072000026702881 C-3.6419999599456787,-3.072000026702881 2.2339999675750732,-6.168000221252441 2.2339999675750732,-6.168000221252441 C2.5840001106262207,-6.390999794006348 4.434000015258789,-5.843999862670898 4.434000015258789,-5.635000228881836 C4.434000015258789,-5.635000228881836 4.184999942779541,1.718000054359436 4.184999942779541,1.718000054359436 C4.1579999923706055,2.3320000171661377 4.072000026702881,2.4179999828338623 3.552999973297119,2.747999906539917 C3.552999973297119,2.747999906539917 -2.364000082015991,6.182000160217285 -2.4690001010894775,6.288000106811523 C-2.572999954223633,6.390999794006348 -4.434000015258789,5.784999847412109 -4.415999889373779,5.370999813079834 C-4.415999889373779,5.370999813079834 -4.390999794006348,-1.9240000247955322 -4.390999794006348,-1.9240000247955322z">
+        </path>
+      </g>
+      <g opacity="1" transform="matrix(1,0,0,1,398.85699462890625,293.4859924316406)">
+        <path fill="url(#__lottie_element_1642)" fill-opacity="1"
+          d=" M-3.697000026702881,-1.6349999904632568 C-3.6710000038146973,-2.249000072479248 -3.4660000801086426,-2.4539999961853027 -2.947000026702881,-2.7839999198913574 C-2.947000026702881,-2.7839999198913574 2.928999900817871,-5.880000114440918 2.928999900817871,-5.880000114440918 C3.2790000438690186,-6.103000164031982 3.740000009536743,-6.073999881744385 3.7230000495910645,-5.658999919891357 C3.7230000495910645,-5.658999919891357 3.6989998817443848,1.6349999904632568 3.6989998817443848,1.6349999904632568 C3.671999931335449,2.249000072479248 3.5859999656677246,2.3359999656677246 3.066999912261963,2.6659998893737793 C3.066999912261963,2.6659998893737793 -2.927000045776367,5.880000114440918 -2.927000045776367,5.880000114440918 C-3.2769999504089355,6.103000164031982 -3.740000009536743,6.072999954223633 -3.7219998836517334,5.658999919891357 C-3.7219998836517334,5.658999919891357 -3.697000026702881,-1.6349999904632568 -3.697000026702881,-1.6349999904632568z">
+        </path>
+      </g>
+      <g opacity="1" transform="matrix(1,0,0,1,398.7860107421875,293.03399658203125)">
+        <path fill="rgb(255,255,255)" fill-opacity="0"
+          d=" M5.066999912261963,2.38100004196167 C2.940000057220459,6.908999919891357 -1.0540000200271606,9.515000343322754 -3.8529999256134033,8.199000358581543 C-6.6519999504089355,6.883999824523926 -7.196000099182129,2.1480000019073486 -5.068999767303467,-2.38100004196167 C-2.940999984741211,-6.908999919891357 1.0520000457763672,-9.515000343322754 3.8510000705718994,-8.199000358581543 C6.650000095367432,-6.883999824523926 7.195000171661377,-2.1470000743865967 5.066999912261963,2.38100004196167z">
+        </path>
+      </g>
+    </g>
+    <g style="display: block;" transform="matrix(1,0,0,1,-20.5,0)" opacity="1">
+      <g opacity="1" transform="matrix(1,0,0,1,397.9779968261719,293.1929931640625)">
+        <path fill="rgb(215,255,255)" fill-opacity="1"
+          d=" M-4.390999794006348,-1.9240000247955322 C-4.364999771118164,-2.5369999408721924 -4.159999847412109,-2.740999937057495 -3.6419999599456787,-3.072000026702881 C-3.6419999599456787,-3.072000026702881 2.2339999675750732,-6.168000221252441 2.2339999675750732,-6.168000221252441 C2.5840001106262207,-6.390999794006348 4.434000015258789,-5.843999862670898 4.434000015258789,-5.635000228881836 C4.434000015258789,-5.635000228881836 4.184999942779541,1.718000054359436 4.184999942779541,1.718000054359436 C4.1579999923706055,2.3320000171661377 4.072000026702881,2.4179999828338623 3.552999973297119,2.747999906539917 C3.552999973297119,2.747999906539917 -2.364000082015991,6.182000160217285 -2.4690001010894775,6.288000106811523 C-2.572999954223633,6.390999794006348 -4.434000015258789,5.784999847412109 -4.415999889373779,5.370999813079834 C-4.415999889373779,5.370999813079834 -4.390999794006348,-1.9240000247955322 -4.390999794006348,-1.9240000247955322z">
+        </path>
+      </g>
+      <g opacity="1" transform="matrix(1,0,0,1,398.85699462890625,293.4859924316406)">
+        <path fill="url(#__lottie_element_1638)" fill-opacity="1"
+          d=" M-3.697000026702881,-1.6349999904632568 C-3.6710000038146973,-2.249000072479248 -3.4660000801086426,-2.4539999961853027 -2.947000026702881,-2.7839999198913574 C-2.947000026702881,-2.7839999198913574 2.928999900817871,-5.880000114440918 2.928999900817871,-5.880000114440918 C3.2790000438690186,-6.103000164031982 3.740000009536743,-6.073999881744385 3.7230000495910645,-5.658999919891357 C3.7230000495910645,-5.658999919891357 3.6989998817443848,1.6349999904632568 3.6989998817443848,1.6349999904632568 C3.671999931335449,2.249000072479248 3.5859999656677246,2.3359999656677246 3.066999912261963,2.6659998893737793 C3.066999912261963,2.6659998893737793 -2.927000045776367,5.880000114440918 -2.927000045776367,5.880000114440918 C-3.2769999504089355,6.103000164031982 -3.740000009536743,6.072999954223633 -3.7219998836517334,5.658999919891357 C-3.7219998836517334,5.658999919891357 -3.697000026702881,-1.6349999904632568 -3.697000026702881,-1.6349999904632568z">
+        </path>
+      </g>
+      <g opacity="1" transform="matrix(1,0,0,1,398.7860107421875,293.03399658203125)">
+        <path fill="rgb(255,255,255)" fill-opacity="0"
+          d=" M5.066999912261963,2.38100004196167 C2.940000057220459,6.908999919891357 -1.0540000200271606,9.515000343322754 -3.8529999256134033,8.199000358581543 C-6.6519999504089355,6.883999824523926 -7.196000099182129,2.1480000019073486 -5.068999767303467,-2.38100004196167 C-2.940999984741211,-6.908999919891357 1.0520000457763672,-9.515000343322754 3.8510000705718994,-8.199000358581543 C6.650000095367432,-6.883999824523926 7.195000171661377,-2.1470000743865967 5.066999912261963,2.38100004196167z">
+        </path>
+      </g>
+    </g>
+    <g style="display: block;" transform="matrix(1,0,0,1,0,-24.5)" opacity="1">
+      <g opacity="1" transform="matrix(1,0,0,1,397.9779968261719,293.1929931640625)">
+        <path fill="rgb(215,255,255)" fill-opacity="1"
+          d=" M-4.390999794006348,-1.9240000247955322 C-4.364999771118164,-2.5369999408721924 -4.159999847412109,-2.740999937057495 -3.6419999599456787,-3.072000026702881 C-3.6419999599456787,-3.072000026702881 2.2339999675750732,-6.168000221252441 2.2339999675750732,-6.168000221252441 C2.5840001106262207,-6.390999794006348 4.434000015258789,-5.843999862670898 4.434000015258789,-5.635000228881836 C4.434000015258789,-5.635000228881836 4.184999942779541,1.718000054359436 4.184999942779541,1.718000054359436 C4.1579999923706055,2.3320000171661377 4.072000026702881,2.4179999828338623 3.552999973297119,2.747999906539917 C3.552999973297119,2.747999906539917 -2.364000082015991,6.182000160217285 -2.4690001010894775,6.288000106811523 C-2.572999954223633,6.390999794006348 -4.434000015258789,5.784999847412109 -4.415999889373779,5.370999813079834 C-4.415999889373779,5.370999813079834 -4.390999794006348,-1.9240000247955322 -4.390999794006348,-1.9240000247955322z">
+        </path>
+      </g>
+      <g opacity="1" transform="matrix(1,0,0,1,398.85699462890625,293.4859924316406)">
+        <path fill="url(#__lottie_element_1634)" fill-opacity="1"
+          d=" M-3.697000026702881,-1.6349999904632568 C-3.6710000038146973,-2.249000072479248 -3.4660000801086426,-2.4539999961853027 -2.947000026702881,-2.7839999198913574 C-2.947000026702881,-2.7839999198913574 2.928999900817871,-5.880000114440918 2.928999900817871,-5.880000114440918 C3.2790000438690186,-6.103000164031982 3.740000009536743,-6.073999881744385 3.7230000495910645,-5.658999919891357 C3.7230000495910645,-5.658999919891357 3.6989998817443848,1.6349999904632568 3.6989998817443848,1.6349999904632568 C3.671999931335449,2.249000072479248 3.5859999656677246,2.3359999656677246 3.066999912261963,2.6659998893737793 C3.066999912261963,2.6659998893737793 -2.927000045776367,5.880000114440918 -2.927000045776367,5.880000114440918 C-3.2769999504089355,6.103000164031982 -3.740000009536743,6.072999954223633 -3.7219998836517334,5.658999919891357 C-3.7219998836517334,5.658999919891357 -3.697000026702881,-1.6349999904632568 -3.697000026702881,-1.6349999904632568z">
+        </path>
+      </g>
+      <g opacity="1" transform="matrix(1,0,0,1,398.7860107421875,293.03399658203125)">
+        <path fill="rgb(255,255,255)" fill-opacity="0"
+          d=" M5.066999912261963,2.38100004196167 C2.940000057220459,6.908999919891357 -1.0540000200271606,9.515000343322754 -3.8529999256134033,8.199000358581543 C-6.6519999504089355,6.883999824523926 -7.196000099182129,2.1480000019073486 -5.068999767303467,-2.38100004196167 C-2.940999984741211,-6.908999919891357 1.0520000457763672,-9.515000343322754 3.8510000705718994,-8.199000358581543 C6.650000095367432,-6.883999824523926 7.195000171661377,-2.1470000743865967 5.066999912261963,2.38100004196167z">
+        </path>
+      </g>
+    </g>
+    <g style="display: block;" transform="matrix(1,0,0,1,-9.625,-19)" opacity="1">
+      <g opacity="1" transform="matrix(1,0,0,1,397.9779968261719,293.1929931640625)">
+        <path fill="rgb(215,255,255)" fill-opacity="1"
+          d=" M-4.390999794006348,-1.9240000247955322 C-4.364999771118164,-2.5369999408721924 -4.159999847412109,-2.740999937057495 -3.6419999599456787,-3.072000026702881 C-3.6419999599456787,-3.072000026702881 2.2339999675750732,-6.168000221252441 2.2339999675750732,-6.168000221252441 C2.5840001106262207,-6.390999794006348 4.434000015258789,-5.843999862670898 4.434000015258789,-5.635000228881836 C4.434000015258789,-5.635000228881836 4.184999942779541,1.718000054359436 4.184999942779541,1.718000054359436 C4.1579999923706055,2.3320000171661377 4.072000026702881,2.4179999828338623 3.552999973297119,2.747999906539917 C3.552999973297119,2.747999906539917 -2.364000082015991,6.182000160217285 -2.4690001010894775,6.288000106811523 C-2.572999954223633,6.390999794006348 -4.434000015258789,5.784999847412109 -4.415999889373779,5.370999813079834 C-4.415999889373779,5.370999813079834 -4.390999794006348,-1.9240000247955322 -4.390999794006348,-1.9240000247955322z">
+        </path>
+      </g>
+      <g opacity="1" transform="matrix(1,0,0,1,398.85699462890625,293.4859924316406)">
+        <path fill="url(#__lottie_element_1630)" fill-opacity="1"
+          d=" M-3.697000026702881,-1.6349999904632568 C-3.6710000038146973,-2.249000072479248 -3.4660000801086426,-2.4539999961853027 -2.947000026702881,-2.7839999198913574 C-2.947000026702881,-2.7839999198913574 2.928999900817871,-5.880000114440918 2.928999900817871,-5.880000114440918 C3.2790000438690186,-6.103000164031982 3.740000009536743,-6.073999881744385 3.7230000495910645,-5.658999919891357 C3.7230000495910645,-5.658999919891357 3.6989998817443848,1.6349999904632568 3.6989998817443848,1.6349999904632568 C3.671999931335449,2.249000072479248 3.5859999656677246,2.3359999656677246 3.066999912261963,2.6659998893737793 C3.066999912261963,2.6659998893737793 -2.927000045776367,5.880000114440918 -2.927000045776367,5.880000114440918 C-3.2769999504089355,6.103000164031982 -3.740000009536743,6.072999954223633 -3.7219998836517334,5.658999919891357 C-3.7219998836517334,5.658999919891357 -3.697000026702881,-1.6349999904632568 -3.697000026702881,-1.6349999904632568z">
+        </path>
+      </g>
+      <g opacity="1" transform="matrix(1,0,0,1,398.7860107421875,293.03399658203125)">
+        <path fill="rgb(255,255,255)" fill-opacity="0"
+          d=" M5.066999912261963,2.38100004196167 C2.940000057220459,6.908999919891357 -1.0540000200271606,9.515000343322754 -3.8529999256134033,8.199000358581543 C-6.6519999504089355,6.883999824523926 -7.196000099182129,2.1480000019073486 -5.068999767303467,-2.38100004196167 C-2.940999984741211,-6.908999919891357 1.0520000457763672,-9.515000343322754 3.8510000705718994,-8.199000358581543 C6.650000095367432,-6.883999824523926 7.195000171661377,-2.1470000743865967 5.066999912261963,2.38100004196167z">
+        </path>
+      </g>
+    </g>
+    <g style="display: block;" transform="matrix(1,0,0,1,-20.5,-12.625)" opacity="1">
+      <g opacity="1" transform="matrix(1,0,0,1,397.9779968261719,293.1929931640625)">
+        <path fill="rgb(89,128,147)" fill-opacity="1"
+          d=" M-4.390999794006348,-1.9240000247955322 C-4.364999771118164,-2.5369999408721924 -4.159999847412109,-2.740999937057495 -3.6419999599456787,-3.072000026702881 C-3.6419999599456787,-3.072000026702881 2.2339999675750732,-6.168000221252441 2.2339999675750732,-6.168000221252441 C2.5840001106262207,-6.390999794006348 4.434000015258789,-5.843999862670898 4.434000015258789,-5.635000228881836 C4.434000015258789,-5.635000228881836 4.184999942779541,1.718000054359436 4.184999942779541,1.718000054359436 C4.1579999923706055,2.3320000171661377 4.072000026702881,2.4179999828338623 3.552999973297119,2.747999906539917 C3.552999973297119,2.747999906539917 -2.364000082015991,6.182000160217285 -2.4690001010894775,6.288000106811523 C-2.572999954223633,6.390999794006348 -4.434000015258789,5.784999847412109 -4.415999889373779,5.370999813079834 C-4.415999889373779,5.370999813079834 -4.390999794006348,-1.9240000247955322 -4.390999794006348,-1.9240000247955322z">
+        </path>
+      </g>
+      <g opacity="1" transform="matrix(1,0,0,1,398.85699462890625,293.4859924316406)">
+        <path fill="url(#__lottie_element_1626)" fill-opacity="1"
+          d=" M-3.697000026702881,-1.6349999904632568 C-3.6710000038146973,-2.249000072479248 -3.4660000801086426,-2.4539999961853027 -2.947000026702881,-2.7839999198913574 C-2.947000026702881,-2.7839999198913574 2.928999900817871,-5.880000114440918 2.928999900817871,-5.880000114440918 C3.2790000438690186,-6.103000164031982 3.740000009536743,-6.073999881744385 3.7230000495910645,-5.658999919891357 C3.7230000495910645,-5.658999919891357 3.6989998817443848,1.6349999904632568 3.6989998817443848,1.6349999904632568 C3.671999931335449,2.249000072479248 3.5859999656677246,2.3359999656677246 3.066999912261963,2.6659998893737793 C3.066999912261963,2.6659998893737793 -2.927000045776367,5.880000114440918 -2.927000045776367,5.880000114440918 C-3.2769999504089355,6.103000164031982 -3.740000009536743,6.072999954223633 -3.7219998836517334,5.658999919891357 C-3.7219998836517334,5.658999919891357 -3.697000026702881,-1.6349999904632568 -3.697000026702881,-1.6349999904632568z">
+        </path>
+      </g>
+      <g opacity="1" transform="matrix(1,0,0,1,398.7860107421875,293.03399658203125)">
+        <path fill="rgb(255,255,255)" fill-opacity="0.1454233333332838"
+          d=" M5.066999912261963,2.38100004196167 C2.940000057220459,6.908999919891357 -1.0540000200271606,9.515000343322754 -3.8529999256134033,8.199000358581543 C-6.6519999504089355,6.883999824523926 -7.196000099182129,2.1480000019073486 -5.068999767303467,-2.38100004196167 C-2.940999984741211,-6.908999919891357 1.0520000457763672,-9.515000343322754 3.8510000705718994,-8.199000358581543 C6.650000095367432,-6.883999824523926 7.195000171661377,-2.1470000743865967 5.066999912261963,2.38100004196167z">
+        </path>
+      </g>
+    </g>
+    <g style="display: block;"
+      transform="matrix(0.8999999761581421,0,0,0.4312500059604645,488.45001220703125,408.01873779296875)" opacity="0.5">
+      <g opacity="1" transform="matrix(1,0,0,1,9.5,-7)">
+        <path fill="url(#__lottie_element_1584)" mask="url(#__lottie_element_1586)" fill-opacity="1"
+          d="M0 0 M0,-96 C52.982398986816406,-96 96,-52.982398986816406 96,0 C96,52.982398986816406 52.982398986816406,96 0,96 C-52.982398986816406,96 -96,52.982398986816406 -96,0 C-96,-52.982398986816406 -52.982398986816406,-96 0,-96z">
+        </path>
+      </g>
+    </g>
+    <g style="display: block;"
+      transform="matrix(0.999998927116394,0,0,0.9999997615814209,-28.99998664855957,-70.00015258789062)" opacity="1">
+      <g opacity="1" transform="matrix(1,0,0,1,526.2899780273438,453.5419921875)">
+        <path fill="url(#__lottie_element_1621)" fill-opacity="1"
+          d=" M9.864999771118164,-48.64400100708008 C3.6710000038146973,-51.86899948120117 -3.671999931335449,-51.86899948120117 -9.864999771118164,-48.64400100708008 C-9.864999771118164,-48.64400100708008 -78.70500183105469,-12.821000099182129 -78.70500183105469,-12.821000099182129 C-80.82099914550781,-11.718999862670898 -81.86699676513672,-9.62399959564209 -81.84500122070312,-7.539999961853027 C-81.84500122070312,-7.539999961853027 -81.84500122070312,7.539999961853027 -81.84500122070312,7.539999961853027 C-81.86699676513672,9.625 -80.82099914550781,11.718999862670898 -78.70500183105469,12.821000099182129 C-78.70500183105469,12.821000099182129 -9.864999771118164,48.64500045776367 -9.864999771118164,48.64500045776367 C-3.671999931335449,51.86899948120117 3.6710000038146973,51.86899948120117 9.864999771118164,48.64500045776367 C9.864999771118164,48.64500045776367 78.70500183105469,12.821000099182129 78.70500183105469,12.821000099182129 C80.81999969482422,11.718999862670898 81.86699676513672,9.625 81.84400177001953,7.539999961853027 C81.84400177001953,7.539999961853027 81.84400177001953,-7.539999961853027 81.84400177001953,-7.539999961853027 C81.86699676513672,-9.62399959564209 80.81999969482422,-11.718999862670898 78.70500183105469,-12.821000099182129 C78.70500183105469,-12.821000099182129 9.864999771118164,-48.64400100708008 9.864999771118164,-48.64400100708008z">
+        </path>
+      </g>
+      <g opacity="1" transform="matrix(1,0,0,1,526.2890014648438,445.93701171875)">
+        <path fill="url(#__lottie_element_1622)" fill-opacity="1"
+          d=" M9.864999771118164,-41.03900146484375 C3.671999931335449,-44.263999938964844 -3.6700000762939453,-44.263999938964844 -9.86400032043457,-41.03900146484375 C-9.86400032043457,-41.03900146484375 -78.70500183105469,-5.216000080108643 -78.70500183105469,-5.216000080108643 C-82.89099884033203,-3.0369999408721924 -82.89099884033203,3.0369999408721924 -78.70500183105469,5.216000080108643 C-78.70500183105469,5.216000080108643 -9.86400032043457,41.03900146484375 -9.86400032043457,41.03900146484375 C-3.6700000762939453,44.263999938964844 3.671999931335449,44.263999938964844 9.864999771118164,41.03900146484375 C9.864999771118164,41.03900146484375 78.70600128173828,5.216000080108643 78.70600128173828,5.216000080108643 C82.89099884033203,3.0369999408721924 82.89099884033203,-3.0369999408721924 78.70600128173828,-5.216000080108643 C78.70600128173828,-5.216000080108643 9.864999771118164,-41.03900146484375 9.864999771118164,-41.03900146484375z">
+        </path>
+      </g>
+    </g>
+    <g style="display: block;"
+      transform="matrix(0.6000030040740967,0,0,0.2875014543533325,491.29998779296875,375.012451171875)" opacity="0.5">
+      <g opacity="1" transform="matrix(1,0,0,1,9.5,-7)">
+        <path fill="url(#__lottie_element_1615)" mask="url(#__lottie_element_1617)" fill-opacity="1"
+          d="M0 0 M0,-96 C52.982398986816406,-96 96,-52.982398986816406 96,0 C96,52.982398986816406 52.982398986816406,96 0,96 C-52.982398986816406,96 -96,52.982398986816406 -96,0 C-96,-52.982398986816406 -52.982398986816406,-96 0,-96z">
+        </path>
+      </g>
+    </g>
+    <g style="display: block;"
+      transform="matrix(0.999998927116394,0,0,0.9999997615814209,-28.99998664855957,-70.00015258789062)" opacity="1">
+      <g opacity="1" transform="matrix(1,0,0,1,528.35400390625,413.5690002441406)">
+        <path fill="url(#__lottie_element_1610)" fill-opacity="1"
+          d=" M-54.321998596191406,7.243000030517578 C-54.321998596191406,7.243000030517578 -54.321998596191406,-7.243000030517578 -54.321998596191406,-7.243000030517578 C-54.321998596191406,-23.243000030517578 -30.003000259399414,-36.2140007019043 -0.0010000000474974513,-36.2140007019043 C30.000999450683594,-36.2140007019043 54.32099914550781,-23.243000030517578 54.32099914550781,-7.243000030517578 C54.32099914550781,-7.243000030517578 54.32099914550781,7.243000030517578 54.32099914550781,7.243000030517578 C54.32099914550781,23.243000030517578 30.000999450683594,36.2140007019043 -0.0010000000474974513,36.2140007019043 C-30.003000259399414,36.2140007019043 -54.321998596191406,23.243000030517578 -54.321998596191406,7.243000030517578z">
+        </path>
+      </g>
+      <g opacity="1" transform="matrix(1,0,0,1,528.35400390625,406.32598876953125)">
+        <path fill="url(#__lottie_element_1611)" fill-opacity="1"
+          d=" M0,-28.972000122070312 C30.00200080871582,-28.972000122070312 54.32099914550781,-16.000999450683594 54.32099914550781,0 C54.32099914550781,16.000999450683594 30.00200080871582,28.97100067138672 0,28.97100067138672 C-30.000999450683594,28.97100067138672 -54.321998596191406,16.000999450683594 -54.321998596191406,0 C-54.321998596191406,-16.000999450683594 -30.000999450683594,-28.972000122070312 0,-28.972000122070312z">
+        </path>
+      </g>
+      <g opacity="1" transform="matrix(1,0,0,1,528.3610229492188,424.75299072265625)">
+        <path fill="rgb(255,255,255)" fill-opacity="1"
+          d=" M52.2869987487793,-10.548999786376953 C45.051998138427734,0.8629999756813049 24.375,9.100000381469727 -0.004000000189989805,9.100000381469727 C-24.37299919128418,9.100000381469727 -45.042999267578125,0.8700000047683716 -52.2869987487793,-10.534000396728516 C-45.84600067138672,1.6319999694824219 -24.87700080871582,10.54800033569336 -0.004000000189989805,10.54800033569336 C24.8799991607666,10.54800033569336 45.854000091552734,1.625 52.2869987487793,-10.548999786376953z">
+        </path>
+      </g>
+    </g>
+    <g style="display: none;"
+      transform="matrix(0.999998927116394,0,0,0.9999997615814209,-28.99998664855957,53.14254379272461)"
+      opacity="0.08575999999917983">
+      <g opacity="1" transform="matrix(1,0,0,1,527.7379760742188,277.67999267578125)">
+        <path fill="url(#__lottie_element_1605)" fill-opacity="1"
+          d=" M-41.38800048828125,5.51800012588501 C-41.38800048828125,5.51800012588501 -41.38800048828125,-5.51800012588501 -41.38800048828125,-5.51800012588501 C-41.38800048828125,-17.708999633789062 -22.858999252319336,-27.591999053955078 0,-27.591999053955078 C22.857999801635742,-27.591999053955078 41.38800048828125,-17.708999633789062 41.38800048828125,-5.51800012588501 C41.38800048828125,-5.51800012588501 41.38800048828125,5.51800012588501 41.38800048828125,5.51800012588501 C41.38800048828125,17.708999633789062 22.857999801635742,27.591999053955078 0,27.591999053955078 C-22.858999252319336,27.591999053955078 -41.38800048828125,17.708999633789062 -41.38800048828125,5.51800012588501z">
+        </path>
+      </g>
+      <g opacity="1" transform="matrix(1,0,0,1,527.7379760742188,272.1610107421875)">
+        <path fill="url(#__lottie_element_1606)" fill-opacity="1"
+          d=" M0,-22.073999404907227 C22.85700035095215,-22.073999404907227 41.38800048828125,-12.190999984741211 41.38800048828125,0 C41.38800048828125,12.190999984741211 22.85700035095215,22.073999404907227 0,22.073999404907227 C-22.857999801635742,22.073999404907227 -41.388999938964844,12.190999984741211 -41.388999938964844,0 C-41.388999938964844,-12.190999984741211 -22.857999801635742,-22.073999404907227 0,-22.073999404907227z">
+        </path>
+      </g>
+      <g opacity="1" transform="matrix(1,0,0,1,527.7349853515625,286.20098876953125)">
+        <path fill="rgb(255,255,255)" fill-opacity="1"
+          d=" M-527.7349853515625,-286.20098876953125 C-527.7349853515625,-286.20098876953125 163.26499938964844,-286.20098876953125 163.26499938964844,-286.20098876953125 C163.26499938964844,-286.20098876953125 163.26499938964844,243.7989959716797 163.26499938964844,243.7989959716797 C163.26499938964844,243.7989959716797 -527.7349853515625,243.7989959716797 -527.7349853515625,243.7989959716797 C-527.7349853515625,243.7989959716797 -527.7349853515625,-286.20098876953125 -527.7349853515625,-286.20098876953125z M-527.7349853515625,243.7989959716797 C-527.7349853515625,243.7989959716797 163.26499938964844,243.7989959716797 163.26499938964844,243.7989959716797 C163.26499938964844,243.7989959716797 163.26499938964844,-286.20098876953125 163.26499938964844,-286.20098876953125 C163.26499938964844,-286.20098876953125 -527.7349853515625,-286.20098876953125 -527.7349853515625,-286.20098876953125 C-527.7349853515625,-286.20098876953125 -527.7349853515625,243.7989959716797 -527.7349853515625,243.7989959716797z M39.8390007019043,-8.026000022888184 C34.319000244140625,0.6620000004768372 18.56999969482422,6.933000087738037 0.003000000026077032,6.933000087738037 C-18.570999145507812,6.933000087738037 -34.32500076293945,0.6589999794960022 -39.8390007019043,-8.03600025177002 C-34.9370002746582,1.2400000095367432 -18.95599937438965,8.03600025177002 0.003000000026077032,8.03600025177002 C18.95400047302246,8.03600025177002 34.930999755859375,1.24399995803833 39.8390007019043,-8.026000022888184z">
+        </path>
+        <g opacity="1" transform="matrix(1,0,0,1,0,0)"></g>
+      </g>
+      <g opacity="1" transform="matrix(1.3767800331115723,0,0,1.3649200201034546,527.8729858398438,271.2919921875)">
+        <path stroke-linecap="butt" stroke-linejoin="miter" fill-opacity="0" stroke-miterlimit="10"
+          stroke="rgb(197,197,197)" stroke-opacity="1" stroke-width="3"
+          d=" M25.19300079345703,0 C25.19300079345703,6.791999816894531 13.913999557495117,12.29800033569336 0,12.29800033569336 C-13.913999557495117,12.29800033569336 -25.194000244140625,6.791999816894531 -25.194000244140625,0 C-25.194000244140625,-6.791999816894531 -13.913999557495117,-12.29800033569336 0,-12.29800033569336 C13.913999557495117,-12.29800033569336 25.19300079345703,-6.791999816894531 25.19300079345703,0z">
+        </path>
+      </g>
+      <g opacity="1" transform="matrix(1.5879499912261963,0,0,1.3860000371932983,523.780029296875,270.322998046875)">
+        <path stroke-linecap="butt" stroke-linejoin="miter" fill-opacity="0" stroke-miterlimit="10"
+          stroke="rgb(197,197,197)" stroke-opacity="1" stroke-width="1.853"
+          d=" M-14.279000282287598,0.5370000004768372 C-14.279000282287598,0.5370000004768372 4.511000156402588,-7.078999996185303 4.511000156402588,-7.078999996185303 C4.511000156402588,-7.078999996185303 12.416000366210938,-7.308000087738037 12.416000366210938,-7.308000087738037 C12.416000366210938,-7.308000087738037 14.279000282287598,7.308000087738037 14.279000282287598,7.308000087738037 C14.279000282287598,7.308000087738037 -14.279000282287598,0.5370000004768372 -14.279000282287598,0.5370000004768372z">
+        </path>
+      </g>
+      <g opacity="1" transform="matrix(1.5879499912261963,0,0,1.3860000371932983,532.9719848632812,270.3240051269531)">
+        <path stroke-linecap="butt" stroke-linejoin="miter" fill-opacity="0" stroke-miterlimit="10"
+          stroke="rgb(197,197,197)" stroke-opacity="1" stroke-width="1.853"
+          d=" M6.688000202178955,-7.39900016784668 C6.688000202178955,-7.39900016784668 -3.3540000915527344,-0.4440000057220459 -3.3540000915527344,-0.4440000057220459 C-3.3540000915527344,-0.4440000057220459 8.392000198364258,7.39900016784668 8.392000198364258,7.39900016784668">
+        </path>
+      </g>
+      <g opacity="1" transform="matrix(1.5879499912261963,0,0,1.3860000371932983,518.89599609375,267.0530090332031)">
+        <path stroke-linecap="butt" stroke-linejoin="miter" fill-opacity="0" stroke-miterlimit="10"
+          stroke="rgb(197,197,197)" stroke-opacity="1" stroke-width="1.853"
+          d=" M7.663000106811523,-4.710000038146973 C7.663000106811523,-4.710000038146973 5.5269999504089355,2.0160000324249268 5.5269999504089355,2.0160000324249268 C5.5269999504089355,2.0160000324249268 -11.126999855041504,2.7260000705718994 -11.126999855041504,2.7260000705718994">
+        </path>
+      </g>
+    </g>
+    <g style="display: none;" transform="matrix(1,0,0,1,-29,33.793060302734375)" opacity="0.020693333332205698">
+      <g opacity="1" transform="matrix(1,0,0,1,527.7379760742188,277.67999267578125)">
+        <path fill="url(#__lottie_element_1600)" fill-opacity="1"
+          d=" M-41.38800048828125,5.51800012588501 C-41.38800048828125,5.51800012588501 -41.38800048828125,-5.51800012588501 -41.38800048828125,-5.51800012588501 C-41.38800048828125,-17.708999633789062 -22.858999252319336,-27.591999053955078 0,-27.591999053955078 C22.857999801635742,-27.591999053955078 41.38800048828125,-17.708999633789062 41.38800048828125,-5.51800012588501 C41.38800048828125,-5.51800012588501 41.38800048828125,5.51800012588501 41.38800048828125,5.51800012588501 C41.38800048828125,17.708999633789062 22.857999801635742,27.591999053955078 0,27.591999053955078 C-22.858999252319336,27.591999053955078 -41.38800048828125,17.708999633789062 -41.38800048828125,5.51800012588501z">
+        </path>
+      </g>
+      <g opacity="1" transform="matrix(1,0,0,1,527.7379760742188,272.1610107421875)">
+        <path fill="url(#__lottie_element_1601)" fill-opacity="1"
+          d=" M0,-22.073999404907227 C22.85700035095215,-22.073999404907227 41.38800048828125,-12.190999984741211 41.38800048828125,0 C41.38800048828125,12.190999984741211 22.85700035095215,22.073999404907227 0,22.073999404907227 C-22.857999801635742,22.073999404907227 -41.388999938964844,12.190999984741211 -41.388999938964844,0 C-41.388999938964844,-12.190999984741211 -22.857999801635742,-22.073999404907227 0,-22.073999404907227z">
+        </path>
+      </g>
+      <g opacity="1" transform="matrix(1,0,0,1,527.7349853515625,286.20098876953125)">
+        <path fill="rgb(255,255,255)" fill-opacity="1"
+          d=" M-527.7349853515625,-286.20098876953125 C-527.7349853515625,-286.20098876953125 163.26499938964844,-286.20098876953125 163.26499938964844,-286.20098876953125 C163.26499938964844,-286.20098876953125 163.26499938964844,243.7989959716797 163.26499938964844,243.7989959716797 C163.26499938964844,243.7989959716797 -527.7349853515625,243.7989959716797 -527.7349853515625,243.7989959716797 C-527.7349853515625,243.7989959716797 -527.7349853515625,-286.20098876953125 -527.7349853515625,-286.20098876953125z M-527.7349853515625,243.7989959716797 C-527.7349853515625,243.7989959716797 163.26499938964844,243.7989959716797 163.26499938964844,243.7989959716797 C163.26499938964844,243.7989959716797 163.26499938964844,-286.20098876953125 163.26499938964844,-286.20098876953125 C163.26499938964844,-286.20098876953125 -527.7349853515625,-286.20098876953125 -527.7349853515625,-286.20098876953125 C-527.7349853515625,-286.20098876953125 -527.7349853515625,243.7989959716797 -527.7349853515625,243.7989959716797z M39.8390007019043,-8.026000022888184 C34.319000244140625,0.6620000004768372 18.56999969482422,6.933000087738037 0.003000000026077032,6.933000087738037 C-18.570999145507812,6.933000087738037 -34.32500076293945,0.6589999794960022 -39.8390007019043,-8.03600025177002 C-34.9370002746582,1.2400000095367432 -18.95599937438965,8.03600025177002 0.003000000026077032,8.03600025177002 C18.95400047302246,8.03600025177002 34.930999755859375,1.24399995803833 39.8390007019043,-8.026000022888184z">
+        </path>
+        <g opacity="1" transform="matrix(1,0,0,1,0,0)"></g>
+      </g>
+      <g opacity="1" transform="matrix(1.3767800331115723,0,0,1.3649200201034546,527.8729858398438,271.2919921875)">
+        <path stroke-linecap="butt" stroke-linejoin="miter" fill-opacity="0" stroke-miterlimit="10"
+          stroke="rgb(197,197,197)" stroke-opacity="1" stroke-width="3"
+          d=" M25.19300079345703,0 C25.19300079345703,6.791999816894531 13.913999557495117,12.29800033569336 0,12.29800033569336 C-13.913999557495117,12.29800033569336 -25.194000244140625,6.791999816894531 -25.194000244140625,0 C-25.194000244140625,-6.791999816894531 -13.913999557495117,-12.29800033569336 0,-12.29800033569336 C13.913999557495117,-12.29800033569336 25.19300079345703,-6.791999816894531 25.19300079345703,0z">
+        </path>
+      </g>
+      <g opacity="1" transform="matrix(1.5879499912261963,0,0,1.3860000371932983,523.780029296875,270.322998046875)">
+        <path stroke-linecap="butt" stroke-linejoin="miter" fill-opacity="0" stroke-miterlimit="10"
+          stroke="rgb(197,197,197)" stroke-opacity="1" stroke-width="1.853"
+          d=" M-14.279000282287598,0.5370000004768372 C-14.279000282287598,0.5370000004768372 4.511000156402588,-7.078999996185303 4.511000156402588,-7.078999996185303 C4.511000156402588,-7.078999996185303 12.416000366210938,-7.308000087738037 12.416000366210938,-7.308000087738037 C12.416000366210938,-7.308000087738037 14.279000282287598,7.308000087738037 14.279000282287598,7.308000087738037 C14.279000282287598,7.308000087738037 -14.279000282287598,0.5370000004768372 -14.279000282287598,0.5370000004768372z">
+        </path>
+      </g>
+      <g opacity="1" transform="matrix(1.5879499912261963,0,0,1.3860000371932983,532.9719848632812,270.3240051269531)">
+        <path stroke-linecap="butt" stroke-linejoin="miter" fill-opacity="0" stroke-miterlimit="10"
+          stroke="rgb(197,197,197)" stroke-opacity="1" stroke-width="1.853"
+          d=" M6.688000202178955,-7.39900016784668 C6.688000202178955,-7.39900016784668 -3.3540000915527344,-0.4440000057220459 -3.3540000915527344,-0.4440000057220459 C-3.3540000915527344,-0.4440000057220459 8.392000198364258,7.39900016784668 8.392000198364258,7.39900016784668">
+        </path>
+      </g>
+      <g opacity="1" transform="matrix(1.5879499912261963,0,0,1.3860000371932983,518.89599609375,267.0530090332031)">
+        <path stroke-linecap="butt" stroke-linejoin="miter" fill-opacity="0" stroke-miterlimit="10"
+          stroke="rgb(197,197,197)" stroke-opacity="1" stroke-width="1.853"
+          d=" M7.663000106811523,-4.710000038146973 C7.663000106811523,-4.710000038146973 5.5269999504089355,2.0160000324249268 5.5269999504089355,2.0160000324249268 C5.5269999504089355,2.0160000324249268 -11.126999855041504,2.7260000705718994 -11.126999855041504,2.7260000705718994">
+        </path>
+      </g>
+    </g>
+    <g style="display: none;" transform="matrix(1,0,0,1,-29,13.978851318359375)" opacity="0.0021155555549243845">
+      <g opacity="1" transform="matrix(1,0,0,1,527.7379760742188,277.67999267578125)">
+        <path fill="url(#__lottie_element_1595)" fill-opacity="1"
+          d=" M-41.38800048828125,5.51800012588501 C-41.38800048828125,5.51800012588501 -41.38800048828125,-5.51800012588501 -41.38800048828125,-5.51800012588501 C-41.38800048828125,-17.708999633789062 -22.858999252319336,-27.591999053955078 0,-27.591999053955078 C22.857999801635742,-27.591999053955078 41.38800048828125,-17.708999633789062 41.38800048828125,-5.51800012588501 C41.38800048828125,-5.51800012588501 41.38800048828125,5.51800012588501 41.38800048828125,5.51800012588501 C41.38800048828125,17.708999633789062 22.857999801635742,27.591999053955078 0,27.591999053955078 C-22.858999252319336,27.591999053955078 -41.38800048828125,17.708999633789062 -41.38800048828125,5.51800012588501z">
+        </path>
+      </g>
+      <g opacity="1" transform="matrix(1,0,0,1,527.7379760742188,272.1610107421875)">
+        <path fill="url(#__lottie_element_1596)" fill-opacity="1"
+          d=" M0,-22.073999404907227 C22.85700035095215,-22.073999404907227 41.38800048828125,-12.190999984741211 41.38800048828125,0 C41.38800048828125,12.190999984741211 22.85700035095215,22.073999404907227 0,22.073999404907227 C-22.857999801635742,22.073999404907227 -41.388999938964844,12.190999984741211 -41.388999938964844,0 C-41.388999938964844,-12.190999984741211 -22.857999801635742,-22.073999404907227 0,-22.073999404907227z">
+        </path>
+      </g>
+      <g opacity="1" transform="matrix(1,0,0,1,527.7349853515625,286.20098876953125)">
+        <path fill="rgb(255,255,255)" fill-opacity="1"
+          d=" M-527.7349853515625,-286.20098876953125 C-527.7349853515625,-286.20098876953125 163.26499938964844,-286.20098876953125 163.26499938964844,-286.20098876953125 C163.26499938964844,-286.20098876953125 163.26499938964844,243.7989959716797 163.26499938964844,243.7989959716797 C163.26499938964844,243.7989959716797 -527.7349853515625,243.7989959716797 -527.7349853515625,243.7989959716797 C-527.7349853515625,243.7989959716797 -527.7349853515625,-286.20098876953125 -527.7349853515625,-286.20098876953125z M-527.7349853515625,243.7989959716797 C-527.7349853515625,243.7989959716797 163.26499938964844,243.7989959716797 163.26499938964844,243.7989959716797 C163.26499938964844,243.7989959716797 163.26499938964844,-286.20098876953125 163.26499938964844,-286.20098876953125 C163.26499938964844,-286.20098876953125 -527.7349853515625,-286.20098876953125 -527.7349853515625,-286.20098876953125 C-527.7349853515625,-286.20098876953125 -527.7349853515625,243.7989959716797 -527.7349853515625,243.7989959716797z M39.8390007019043,-8.026000022888184 C34.319000244140625,0.6620000004768372 18.56999969482422,6.933000087738037 0.003000000026077032,6.933000087738037 C-18.570999145507812,6.933000087738037 -34.32500076293945,0.6589999794960022 -39.8390007019043,-8.03600025177002 C-34.9370002746582,1.2400000095367432 -18.95599937438965,8.03600025177002 0.003000000026077032,8.03600025177002 C18.95400047302246,8.03600025177002 34.930999755859375,1.24399995803833 39.8390007019043,-8.026000022888184z">
+        </path>
+        <g opacity="1" transform="matrix(1,0,0,1,0,0)"></g>
+      </g>
+      <g opacity="1" transform="matrix(1.3767800331115723,0,0,1.3649200201034546,527.8729858398438,271.2919921875)">
+        <path stroke-linecap="butt" stroke-linejoin="miter" fill-opacity="0" stroke-miterlimit="10"
+          stroke="rgb(197,197,197)" stroke-opacity="1" stroke-width="3"
+          d=" M25.19300079345703,0 C25.19300079345703,6.791999816894531 13.913999557495117,12.29800033569336 0,12.29800033569336 C-13.913999557495117,12.29800033569336 -25.194000244140625,6.791999816894531 -25.194000244140625,0 C-25.194000244140625,-6.791999816894531 -13.913999557495117,-12.29800033569336 0,-12.29800033569336 C13.913999557495117,-12.29800033569336 25.19300079345703,-6.791999816894531 25.19300079345703,0z">
+        </path>
+      </g>
+      <g opacity="1" transform="matrix(1.5879499912261963,0,0,1.3860000371932983,523.780029296875,270.322998046875)">
+        <path stroke-linecap="butt" stroke-linejoin="miter" fill-opacity="0" stroke-miterlimit="10"
+          stroke="rgb(197,197,197)" stroke-opacity="1" stroke-width="1.853"
+          d=" M-14.279000282287598,0.5370000004768372 C-14.279000282287598,0.5370000004768372 4.511000156402588,-7.078999996185303 4.511000156402588,-7.078999996185303 C4.511000156402588,-7.078999996185303 12.416000366210938,-7.308000087738037 12.416000366210938,-7.308000087738037 C12.416000366210938,-7.308000087738037 14.279000282287598,7.308000087738037 14.279000282287598,7.308000087738037 C14.279000282287598,7.308000087738037 -14.279000282287598,0.5370000004768372 -14.279000282287598,0.5370000004768372z">
+        </path>
+      </g>
+      <g opacity="1" transform="matrix(1.5879499912261963,0,0,1.3860000371932983,532.9719848632812,270.3240051269531)">
+        <path stroke-linecap="butt" stroke-linejoin="miter" fill-opacity="0" stroke-miterlimit="10"
+          stroke="rgb(197,197,197)" stroke-opacity="1" stroke-width="1.853"
+          d=" M6.688000202178955,-7.39900016784668 C6.688000202178955,-7.39900016784668 -3.3540000915527344,-0.4440000057220459 -3.3540000915527344,-0.4440000057220459 C-3.3540000915527344,-0.4440000057220459 8.392000198364258,7.39900016784668 8.392000198364258,7.39900016784668">
+        </path>
+      </g>
+      <g opacity="1" transform="matrix(1.5879499912261963,0,0,1.3860000371932983,518.89599609375,267.0530090332031)">
+        <path stroke-linecap="butt" stroke-linejoin="miter" fill-opacity="0" stroke-miterlimit="10"
+          stroke="rgb(197,197,197)" stroke-opacity="1" stroke-width="1.853"
+          d=" M7.663000106811523,-4.710000038146973 C7.663000106811523,-4.710000038146973 5.5269999504089355,2.0160000324249268 5.5269999504089355,2.0160000324249268 C5.5269999504089355,2.0160000324249268 -11.126999855041504,2.7260000705718994 -11.126999855041504,2.7260000705718994">
+        </path>
+      </g>
+    </g>
+    <g style="display: block;"
+      transform="matrix(0.999998927116394,0,0,0.9999997615814209,-28.999656677246094,122.0001220703125)" opacity="0.5">
+      <g opacity="1" transform="matrix(1,0,0,1,526.9920043945312,131.35400390625)">
+        <path fill="url(#__lottie_element_1589)" mask="url(#__lottie_element_1591)" fill-opacity="1"
+          d="M0 0 M-54.321998596191406,83.29299926757812 C-54.321998596191406,83.29299926757812 -54.321998596191406,-83.29299926757812 -54.321998596191406,-83.29299926757812 C-54.321998596191406,-99.29399871826172 -30.00200080871582,-112.26499938964844 0,-112.26499938964844 C30.000999450683594,-112.26499938964844 54.321998596191406,-99.29399871826172 54.321998596191406,-83.29299926757812 C54.321998596191406,-83.29299926757812 54.321998596191406,83.29299926757812 54.321998596191406,83.29299926757812 C54.321998596191406,99.29299926757812 30.000999450683594,112.26399993896484 0,112.26399993896484 C-30.00200080871582,112.26399993896484 -54.321998596191406,99.29299926757812 -54.321998596191406,83.29299926757812z">
+        </path>
+      </g>
+    </g>
+    <g style="display: block;" transform="matrix(1,0,0,1,-240.00001525878906,-94.93771362304688)"
+      opacity="0.2428443243242761">
+      <g opacity="1" transform="matrix(1,0,0,1,427.7049865722656,232.54200744628906)">
+        <path fill="url(#__lottie_element_1577)" mask="url(#__lottie_element_1579)" fill-opacity="1"
+          d="M0 0 M0.5860000252723694,-32.57400131225586 C1.5959999561309814,-32.834999084472656 2.3429999351501465,-33.75199890136719 2.3429999351501465,-34.84299850463867 C2.3429999351501465,-36.137001037597656 1.2940000295639038,-37.185001373291016 -0.0010000000474974513,-37.185001373291016 C-1.2940000295639038,-37.185001373291016 -2.3429999351501465,-36.137001037597656 -2.3429999351501465,-34.84299850463867 C-2.3429999351501465,-33.75199890136719 -1.597000002861023,-32.834999084472656 -0.5860000252723694,-32.57400131225586 C-0.5860000252723694,-32.57400131225586 -0.5860000252723694,37.185001373291016 -0.5860000252723694,37.185001373291016 C-0.5860000252723694,37.185001373291016 0.5860000252723694,37.185001373291016 0.5860000252723694,37.185001373291016 C0.5860000252723694,37.185001373291016 0.5860000252723694,-32.57400131225586 0.5860000252723694,-32.57400131225586z">
+        </path>
+      </g>
+    </g>
+    <g style="display: block;" transform="matrix(0.75,0,0,0.75,-81.37501525878906,26.784255981445312)"
+      opacity="0.1029393103447661">
+      <g opacity="1" transform="matrix(1,0,0,1,427.7049865722656,232.54200744628906)">
+        <path fill="url(#__lottie_element_1571)" mask="url(#__lottie_element_1573)" fill-opacity="1"
+          d="M0 0 M0.5860000252723694,-32.57400131225586 C1.5959999561309814,-32.834999084472656 2.3429999351501465,-33.75199890136719 2.3429999351501465,-34.84299850463867 C2.3429999351501465,-36.137001037597656 1.2940000295639038,-37.185001373291016 -0.0010000000474974513,-37.185001373291016 C-1.2940000295639038,-37.185001373291016 -2.3429999351501465,-36.137001037597656 -2.3429999351501465,-34.84299850463867 C-2.3429999351501465,-33.75199890136719 -1.597000002861023,-32.834999084472656 -0.5860000252723694,-32.57400131225586 C-0.5860000252723694,-32.57400131225586 -0.5860000252723694,37.185001373291016 -0.5860000252723694,37.185001373291016 C-0.5860000252723694,37.185001373291016 0.5860000252723694,37.185001373291016 0.5860000252723694,37.185001373291016 C0.5860000252723694,37.185001373291016 0.5860000252723694,-32.57400131225586 0.5860000252723694,-32.57400131225586z">
+        </path>
+      </g>
+    </g>
+    <g style="display: block;" transform="matrix(0.75,0,0,0.75,-116.37501525878906,51.16560363769531)"
+      opacity="0.18137090909085504">
+      <g opacity="1" transform="matrix(1,0,0,1,427.7049865722656,232.54200744628906)">
+        <path fill="url(#__lottie_element_1565)" mask="url(#__lottie_element_1567)" fill-opacity="1"
+          d="M0 0 M0.5860000252723694,-32.57400131225586 C1.5959999561309814,-32.834999084472656 2.3429999351501465,-33.75199890136719 2.3429999351501465,-34.84299850463867 C2.3429999351501465,-36.137001037597656 1.2940000295639038,-37.185001373291016 -0.0010000000474974513,-37.185001373291016 C-1.2940000295639038,-37.185001373291016 -2.3429999351501465,-36.137001037597656 -2.3429999351501465,-34.84299850463867 C-2.3429999351501465,-33.75199890136719 -1.597000002861023,-32.834999084472656 -0.5860000252723694,-32.57400131225586 C-0.5860000252723694,-32.57400131225586 -0.5860000252723694,37.185001373291016 -0.5860000252723694,37.185001373291016 C-0.5860000252723694,37.185001373291016 0.5860000252723694,37.185001373291016 0.5860000252723694,37.185001373291016 C0.5860000252723694,37.185001373291016 0.5860000252723694,-32.57400131225586 0.5860000252723694,-32.57400131225586z">
+        </path>
+      </g>
+    </g>
+    <g style="display: none;" transform="matrix(1,0,0,1,-200.00001525878906,-192.6116943359375)"
+      opacity="0.003990857142639897">
+      <g opacity="1" transform="matrix(1,0,0,1,427.7049865722656,232.54200744628906)">
+        <path fill="url(#__lottie_element_1559)" mask="url(#__lottie_element_1561)" fill-opacity="1"
+          d="M0 0 M0.5860000252723694,-32.57400131225586 C1.5959999561309814,-32.834999084472656 2.3429999351501465,-33.75199890136719 2.3429999351501465,-34.84299850463867 C2.3429999351501465,-36.137001037597656 1.2940000295639038,-37.185001373291016 -0.0010000000474974513,-37.185001373291016 C-1.2940000295639038,-37.185001373291016 -2.3429999351501465,-36.137001037597656 -2.3429999351501465,-34.84299850463867 C-2.3429999351501465,-33.75199890136719 -1.597000002861023,-32.834999084472656 -0.5860000252723694,-32.57400131225586 C-0.5860000252723694,-32.57400131225586 -0.5860000252723694,37.185001373291016 -0.5860000252723694,37.185001373291016 C-0.5860000252723694,37.185001373291016 0.5860000252723694,37.185001373291016 0.5860000252723694,37.185001373291016 C0.5860000252723694,37.185001373291016 0.5860000252723694,-32.57400131225586 0.5860000252723694,-32.57400131225586z">
+        </path>
+      </g>
+    </g>
+    <g style="display: block;" transform="matrix(1,0,0,1,40,25.062286376953125)" opacity="0.2428443243242761">
+      <g opacity="1" transform="matrix(1,0,0,1,427.7049865722656,232.54200744628906)">
+        <path fill="url(#__lottie_element_1553)" mask="url(#__lottie_element_1555)" fill-opacity="1"
+          d="M0 0 M0.5860000252723694,-32.57400131225586 C1.5959999561309814,-32.834999084472656 2.3429999351501465,-33.75199890136719 2.3429999351501465,-34.84299850463867 C2.3429999351501465,-36.137001037597656 1.2940000295639038,-37.185001373291016 -0.0010000000474974513,-37.185001373291016 C-1.2940000295639038,-37.185001373291016 -2.3429999351501465,-36.137001037597656 -2.3429999351501465,-34.84299850463867 C-2.3429999351501465,-33.75199890136719 -1.597000002861023,-32.834999084472656 -0.5860000252723694,-32.57400131225586 C-0.5860000252723694,-32.57400131225586 -0.5860000252723694,37.185001373291016 -0.5860000252723694,37.185001373291016 C-0.5860000252723694,37.185001373291016 0.5860000252723694,37.185001373291016 0.5860000252723694,37.185001373291016 C0.5860000252723694,37.185001373291016 0.5860000252723694,-32.57400131225586 0.5860000252723694,-32.57400131225586z">
+        </path>
+      </g>
+    </g>
+    <g style="display: block;" transform="matrix(0.75,0,0,0.75,198.625,146.7842559814453)" opacity="0.1029393103447661">
+      <g opacity="1" transform="matrix(1,0,0,1,427.7049865722656,232.54200744628906)">
+        <path fill="url(#__lottie_element_1547)" mask="url(#__lottie_element_1549)" fill-opacity="1"
+          d="M0 0 M0.5860000252723694,-32.57400131225586 C1.5959999561309814,-32.834999084472656 2.3429999351501465,-33.75199890136719 2.3429999351501465,-34.84299850463867 C2.3429999351501465,-36.137001037597656 1.2940000295639038,-37.185001373291016 -0.0010000000474974513,-37.185001373291016 C-1.2940000295639038,-37.185001373291016 -2.3429999351501465,-36.137001037597656 -2.3429999351501465,-34.84299850463867 C-2.3429999351501465,-33.75199890136719 -1.597000002861023,-32.834999084472656 -0.5860000252723694,-32.57400131225586 C-0.5860000252723694,-32.57400131225586 -0.5860000252723694,37.185001373291016 -0.5860000252723694,37.185001373291016 C-0.5860000252723694,37.185001373291016 0.5860000252723694,37.185001373291016 0.5860000252723694,37.185001373291016 C0.5860000252723694,37.185001373291016 0.5860000252723694,-32.57400131225586 0.5860000252723694,-32.57400131225586z">
+        </path>
+      </g>
+    </g>
+    <g style="display: block;" transform="matrix(0.75,0,0,0.75,163.625,171.1656036376953)"
+      opacity="0.18137090909085504">
+      <g opacity="1" transform="matrix(1,0,0,1,427.7049865722656,232.54200744628906)">
+        <path fill="url(#__lottie_element_1541)" mask="url(#__lottie_element_1543)" fill-opacity="1"
+          d="M0 0 M0.5860000252723694,-32.57400131225586 C1.5959999561309814,-32.834999084472656 2.3429999351501465,-33.75199890136719 2.3429999351501465,-34.84299850463867 C2.3429999351501465,-36.137001037597656 1.2940000295639038,-37.185001373291016 -0.0010000000474974513,-37.185001373291016 C-1.2940000295639038,-37.185001373291016 -2.3429999351501465,-36.137001037597656 -2.3429999351501465,-34.84299850463867 C-2.3429999351501465,-33.75199890136719 -1.597000002861023,-32.834999084472656 -0.5860000252723694,-32.57400131225586 C-0.5860000252723694,-32.57400131225586 -0.5860000252723694,37.185001373291016 -0.5860000252723694,37.185001373291016 C-0.5860000252723694,37.185001373291016 0.5860000252723694,37.185001373291016 0.5860000252723694,37.185001373291016 C0.5860000252723694,37.185001373291016 0.5860000252723694,-32.57400131225586 0.5860000252723694,-32.57400131225586z">
+        </path>
+      </g>
+    </g>
+    <g style="display: none;" transform="matrix(1,0,0,1,80,-72.61170196533203)" opacity="0.003990857142639897">
+      <g opacity="1" transform="matrix(1,0,0,1,427.7049865722656,232.54200744628906)">
+        <path fill="url(#__lottie_element_1535)" mask="url(#__lottie_element_1537)" fill-opacity="1"
+          d="M0 0 M0.5860000252723694,-32.57400131225586 C1.5959999561309814,-32.834999084472656 2.3429999351501465,-33.75199890136719 2.3429999351501465,-34.84299850463867 C2.3429999351501465,-36.137001037597656 1.2940000295639038,-37.185001373291016 -0.0010000000474974513,-37.185001373291016 C-1.2940000295639038,-37.185001373291016 -2.3429999351501465,-36.137001037597656 -2.3429999351501465,-34.84299850463867 C-2.3429999351501465,-33.75199890136719 -1.597000002861023,-32.834999084472656 -0.5860000252723694,-32.57400131225586 C-0.5860000252723694,-32.57400131225586 -0.5860000252723694,37.185001373291016 -0.5860000252723694,37.185001373291016 C-0.5860000252723694,37.185001373291016 0.5860000252723694,37.185001373291016 0.5860000252723694,37.185001373291016 C0.5860000252723694,37.185001373291016 0.5860000252723694,-32.57400131225586 0.5860000252723694,-32.57400131225586z">
+        </path>
+      </g>
+    </g>
+  </g>
+</svg>

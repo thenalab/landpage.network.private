@@ -18,10 +18,10 @@ export default function Home() {
       </Head>
       <main>
         <BackgroundVideo />
-        <NavbarHamburger />
         <Details />
         <Chat />
         <Footer />
+        <NavbarHamburger />
       </main>
       <footer>
       </footer>

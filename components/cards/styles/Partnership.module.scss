@@ -1,0 +1,16 @@
+.partnership {
+  width: 100%;
+  height: 100%;
+  display: grid;
+  place-items: center;
+  color: white;
+  padding: 100px;
+  .imgWrapper {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px;
+    img {
+      filter: invert(1)
+    }
+  }
+}

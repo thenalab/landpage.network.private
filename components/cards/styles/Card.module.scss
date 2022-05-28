@@ -24,40 +24,40 @@
     .simpleBar {
       height: 100%;
       display: flex;
-
-      [class="simplebar-content"] {
-        .content {
-          height: 100%;
-          width: 100%;
-          opacity: 0.8;
-          margin-bottom: 10rem;
+      [class="simplebar-content-wrapper"] {
+        [class="simplebar-content"] {
+          min-height: 100%;
           display: flex;
-          flex-direction: column;
-          .textLarge {
-            font-size: 48px;
-            font-weight: 400;
-            margin: 0 auto;
-            text-align: center;
-            max-width: 437px;
-          }
-          .horizontalLine {
-            width: 175px;
-            height: 3px;
-            background-color: #ED5055;
-            margin: 20px auto 10px auto;
-          }
-    
-          .textSmall {
-            font-size: 16px;
-            font-weight: 400;
-            margin: 0 auto;
-            text-align: center;
-            max-width: 437px;
-          }
-
-          .cardBody {
-            flex: 1;
-            border: 1px solid green;
+          .content {
+            width: 100%;
+            opacity: 0.8;
+            display: flex;
+            flex-direction: column;
+            .textLarge {
+              font-size: 48px;
+              font-weight: 400;
+              margin: 0 auto;
+              text-align: center;
+              max-width: 437px;
+            }
+            .horizontalLine {
+              width: 175px;
+              height: 3px;
+              background-color: #ED5055;
+              margin: 20px auto 10px auto;
+            }
+      
+            .textSmall {
+              font-size: 16px;
+              font-weight: 400;
+              margin: 0 auto;
+              text-align: center;
+              max-width: 437px;
+            }
+  
+            .cardBody {
+              flex: 1;
+            }
           }
         }
       }

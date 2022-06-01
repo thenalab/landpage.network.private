@@ -1,6 +1,7 @@
 .chat {
-  position: absolute;
-  bottom: -120px;
+  position: fixed;
+  bottom: 32px;
+  left: 32px;
   width: 48px;
   height: 48px;
   display: flex;

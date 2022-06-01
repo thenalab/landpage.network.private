@@ -114,3 +114,22 @@
     display: none;
   }
 }
+
+@media screen and (max-width: 809px) {
+  .chatbot {
+    .chatModal {
+      width: 326px;
+    }
+  }
+}
+
+/* On screens that are 600px wide or less */
+@media screen and (max-width: 600px) {
+  .chatbot {
+    .chatModal {
+      width: auto;
+      left: 12px;
+      right: 12px;
+    }
+  }
+}

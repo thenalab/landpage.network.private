@@ -3,8 +3,10 @@ import SimpleBar from 'simplebar-react';
 import * as styles from './styles/Card.module.scss'
 import CloseIcon from 'assets/images/icons/close.svg';
 import classNames from 'classnames';
+import { MODAL_TYPE } from 'constants/common';
 
-export default function Card({ cardProps, setCardPropsAndOpen }) {
+export default function Card({ cardProps, setCardPropsAndOpen, openingModal }) {
+  if(openingModal!==MODAL_TYPE.CARD) return '';
   return (
     <div className={classNames(styles.card, cardProps.tab ? styles.cardShow : styles.cardHidden)}>
       <div className={styles.cardInner}>

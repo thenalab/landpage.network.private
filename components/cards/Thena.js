@@ -11,7 +11,7 @@ export default function Thena() {
   return (
     <div className={styles.grid}>
       <div>
-        <div>PHASE 1</div>
+        <div className={styles.phase}>PHASE 1</div>
       </div>
       <div>
         <div>
@@ -54,10 +54,10 @@ export default function Thena() {
         </div>
       </div>
       <div>
-        <div>PHASE 2</div>
+        <div className={styles.phase}>PHASE 2</div>
       </div>
       <div>
-        <div>PHASE 3</div>
+        <div className={styles.phase}>PHASE 3</div>
       </div>
       <div>
         <div>
@@ -100,7 +100,7 @@ export default function Thena() {
         </div>
       </div>
       <div>
-        <div>PHASE 4</div>
+        <div className={styles.phase}>PHASE 4</div>
       </div>
     </div>
   )

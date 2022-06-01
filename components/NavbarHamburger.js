@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import classNames from 'classnames';
 import * as styles from 'styles/NavbarHamburger.module.scss';
 import Card from 'components/cards/Card';
@@ -8,7 +8,7 @@ import Team from './cards/Team';
 import Advision from './cards/Advision';
 import Partnership from './cards/Partnership';
 import Contact from './cards/Contact';
-import Chat from 'components/ChatContact';
+import { MODAL_TYPE } from 'constants/common';
 
 const navbarData = [
   {
@@ -49,20 +49,29 @@ const navbarData = [
   },
 ]
 
-export default function NavbarHamburger() {
+export default function NavbarHamburger({ openingModal, setOpeningModal }) {
   const [isOpen, setIsOpen] = React.useState(true);
+  useEffect(() => {
+    setIsOpen(openingModal === MODAL_TYPE.NAVBAR);
+  }, [openingModal]);
   const [cardProps, setCardProps] = React.useState({});
-  const toogle = () => setIsOpen(pre => !pre);
-  const setCardPropsAndClose = (cardProps) => {    
+  const [index, setIndex] = React.useState(-1);
+  const handleHamburgersClick = () => {
+    if (openingModal === MODAL_TYPE.NAVBAR) return setOpeningModal(null);
+    setOpeningModal(MODAL_TYPE.NAVBAR);
+    setIndex(-1);
+  };
+  const setCardPropsAndClose = (cardProps, _index) => {
     setCardProps(cardProps);
-    setIsOpen(false);
+    setOpeningModal(MODAL_TYPE.CARD);
+    setIndex(_index);
   }
   const setCardPropsAndOpen = (cardProps) => {
     setCardProps(cardProps);
-    setIsOpen(true);
+    setOpeningModal(MODAL_TYPE.NAVBAR);
   }
   React.useEffect(() => {
-    if(isOpen) setCardProps({});
+    if (isOpen) setCardProps({});
   }, [isOpen])
   return (
     <div className={styles.navbarWrapper}>
@@ -70,21 +79,23 @@ export default function NavbarHamburger() {
         styles.navbar,
         isOpen ? styles.navbarOpen : styles.navbarClose
       )}>
-        <div className='hamburgers' onClick={toogle}>
+        <div className='hamburgers' onClick={handleHamburgersClick}>
           <div className='hamburger'></div>
           <div className='hamburger'></div>
           <div className='hamburger'></div>
         </div>
         <div className='content'>
           {
-            navbarData.map(({ navText, ...rest }) => (
-              <div key={navText} className='content-item' onClick={() => setCardPropsAndClose(rest)}>{navText}</div>
+            navbarData.map(({ navText, ...rest }, _index) => (
+              <div key={navText} className={classNames(
+                'content-item',
+                { 'item-active': openingModal === MODAL_TYPE.NAVBAR && index === _index }
+              )} onClick={() => setCardPropsAndClose(rest, _index)}>{navText}</div>
             ))
           }
         </div>
-        <Card cardProps={cardProps} setCardPropsAndOpen={setCardPropsAndOpen} />
+        <Card cardProps={cardProps} setCardPropsAndOpen={setCardPropsAndOpen} openingModal={openingModal} />
       </div>
-      <Chat />
     </div>
   )
 }

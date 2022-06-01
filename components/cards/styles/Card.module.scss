@@ -117,3 +117,27 @@
   transform: translate(-50%, -50%) scale(1.2);
   color: red;
 }
+
+
+@media screen and (max-width: 809px) {
+  .card {
+    --spaceX: 4rem;
+    --spaceY: 2rem;
+    .cardInner {
+      --space: 0.2rem;
+      padding: 1rem;
+    }
+  }
+}
+
+/* On screens that are 600px wide or less */
+@media screen and (max-width: 600px) {
+  .card {
+    --spaceX: 1rem;
+    --spaceY: 1rem;
+    .cardInner {
+      --space: 0.2rem;
+      padding: 0.5rem;
+    }
+  }
+}

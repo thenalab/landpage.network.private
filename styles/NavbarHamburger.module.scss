@@ -87,7 +87,7 @@ $transition-duration: 0.5s;
   width: max-content;
 }
 
-.navbar [class="content-item"] {
+.navbar [class*="content-item"] {
   font-family: "Sniglet", serif;
   font-weight: 400;
   color: #fffffd;
@@ -97,6 +97,10 @@ $transition-duration: 0.5s;
   cursor: pointer;
   transition: all $transition-duration;
   background: linear-gradient(98deg, rgb(0, 0, 0) 0%, rgba(30, 13, 31, 0.2) 100%);
+}
+
+.navbar [class*="item-active"] {
+  color: red;
 }
 
 .navbar [class="content-item"]:hover {

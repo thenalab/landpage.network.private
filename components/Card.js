@@ -46,7 +46,7 @@ export const Card2 = ({ title, arr }) => {
                     style={{ width: `${percent}%` }}
                   ></div>
                 </div>
-                <div className=''>{numberText}</div>
+                <div className='numberText'>{numberText}</div>
               </div>
             </div>
           ))
@@ -71,10 +71,10 @@ export const Card3 = ({ title, arr }) => {
                       'gradient-red': color === COLORS.RED,
                       'gradient-green': color === COLORS.GREEN
                     })}
-                    style={{ width: `${Math.floor(180*percent/100)}px` }}
+                    style={{ width: `${Math.floor(180 * percent / 100)}px` }}
                   ></div>
                 </div>
-                <div className=''>{numberText}</div>
+                <div className='numberText'>{numberText}</div>
               </div>
             </div>
           ))

@@ -1,0 +1,168 @@
+.navbar {
+  &>div {
+    position: absolute;
+    cursor: pointer;
+
+    // this is yellow thena image
+    &>img {
+      width: 100%;
+      height: 100%;
+    }
+
+    .branch {
+      position: absolute;
+      display: none;
+
+      img {
+        width: 100%;
+        height: 100%;
+        transition: all 2s;
+        opacity: 0;
+      }
+    }
+
+    .leaf {
+      // opacity: 0;
+      display: none;
+      position: absolute;
+      width: 371px;
+      height: 116px;
+      border: 1px solid rgba(white, 0.2);
+      background: rgba(0, 0, 0, 0) linear-gradient(108deg, rgba(49, 140, 125, 0.87) 0%, rgba(9, 47, 40, 0.6) 100%) repeat scroll 0% 0%;
+    }
+
+    &:hover {
+      .branch {
+        display: block;
+
+        img {
+          opacity: 1;
+        }
+      }
+
+      .leaf {
+        display: block;
+      }
+    }
+  }
+
+  .thenaBlockchain {
+    width: 39px;
+    height: 44px;
+    left: 35%;
+    top: 25%;
+
+    .branch {
+      width: 100px;
+      height: 75px;
+      right: -91px;
+      top: -66px;
+    }
+
+    .leaf {
+      right: -451px;
+      top: -124px;
+    }
+  }
+
+  .smartBlockchain {
+    width: 27px;
+    height: 30px;
+    left: 65%;
+    top: 25%;
+
+    .branch {
+      width: 137px;
+      height: 103px;
+      left: -129px;
+      top: -94px;
+    }
+
+    .leaf {
+      left: -487px;
+      top: -152px;
+    }
+  }
+
+  .team {
+    width: 39px;
+    height: 44px;
+    left: 54%;
+    top: 41%;
+
+    .branch {
+      width: 137px;
+      height: 103px;
+      left: -129px;
+      top: -94px;
+    }
+
+    .leaf {
+      left: -487px;
+      top: -152px;
+    }
+  }
+
+  .advision {
+    width: 32px;
+    height: 36px;
+    left: 31%;
+    top: 54%;
+
+    .branch {
+      width: 100px;
+      height: 75px;
+      right: -91px;
+      top: -66px;
+    }
+
+    .leaf {
+      right: -451px;
+      top: -124px;
+    }
+  }
+
+  .partnership {
+    width: 32px;
+    height: 36px;
+    left: 69%;
+    top: 45%;
+
+    .branch {
+      width: 137px;
+      height: 103px;
+      left: -129px;
+      top: -94px;
+    }
+
+    .leaf {
+      left: -487px;
+      top: -152px;
+    }
+  }
+
+  .contact {
+    width: 32px;
+    height: 36px;
+    left: 61%;
+    top: 60%;
+
+    .branch {
+      width: 137px;
+      height: 103px;
+      left: -129px;
+      top: -94px;
+    }
+
+    .leaf {
+      left: -487px;
+      top: -152px;
+    }
+  }
+}
+
+@media screen and (max-width: 809px) {
+  .navbar {
+    display: none;
+  }
+}

@@ -7,9 +7,13 @@ import Details from 'components/Details';
 import Footer from 'components/Footer';
 import Chatbot from 'components/Chatbot';
 import ChatContact from 'components/ChatContact';
+import NavbarNetwork from 'components/NavbarNetwork';
 
 export default function Home() {
-  const [openingModal, setOpeningModal] = useState(null);
+  const [openingModal, setOpeningModal] = useState({
+    // cardType,
+    // cardProps
+  });
   return (
     <div className={styles.home}>
       <Head>
@@ -19,11 +23,12 @@ export default function Home() {
       </Head>
       <main>
         <BackgroundVideo />
-        <Details openingModal={openingModal} setOpeningModal={setOpeningModal} />
-        <Footer />
+        <Footer setOpeningModal={setOpeningModal} />
         <NavbarHamburger openingModal={openingModal} setOpeningModal={setOpeningModal} />
-        <Chatbot openingModal={openingModal} setOpeningModal={setOpeningModal} />
+        <NavbarNetwork openingModal={openingModal} setOpeningModal={setOpeningModal} />
+        <Details openingModal={openingModal} setOpeningModal={setOpeningModal} />
         <ChatContact openingModal={openingModal} setOpeningModal={setOpeningModal} />
+        <Chatbot openingModal={openingModal} setOpeningModal={setOpeningModal} />
       </main>
       <footer>
       </footer>

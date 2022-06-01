@@ -6,44 +6,43 @@ $transition-duration: 0.5s;
   right: 0;
   display: flex;
   transition: all $transition-duration;
-}
 
-.details [class="arrow"] {
-  position: absolute;
-  transition: all $transition-duration;
-  transform: translateX(-100%) translate(-24px, 10px);
-  width: 48px;
-  height: 48px;
-  border-radius: 8px;
-}
-
-// .detailsOpen [class="arrow"] {}
-
-.detailsClose [class="arrow"] {
-  // transform: translateX(-100%) translate(-24px, 10px) rotate(180deg);
-  padding: 8px;
-  background-color: rgba(89, 89, 89, 0.2);
-}
-
-.details [class="content"] {
-  transition: all $transition-duration;
   color: white;
   padding-top: 24px;
   padding-right: 24px;
   padding-bottom: 60px;
+
+  div {
+    .arrow {
+      position: absolute;
+      transition: all $transition-duration;
+      transform: translateX(-100%) translate(-24px, 10px);
+      width: 48px;
+      height: 48px;
+      border-radius: 8px;
+      cursor: pointer;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: auto auto;
+      column-gap: 22px;
+      row-gap: 25px;
+    }
+  }
 }
 
-.detailsOpen [class="content"] {
+.detailsOpen {
   transform: translateX(0);
 }
 
-.detailsClose [class="content"] {
+.detailsClose {
   transform: translateX(100%);
-}
 
-.details [class="grid"] {
-  display: grid;
-  grid-template-columns: auto auto;
-  column-gap: 22px;
-  row-gap: 25px;
+  div {
+    .arrow {
+      padding: 8px;
+      background-color: rgba(89, 89, 89, 0.2);
+    }
+  }
 }

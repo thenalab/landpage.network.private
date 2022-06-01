@@ -10,11 +10,11 @@ import { MODAL_TYPE } from 'constants/common';
 export default function ChatContact({ openingModal, setOpeningModal }) {
   const [isOpen, setIsOpen] = React.useState(true);
   useEffect(() => {
-    setIsOpen(openingModal === MODAL_TYPE.CHAT_CONTACT);
-  }, [openingModal]);
+    setIsOpen(openingModal.cardType === MODAL_TYPE.CHAT_CONTACT);
+  }, [openingModal.cardType]);
   const toogle = () => {
-    if (openingModal === MODAL_TYPE.CHAT_CONTACT) return setOpeningModal(null);
-    setOpeningModal(MODAL_TYPE.CHAT_CONTACT);
+    if (openingModal.cardType === MODAL_TYPE.CHAT_CONTACT) return setOpeningModal({});
+    setOpeningModal({ cardType: MODAL_TYPE.CHAT_CONTACT });
   }
   return (
     <div className={classNames(

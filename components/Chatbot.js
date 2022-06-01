@@ -11,11 +11,11 @@ const videoSrc = "https://framerusercontent.com/modules/assets/bVcEWVqwOBQSxJmtv
 export default function Chatbot({ openingModal, setOpeningModal }) {
   const [isOpen, setIsOpen] = React.useState(true);
   useEffect(() => {
-    setIsOpen(openingModal === MODAL_TYPE.CHAT_BOT);
-  }, [openingModal]);
+    setIsOpen(openingModal.cardType === MODAL_TYPE.CHAT_BOT);
+  }, [openingModal.cardType]);
   const toogle = () => {
-    if (openingModal === MODAL_TYPE.CHAT_BOT) return setOpeningModal(null);
-    setOpeningModal(MODAL_TYPE.CHAT_BOT);
+    if (openingModal.cardType === MODAL_TYPE.CHAT_BOT) return setOpeningModal({});
+    setOpeningModal({ cardType: MODAL_TYPE.CHAT_BOT });
   }
   return (
     <div className={classNames(

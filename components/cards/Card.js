@@ -5,8 +5,9 @@ import CloseIcon from 'assets/images/icons/close.svg';
 import classNames from 'classnames';
 import { MODAL_TYPE } from 'constants/common';
 
-export default function Card({ cardProps, setCardPropsAndOpen, openingModal }) {
-  if(openingModal!==MODAL_TYPE.CARD) return '';
+export default function Card({ openingModal, setOpeningModal }) {
+  const { cardType, cardProps, openAfterClose } = openingModal;
+  if (cardType !== MODAL_TYPE.CARD) return '';
   return (
     <div className={classNames(styles.card, cardProps.tab ? styles.cardShow : styles.cardHidden)}>
       <div className={styles.cardInner}>
@@ -21,7 +22,9 @@ export default function Card({ cardProps, setCardPropsAndOpen, openingModal }) {
           </div>
         </SimpleBar>
       </div>
-      <div className={styles.closeIcon} onClick={() => setCardPropsAndOpen({})}>
+      <div className={styles.closeIcon}
+        onClick={() => setOpeningModal(openAfterClose ?? {})
+        }>
         <CloseIcon />
       </div>
     </div>

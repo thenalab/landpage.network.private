@@ -3,7 +3,8 @@
 }
 
 .card1 [class="title"] {
-  font-family: "Inter-Light", "Inter", sans-serif;;
+  font-family: "Inter-Light", "Inter", sans-serif;
+  ;
   font-weight: 300;
   font-size: 16px;
   color: #cbcbc7;
@@ -45,7 +46,8 @@
 }
 
 .card2 [class="title"] {
-  font-family: "Inter-Light", "Inter", sans-serif;;
+  font-family: "Inter-Light", "Inter", sans-serif;
+  ;
   font-weight: 300;
   font-size: 16px;
   line-height: 22px;
@@ -89,12 +91,21 @@
   height: 100%;
 }
 
+.card2 [class="numberText"] {
+  font-family: "Inter-Light", "Inter", sans-serif;
+  font-weight: 300;
+  color: #fffffd;
+  font-size: 12px;
+}
+
+
 .card3 {
   margin-top: 20px;
 }
 
 .card3 [class="title"] {
-  font-family: "Inter-Light", "Inter", sans-serif;;
+  font-family: "Inter-Light", "Inter", sans-serif;
+  ;
   font-weight: 300;
   font-size: 16px;
   line-height: 22px;
@@ -117,6 +128,13 @@
 .card3 [class="gradient-green"] {
   background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgba(140, 55, 55, 0) 0%, rgb(28, 240, 202) 100%) repeat scroll 0% 0%;
   height: 41px;
+}
+
+.card3 [class="numberText"] {
+  font-family: "Inter-Light", "Inter", sans-serif;
+  font-weight: 300;
+  color: #fffffd;
+  font-size: 12px;
 }
 
 .flex {

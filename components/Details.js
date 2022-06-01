@@ -10,22 +10,22 @@ import { MODAL_TYPE } from 'constants/common';
 export default function Details({ openingModal, setOpeningModal }) {
   const [isOpen, setIsOpen] = React.useState(true);
   useEffect(() => {
-    setIsOpen(openingModal === MODAL_TYPE.DETAILS);
-  }, [openingModal]);
+    setIsOpen(openingModal.cardType === MODAL_TYPE.DETAILS);
+  }, [openingModal.cardType]);
   const toogle = () => {
-    if (openingModal === MODAL_TYPE.DETAILS) return setOpeningModal(null);
-    setOpeningModal(MODAL_TYPE.DETAILS);
+    if (openingModal.cardType === MODAL_TYPE.DETAILS) return setOpeningModal({});
+    setOpeningModal({ cardType: MODAL_TYPE.DETAILS });
   }
   return (
     <div className={classNames(
       styles.details,
       isOpen ? styles.detailsOpen : styles.detailsClose
     )}>
-      <div className='content'>
-        <div className='arrow' onClick={toogle}>
+      <div>
+        <div className={styles.arrow} onClick={toogle}>
           {isOpen ? <ArrowRight /> : <Stat />}
         </div>
-        <div className='grid'>
+        <div className={styles.grid}>
           <Card1 title="Visitor right now" number="681,264" />
           <Card1 title="Total sales" number="$2,475" percent={40} color={COLORS.GREEN} />
           <Card1 title="Total sessions" number="$22,266" percent={30} color={COLORS.RED} />

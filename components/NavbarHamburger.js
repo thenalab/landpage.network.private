@@ -52,50 +52,47 @@ const navbarData = [
 export default function NavbarHamburger({ openingModal, setOpeningModal }) {
   const [isOpen, setIsOpen] = React.useState(true);
   useEffect(() => {
-    setIsOpen(openingModal === MODAL_TYPE.NAVBAR);
-  }, [openingModal]);
-  const [cardProps, setCardProps] = React.useState({});
+    setIsOpen(openingModal.cardType === MODAL_TYPE.NAVBAR);
+  }, [openingModal.cardType]);
+  // const [cardProps, setCardProps] = React.useState({});
   const [index, setIndex] = React.useState(-1);
   const handleHamburgersClick = () => {
-    if (openingModal === MODAL_TYPE.NAVBAR) return setOpeningModal(null);
-    setOpeningModal(MODAL_TYPE.NAVBAR);
+    if (openingModal.cardType === MODAL_TYPE.NAVBAR) return setOpeningModal({});
+    setOpeningModal({ cardType: MODAL_TYPE.NAVBAR });
     setIndex(-1);
   };
-  const setCardPropsAndClose = (cardProps, _index) => {
-    setCardProps(cardProps);
-    setOpeningModal(MODAL_TYPE.CARD);
-    setIndex(_index);
-  }
-  const setCardPropsAndOpen = (cardProps) => {
-    setCardProps(cardProps);
-    setOpeningModal(MODAL_TYPE.NAVBAR);
-  }
-  React.useEffect(() => {
-    if (isOpen) setCardProps({});
-  }, [isOpen])
+  // React.useEffect(() => {
+  //   if (isOpen) setCardProps({});
+  // }, [isOpen])
   return (
-    <div className={styles.navbarWrapper}>
-      <div className={classNames(
-        styles.navbar,
-        isOpen ? styles.navbarOpen : styles.navbarClose
-      )}>
-        <div className='hamburgers' onClick={handleHamburgersClick}>
-          <div className='hamburger'></div>
-          <div className='hamburger'></div>
-          <div className='hamburger'></div>
-        </div>
-        <div className='content'>
-          {
-            navbarData.map(({ navText, ...rest }, _index) => (
-              <div key={navText} className={classNames(
-                'content-item',
-                { 'item-active': openingModal === MODAL_TYPE.NAVBAR && index === _index }
-              )} onClick={() => setCardPropsAndClose(rest, _index)}>{navText}</div>
-            ))
-          }
-        </div>
-        <Card cardProps={cardProps} setCardPropsAndOpen={setCardPropsAndOpen} openingModal={openingModal} />
+    <div className={classNames(
+      styles.navbar,
+      isOpen ? styles.navbarOpen : styles.navbarClose
+    )}>
+      <div className='hamburgers' onClick={handleHamburgersClick}>
+        <div className='hamburger'></div>
+        <div className='hamburger'></div>
+        <div className='hamburger'></div>
       </div>
+      <div className='content'>
+        {
+          navbarData.map(({ navText, ...rest }, _index) => (
+            <div key={navText} className={classNames(
+              'content-item',
+              { 'item-active': index === _index }
+            )} onClick={() => {
+              setOpeningModal({
+                cardType: MODAL_TYPE.CARD, cardProps: rest, openAfterClose: {
+                  cardType: MODAL_TYPE.NAVBAR
+                }
+              });
+              setIndex(_index);
+            }
+            }>{navText}</div>
+          ))
+        }
+      </div>
+      <Card openingModal={openingModal} setOpeningModal={setOpeningModal} />
     </div>
   )
 }

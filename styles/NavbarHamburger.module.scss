@@ -3,14 +3,6 @@ $hamburger-open-width: 296px;
 $hamburger-open-height: 567px;
 $transition-duration: 0.5s;
 
-.navbarWrapper {
-  position: fixed;
-  top: 32px;
-  left: 32px;
-  width: $hamburger-open-width;
-  height: $hamburger-open-height;
-}
-
 .navbar {
   position: fixed;
   top: 32px;
@@ -21,6 +13,7 @@ $transition-duration: 0.5s;
   border: 1px solid rgba(232, 38, 54, 0);
   user-select: none;
   transition: all $transition-duration;
+  overflow: hidden;
 }
 
 .navbarOpen {

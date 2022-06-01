@@ -7,27 +7,62 @@
   flex-direction: column;
   align-items: center;
   max-width: 460px;
-  margin-bottom: 70px;
-  gap: 10px;
+  margin-bottom: 60px;
+  .img {
+    width: 100px;
+    height: 100px;
+    opacity: 0.5;
+  }
+  .icons {
+    display: none;
+    gap: 12px;
+    padding-top: 12px;
+    .icon {
+      width: 48px;
+      height: 48px;
+      display: grid;
+      place-items: center;
+      background-color: rgba(89, 89, 89, 0.2);
+      border-radius: 8px;
+      cursor: pointer;
+      color: white;
+      fill: white;
+      svg {
+        width: 32px;
+        height: 32px;
+      }
+      &:hover svg {
+        color: red;
+        fill: red;
+      }
+    }
+  }
+  .textLarge {
+    font-family: "Sniglet", serif;
+    font-size: 48px;
+    font-weight: 400;
+    text-align: center;
+    letter-spacing: -0.4px;
+  }
+  .textSmall {
+    font-family: "Inter-Light", "Inter", sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    text-align: center;
+  }
 }
 
-.footer [class*="img"] {
-  width: 100px;
-  height: 100px;
-  opacity: 0.5;
-}
-
-.footer [class*="text-large"] {
-  font-family: "Sniglet", serif;
-  font-size: 48px;
-  font-weight: 400;
-  text-align: center;
-  letter-spacing: -0.4px;
-}
-
-.footer [class*="text-small"] {
-  font-family: "Inter-Light", "Inter", sans-serif;
-  font-size: 16px;
-  font-weight: 300;
-  text-align: center;
+@media screen and (max-width: 809px) {
+  .footer {
+    margin-bottom: 120px;
+    .icons {
+      display: flex;
+    }
+    .textLarge {
+      font-size: 32px;
+    }
+    .textSmall {
+      font-size: 12px;
+    }
+  }
 }

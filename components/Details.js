@@ -1,17 +1,21 @@
 /* eslint-disable @next/next/no-img-element */
-import React from 'react'
-
+import React, { useEffect } from 'react'
 import classNames from 'classnames';
-
 import * as styles from 'styles/Details.module.scss'
-
 import { Card1, Card2, Card3, COLORS } from './Card';
-
 import ArrowRight from 'assets/images/icons/arrow-right.svg';
+import Stat from 'assets/images/icons/stat.svg';
+import { MODAL_TYPE } from 'constants/common';
 
-export default function Details() {
+export default function Details({ openingModal, setOpeningModal }) {
   const [isOpen, setIsOpen] = React.useState(true);
-  const toogle = () => setIsOpen(pre => !pre);
+  useEffect(() => {
+    setIsOpen(openingModal === MODAL_TYPE.DETAILS);
+  }, [openingModal]);
+  const toogle = () => {
+    if (openingModal === MODAL_TYPE.DETAILS) return setOpeningModal(null);
+    setOpeningModal(MODAL_TYPE.DETAILS);
+  }
   return (
     <div className={classNames(
       styles.details,
@@ -19,7 +23,7 @@ export default function Details() {
     )}>
       <div className='content'>
         <div className='arrow' onClick={toogle}>
-          <ArrowRight />
+          {isOpen ? <ArrowRight /> : <Stat />}
         </div>
         <div className='grid'>
           <Card1 title="Visitor right now" number="681,264" />

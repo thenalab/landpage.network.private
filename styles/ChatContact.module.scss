@@ -1,9 +1,9 @@
 .chat {
   position: fixed;
-  left: 50px;
-  bottom: 50px;
-  width: 50px;
-  height: 50px;
+  bottom: 32px;
+  left: 32px;
+  width: 48px;
+  height: 48px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -24,7 +24,7 @@
   color: white;
 }
 
-.chat:hover [class*="chat"] {
+.chatOpen [class*="chat"] {
   color: red;
 }
 
@@ -34,18 +34,18 @@
   opacity: 0;
 }
 
-.chat:hover [class*="icon"] {
+.chatOpen [class*="icon"] {
   opacity: 1;
 }
 
-.chat:hover [class*="icon"]:nth-of-type(1) {
+.chatOpen [class*="icon"]:nth-of-type(1) {
   transform: translate(0, -80px);
 }
 
-.chat:hover [class*="icon"]:nth-of-type(2) {
+.chatOpen [class*="icon"]:nth-of-type(2) {
   transform: translate(75px, -80px);
 }
 
-.chat:hover [class*="icon"]:nth-of-type(3) {
+.chatOpen [class*="icon"]:nth-of-type(3) {
   transform: translate(80px, 0);
 }

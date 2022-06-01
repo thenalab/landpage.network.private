@@ -1,4 +1,5 @@
 .card {
+  $borderColor: #469285;
   position: fixed;
   --spaceX: 6rem;
   --spaceY: 2rem;
@@ -6,8 +7,10 @@
   right: var(--spaceX);
   top: var(--spaceY);
   bottom: var(--spaceY);
-  border: 3px solid rgb(33, 196, 205);
-  border-radius: 1.3rem;
+  border: 3px solid $borderColor;
+  box-shadow:rgba(44, 195, 170, 0.4) 0px 1px 40px 0px;
+  background: rgba(0, 0, 0, 0) linear-gradient(114deg, rgba(105, 99, 99, 0) 0%, rgb(18, 17, 17) 100%) repeat scroll 0% 0%;
+  border-radius: 20px;
   transition: all 0.5s;
 
   .cardInner {
@@ -17,7 +20,7 @@
     right: var(--space);
     top: var(--space);
     bottom: var(--space);
-    border: 3px solid rgb(33, 196, 205);
+    border: 3px solid $borderColor;
     border-radius: 1rem;
     padding: 1.6rem;
 
@@ -113,4 +116,28 @@
 .closeIcon:hover svg {
   transform: translate(-50%, -50%) scale(1.2);
   color: red;
+}
+
+
+@media screen and (max-width: 809px) {
+  .card {
+    --spaceX: 4rem;
+    --spaceY: 2rem;
+    .cardInner {
+      --space: 0.2rem;
+      padding: 1rem;
+    }
+  }
+}
+
+/* On screens that are 600px wide or less */
+@media screen and (max-width: 600px) {
+  .card {
+    --spaceX: 1rem;
+    --spaceY: 1rem;
+    .cardInner {
+      --space: 0.2rem;
+      padding: 0.5rem;
+    }
+  }
 }

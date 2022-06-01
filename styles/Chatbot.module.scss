@@ -1,0 +1,135 @@
+.chatbot {
+  background-color: rgb(20, 32, 32);
+  position: fixed;
+  width: 76px;
+  height: 76px;
+  padding: 8px;
+  border-radius: 20px;
+  right: 32px;
+  bottom: 32px;
+  cursor: pointer;
+
+  .iconWrapper {
+    width: 60px;
+    height: 60px;
+    border-radius: 20px;
+    overflow: hidden;
+
+    video {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+  }
+
+  .chatModal {
+    position: fixed;
+    width: 420px;
+    right: 32px;
+    bottom: 132px;
+    top: 32px;
+    border-radius: 20px;
+    overflow: hidden;
+    background: rgba(0, 0, 0, 0) linear-gradient(rgba(10, 31, 27, 0.5) 0%, rgb(6, 15, 13) 100%) repeat scroll 0% 0%;
+    display: flex;
+    flex-direction: column;
+
+    .chatModalHeader {
+      // background-color: rgb(36, 71, 65);
+      padding: 10px 16px 8px;
+      display: flex;
+      justify-content: space-between;
+      .closeWrapper, .chatWrapper {
+        background-color: rgba(89, 89, 89, 0.2);
+        border-radius: 8px;
+        width: 48px;
+        height: 48px;
+        padding: 8px;
+        svg {
+          transition: all 0.5s;
+        }
+        svg:hover {
+          color: #ED5055;
+          transform: scale(1.2);
+        }
+      }
+    }
+
+    .chatModalBody {
+      flex: 1;
+      background-color: rgba(aqua, 0.1);
+      padding: 10px 16px 8px;
+    }
+
+    .chatModalFooter {
+      background-color: rgb(36, 71, 65);
+      padding: 10px 16px 8px;
+      display: flex;
+      flex-flow: row nowrap;
+      place-content: center space-between;
+      align-items: center;
+
+      .inputWrapper {
+        flex: 1;
+
+        input {
+          width: 100%;
+          font-family: "Inter", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+          color: rgb(255, 255, 253);
+          background-color: rgba(235, 235, 235, 0);
+          border-radius: 8px;
+          line-height: 1.4;
+          padding: 12px;
+          font-size: 16px;
+          font-weight: 400;
+          border: none;
+          outline: none;
+        }
+      }
+
+      .sendWrapper {
+        cursor: pointer;
+        width: 48px;
+        height: 48px;
+        display: grid;
+        place-items: center;
+        svg {
+          width: 32px;
+          height: 32px;
+          fill: rgb(22, 223, 189);
+          color: rgb(22, 223, 189);
+        }
+        &:hover {
+          border: 1px solid rgba(black, 0.2);
+        }
+      }
+    }
+  }
+}
+
+// chatbotOpen {}
+
+.chatbotClose {
+  .chatModal {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 809px) {
+  .chatbot {
+    .chatModal {
+      width: 326px;
+    }
+  }
+}
+
+/* On screens that are 600px wide or less */
+@media screen and (max-width: 600px) {
+  .chatbot {
+    .chatModal {
+      width: auto;
+      left: 12px;
+      right: 12px;
+    }
+  }
+}

@@ -8,6 +8,7 @@ import Team from './cards/Team';
 import Advision from './cards/Advision';
 import Partnership from './cards/Partnership';
 import Contact from './cards/Contact';
+import Chat from 'components/ChatContact';
 
 const navbarData = [
   {
@@ -64,23 +65,26 @@ export default function NavbarHamburger() {
     if(isOpen) setCardProps({});
   }, [isOpen])
   return (
-    <div className={classNames(
-      styles.navbar,
-      isOpen ? styles.navbarOpen : styles.navbarClose
-    )}>
-      <div className='hamburgers' onClick={toogle}>
-        <div className='hamburger'></div>
-        <div className='hamburger'></div>
-        <div className='hamburger'></div>
+    <div className={styles.navbarWrapper}>
+      <div className={classNames(
+        styles.navbar,
+        isOpen ? styles.navbarOpen : styles.navbarClose
+      )}>
+        <div className='hamburgers' onClick={toogle}>
+          <div className='hamburger'></div>
+          <div className='hamburger'></div>
+          <div className='hamburger'></div>
+        </div>
+        <div className='content'>
+          {
+            navbarData.map(({ navText, ...rest }) => (
+              <div key={navText} className='content-item' onClick={() => setCardPropsAndClose(rest)}>{navText}</div>
+            ))
+          }
+        </div>
+        <Card cardProps={cardProps} setCardPropsAndOpen={setCardPropsAndOpen} />
       </div>
-      <div className='content'>
-        {
-          navbarData.map(({ navText, ...rest }) => (
-            <div key={navText} className='content-item' onClick={() => setCardPropsAndClose(rest)}>{navText}</div>
-          ))
-        }
-      </div>
-      <Card cardProps={cardProps} setCardPropsAndOpen={setCardPropsAndOpen} />
+      <Chat />
     </div>
   )
 }

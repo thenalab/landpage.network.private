@@ -8,6 +8,7 @@ import * as styles from 'styles/Details.module.scss'
 import { Card1, Card2, Card3, COLORS } from './Card';
 
 import ArrowRight from 'assets/images/icons/arrow-right.svg';
+import Stat from 'assets/images/icons/stat.svg';
 
 export default function Details() {
   const [isOpen, setIsOpen] = React.useState(true);
@@ -19,7 +20,7 @@ export default function Details() {
     )}>
       <div className='content'>
         <div className='arrow' onClick={toogle}>
-          <ArrowRight />
+          {isOpen ? <ArrowRight /> : <Stat />}
         </div>
         <div className='grid'>
           <Card1 title="Visitor right now" number="681,264" />
